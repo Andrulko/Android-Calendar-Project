@@ -16,47 +16,47 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
-  <string name="app_label">Calendar</string>
+  <string name="app_label">Календар</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <skip></skip>
   <!-- This is the label for the title or name of an event -->
-  <string name="what_label">What</string>
+  <string name="what_label">Що</string>
   <!-- This is the label for the location of an event -->
-  <string name="where_label">Where</string>
+  <string name="where_label">Де</string>
   <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
-  <string name="when_label">When</string>
+  <string name="when_label">Коли</string>
   <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
-  <string name="timezone_label">Time zone</string>
+  <string name="timezone_label">Часовий пояс</string>
   <!-- This is the label for the Guests/Attendees of an event -->
-  <string name="attendees_label">Guests</string>
+  <string name="attendees_label">Гості</string>
   <!-- Text to show when an event starts on the current day -->
-  <string name="today">Today</string>
+  <string name="today">Сьогодні</string>
   <!-- Text to show when an event starts on the next day -->
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">Завтра</string>
   <!-- Text for an event starting on the current day with a start and end time.
          For ex, "Today at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
-  <string name="today_at_time_fmt">"Today at <xliff:g id="time_interval">%s</xliff:g>"</string>
+  <string name="today_at_time_fmt">"Сьогодні в <xliff:g id="time_interval">%s</xliff:g>"</string>
   <!-- Text for an event starting on the next day with a start and end time.
          For ex, "Tomorrow at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
-  <string name="tomorrow_at_time_fmt">"Tomorrow at <xliff:g id="time_interval">%s</xliff:g>"</string>
+  <string name="tomorrow_at_time_fmt">"Завтра в <xliff:g id="time_interval">%s</xliff:g>"</string>
   <!-- Format string for a date and time description.  For ex:
          "April 19, 2012, 3:00pm - 4:00pm" [CHAR LIMIT=NONE] -->
   <string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
   <!-- Some events repeat daily, weekly, monthly, or yearly.  This is the label
          for all the choices about how often an event repeats (including the choice
          of not repeating). -->
-  <string name="repeats_label">Repetition</string>
+  <string name="repeats_label">Повторення</string>
   <!-- Title of event when no explicit title is specified by the user -->
-  <string name="no_title_label">(No title)</string>
+  <string name="no_title_label">(Без назви)</string>
   <!-- Reminder format strings -->
   <plurals name="Nminutes">
     <!-- This is the label for a 1-minute reminder. -->
-    <item quantity="one">1 minute</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> minutes</item>
-    <item quantity="many"><xliff:g id="count">%d</xliff:g> minutes</item>
+    <item quantity="one">1 хвилинний</item>
+    <item quantity="few"><xliff:g id="count">%d</xliff:g> хвилин</item>
+    <item quantity="many"><xliff:g id="count">%d</xliff:g> хвилин</item>
     <!-- This is the label for 2 or more minutes. The actual number of
              minutes is a parameter. -->
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> minutes</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> хвилин</item>
   </plurals>
   <!-- We use the abbreviation "mins" instead of "minutes" to keep the string short.
          This is the number of minutes displayed for a calendar reminder.  For example,
