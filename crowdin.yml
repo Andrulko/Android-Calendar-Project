@@ -3,3 +3,5 @@ files:
     translation: /res/values-%locale%/%original_file_name%
   - source: /*.md
     translation: /%two_letters_code%/%original_file_name%
+  - source: /project.properties
+    translation: /%language%/%original_file_name%
