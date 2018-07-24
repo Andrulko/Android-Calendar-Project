@@ -16,10 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
+  <string name="app_label">Calendrier</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <!-- This is the label for the title or name of an event -->
+  <string name="what_label2">Ryan</string>
+  <string name="what_label">Ce2</string>
   <!-- This is the label for the location of an event -->
+  <string name="where_label">Où</string>
   <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
+  <string name="when_label">Lorsque</string>
   <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
   <!-- This is the label for the Guests/Attendees of an event -->
   <!-- Text to show when an event starts on the current day -->
@@ -77,6 +82,7 @@
          or remove selected calendars. -->
   <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
+  <string name="menu_preferences">"Paramètres"</string>
   <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
   <!-- This is a label on a menu item. Pressing this menu item allows the
@@ -134,6 +140,7 @@
          label before the 'start date'. -->
   <!-- Check box label that specifies if this is an all-day event -->
   <!-- Label for choosing one of the calendars -->
+  <string name="edit_event_calendar_label">Calendrier</string>
   <!-- Menu item to show all choices [CHAR LIMIT=22]-->
   <!-- Label for the event description -->
   <!-- Label for the 'Presence' of an event, which can be either 'busy' (the default)
@@ -260,6 +267,7 @@
          Pressing the menu item lets user to view the current settings
          [CHAR LIMIT=30] -->
   <!-- This is the title of the screen for setting user preferences. -->
+  <string name="preferences_title">"Paramètres"</string>
   <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
   <!-- This is the title of a section in the Settings screen for settings
@@ -289,6 +297,7 @@
   <!-- Build version of the application -->
   <!-- Widget -->
   <!-- Title for calendar gadget when displayed in list of all other gadgets -->
+  <string name="gadget_title">Calendrier</string>
   <!-- Shown in month view next to event icon when additional events exist for that day, but no
         room remaining -->
   <!-- Caption to show on gadget when there are no upcoming calendar events -->
