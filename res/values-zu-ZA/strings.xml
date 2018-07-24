@@ -19,6 +19,7 @@
   <string name="app_label">crwdns211173:0crwdne211173:0</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <!-- This is the label for the title or name of an event -->
+  <string name="what_label2">crwdns211740:0crwdne211740:0</string>
   <string name="what_label">crwdns211174:0crwdne211174:0</string>
   <!-- This is the label for the location of an event -->
   <string name="where_label">crwdns211175:0crwdne211175:0</string>
