@@ -109,33 +109,33 @@
     <skip></skip>
     <!-- This is a label on a context menu item. Pressing this menu item to initiate
         syncing of your Calendar data with the server. [CHAR LIMIT=11] -->
-    <string name="calendar_refresh"> \"Refresh\"</string>
+    <string name="calendar_refresh"> \"Оновити\"</string>
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Agenda view. -->
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Day view. -->
-    <string name="show_day_view">"Show day"</string>
+    <string name="show_day_view">"Показують день"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Agenda view. -->
-    <string name="agenda_view">"Agenda"</string>
+    <string name="agenda_view">"Порядок денний"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Day view. -->
-    <string name="day_view">"Day"</string>
+    <string name="day_view">"День"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Week view. -->
-    <string name="week_view">"Week"</string>
+    <string name="week_view">"Тиждень"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Month view. -->
-    <string name="month_view">"Month"</string>
+    <string name="month_view">"Місяць"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          details of an event. -->
-    <string name="event_view">"View event"</string>
+    <string name="event_view">"Перегляд подій"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to create a new event. -->
-    <string name="event_create">"New event"</string>
+    <string name="event_create">"Нове подія"</string>
     <!-- This is a label on a menu item in a popup window. Pressing this menu
          item allows the user to edit or change an existing event. -->
-    <string name="event_edit">"Edit event"</string>
+    <string name="event_edit">"Редагувати подія"</string>
     <!-- This is a label on a menu item in a popup window. Pressing this menu
          item allows the user to delete an existing event. -->
     <string name="event_delete">"Delete event"</string>
