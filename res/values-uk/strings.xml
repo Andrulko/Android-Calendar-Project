@@ -166,16 +166,16 @@
     <!-- Select Visible Calendars activity -->
     <skip></skip>
     <!-- Title of "My calendars" screen -->
-    <string name="select_visible_calendars_title">"Calendars to display"</string>
+    <string name="select_visible_calendars_title">"Календарі"</string>
     <!-- Synced and visible status message -->
     <!-- Synced but not visible status message -->
     <!-- not Synced or visible status message -->
     <!-- Synced status message displayed when the given calendar is stored/synced on the device
         [CHAR LIMIT=60] -->
-    <string name="synced"> synced</string>
+    <string name="synced"> синхронізовані</string>
     <!-- Not synced status message displayed when the given calendar is not stored/synced on the
         device [CHAR LIMIT=60] -->
-    <string name="not_synced"> not synced</string>
+    <string name="not_synced"> не синхронізуються</string>
     <!-- Message displayed to user when an account with Calendars is not being auto-synced
         [CHAR LIMIT=120]-->
     <string name="acct_not_synced">This account isn\'t being synced so your calendars may
