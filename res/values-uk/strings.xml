@@ -138,20 +138,20 @@
     <string name="event_edit">"Редагувати подія"</string>
     <!-- This is a label on a menu item in a popup window. Pressing this menu
          item allows the user to delete an existing event. -->
-    <string name="event_delete">"Delete event"</string>
+    <string name="event_delete">"Видалити подію"</string>
     <!-- This is a label on a menu item. Pressing this menu
          item takes the user to the current day (today) in whatever view
          (Day view, Week view, Agenda view, Month view) they are currently in. -->
-    <string name="goto_today">"Today"</string>
+    <string name="goto_today">"Сьогодні"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to see the list of calendars that he is viewing and to then add
          or remove selected calendars. -->
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
-    <string name="menu_preferences">"Settings"</string>
+    <string name="menu_preferences">"Параметри"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
-    <string name="menu_select_visible_calendars">"Calendars to display"</string>
+    <string name="menu_select_visible_calendars">"Календарі"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
     <string name="search">"Search"</string>
