@@ -568,7 +568,7 @@
     <!-- Strings that describes actions for buttons without text -->
     <!-- Create a new calendar event [CHAR LIMIT = NONE]-->
     <!-- Remove a name of an attendee from a calendar event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_remove_attendee">Remove attendee</string>
+    <string name="accessibility_remove_attendee">Видалити учасника</string>
     <!-- Pick a starting date for a new event [CHAR LIMIT = NONE]-->
     <string name="accessibility_pick_start_date">Start date</string>
     <!-- Pick a starting time for a new event [CHAR LIMIT = NONE]-->
