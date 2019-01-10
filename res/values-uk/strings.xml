@@ -154,13 +154,13 @@
     <string name="menu_select_visible_calendars">"Календарі"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
-    <string name="search">"Search"</string>
+    <string name="search">"Пошук"</string>
     <!-- This is a label on a menu item. Pressing this menu item hides
          the navigation controls on the right side. [CHAR LIMIT=20] -->
-    <string name="hide_controls">"Hide controls"</string>
+    <string name="hide_controls">"Приховувати елементи управління"</string>
     <!-- This is a label on a menu item. Pressing this menu item shows the
          navigation controls on the right side. [CHAR LIMIT=20] -->
-    <string name="show_controls">"Show controls"</string>
+    <string name="show_controls">"Показати елементи управління"</string>
     <!-- Month view -->
     <skip></skip>
     <!-- Select Visible Calendars activity -->
