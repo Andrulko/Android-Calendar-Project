@@ -290,6 +290,7 @@
     <string name="response_maybe">Maybe</string>
     <!-- Response for whether attending an event - declined [CHAR LIMIT=10]-->
     <string name="response_no">No</string>
+    <string name="response_no2">New Text</string>
     <!-- Label for emailing attendees -->
     <string name="email_guests_label">Email guests</string>
     <!-- Label for emailing the organizer (when there are no attendees) -->
