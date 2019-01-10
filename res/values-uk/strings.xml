@@ -66,7 +66,7 @@
          should use the shortest acceptable abbreviation to save space. -->
     <plurals name="Nmins">
         <!-- This is the label for a 1-minute reminder. -->
-        <item quantity="one">1 min</item>
+        <item quantity="one">1 хв</item>
         <item quantity="few"><xliff:g id="count">%d</xliff:g> mins</item>
         <item quantity="many"><xliff:g id="count">%d</xliff:g> mins</item>
         <!-- This is the label for 2 or more minutes. The actual number of
@@ -99,11 +99,11 @@
     </plurals>
     <!-- This is for displaying the week of the year near the date. Eg. "January, 2011 Week 1" -->
     <plurals name="weekN">
-        <item quantity="one">WEEK <xliff:g id="count">%d</xliff:g></item>
-        <item quantity="few">WEEK <xliff:g id="count">%d</xliff:g></item>
-        <item quantity="many">WEEK <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="one">Тиждень <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="few">Тиждень <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="many">Тиждень <xliff:g id="count">%d</xliff:g></item>
         <!-- Label for displaying week of the year for all week values [CHAR LIMIT=16] -->
-        <item quantity="other">WEEK <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="other">Тиждень <xliff:g id="count">%d</xliff:g></item>
     </plurals>
     <!-- Menu items: -->
     <skip></skip>
