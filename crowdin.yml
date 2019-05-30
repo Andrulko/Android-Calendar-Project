@@ -1,3 +1,6 @@
 files:
   - source: /*.md
     translation: /%locale%/%original_file_name%
+    language_mapping:
+      locale:
+        de: 'Deutsch'
