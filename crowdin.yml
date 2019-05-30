@@ -5,3 +5,5 @@ files:
       locale:
         de: Deutsch
         fr: Kukuku
+  - source: /res/values/strings.xml
+    translation: /test/hello/%locale%/%original_file_name%
