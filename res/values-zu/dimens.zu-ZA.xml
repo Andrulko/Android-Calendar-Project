@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="day_label_text_size">crwdns2501164:0crwdne2501164:0</dimen>
+    <dimen name="all_day_bottom_margin">crwdns2501166:0crwdne2501166:0</dimen>
+    <dimen name="one_day_header_height">crwdns2501168:0crwdne2501168:0</dimen>
+    <dimen name="day_header_bottom_margin">crwdns2501170:0crwdne2501170:0</dimen>
+    <dimen name="date_header_text_size">crwdns2501172:0crwdne2501172:0</dimen>
+    <dimen name="hours_text_size">crwdns2501174:0crwdne2501174:0</dimen>
+    <dimen name="allday_text_size">crwdns2501176:0crwdne2501176:0</dimen>
+    <dimen name="ampm_text_size">crwdns2501178:0crwdne2501178:0</dimen>
+    <dimen name="day_view_event_text_size">crwdns2501180:0crwdne2501180:0</dimen>
+    <dimen name="week_view_event_text_size">crwdns2501182:0crwdne2501182:0</dimen>
+    <dimen name="event_text_vertical_margin">crwdns2501184:0crwdne2501184:0</dimen>
+    <dimen name="event_text_horizontal_margin">crwdns2501186:0crwdne2501186:0</dimen>
+    <dimen name="event_min_height">crwdns2501188:0crwdne2501188:0</dimen>
+    <!-- minimum size of hours column in day/week view -->
+    <dimen name="min_hours_width">crwdns2501190:0crwdne2501190:0</dimen>
+    <!-- margins size of hours column in day/week view -->
+    <dimen name="hours_left_margin">crwdns2501192:0crwdne2501192:0</dimen>
+    <dimen name="hours_right_margin">crwdns2501194:0crwdne2501194:0</dimen>
+    <!-- size of day header in day and week views  -->
+    <dimen name="day_header_height">crwdns2501196:0crwdne2501196:0</dimen>
+    <dimen name="widget_day_num_size">crwdns2501198:0crwdne2501198:0</dimen>
+    <dimen name="widget_day_num_top_padding">crwdns2501200:0crwdne2501200:0</dimen>
+    <dimen name="action_bar_date_text_size">crwdns2501202:0crwdne2501202:0</dimen>
+    <dimen name="new_event_hint_text_size">crwdns2501204:0crwdne2501204:0</dimen>
+    <dimen name="edit_event_view_width">crwdns2501206:0crwdne2501206:0</dimen>
+    <dimen name="edit_event_view_padding_left">crwdns2501208:0crwdne2501208:0</dimen>
+    <dimen name="edit_event_view_padding_right">crwdns2501210:0crwdne2501210:0</dimen>
+    <dimen name="edit_reminder_min_size">crwdns2501212:0crwdne2501212:0</dimen>
+    <dimen name="event_info_text_size">crwdns2501214:0crwdne2501214:0</dimen>
+    <dimen name="event_info_desc_margin_left">crwdns2501216:0crwdne2501216:0</dimen>
+    <dimen name="event_info_desc_margin_right">crwdns2501218:0crwdne2501218:0</dimen>
+    <dimen name="event_info_padding">crwdns2501220:0crwdne2501220:0</dimen>
+    <dimen name="calendar_controls_width">crwdns2501222:0crwdne2501222:0</dimen>
+    <dimen name="min_portrait_calendar_controls_width">crwdns2501224:0crwdne2501224:0</dimen>
+    <dimen name="max_portrait_calendar_controls_width">crwdns2501226:0crwdne2501226:0</dimen>
+    <dimen name="calendar_controls_height">crwdns2501228:0crwdne2501228:0</dimen>
+    <dimen name="agenda_item_right_margin">crwdns2501230:0crwdne2501230:0</dimen>
+    <dimen name="today_icon_text_size">crwdns2501232:0crwdne2501232:0</dimen>
+    <dimen name="color_view_touch_area_increase">crwdns2501234:0crwdne2501234:0</dimen>
+
+    <dimen name="recurrence_picker_height">crwdns2501236:0crwdne2501236:0</dimen>
+    <dimen name="recurrence_picker_width">crwdns2501238:0crwdne2501238:0</dimen>
+</resources>
