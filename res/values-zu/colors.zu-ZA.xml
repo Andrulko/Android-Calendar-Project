@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/Calendar/assets/res/any/colors.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+
+    <color name="pressed">crwdns2500958:0crwdne2500958:0</color>
+
+    <color name="selection">crwdns2500960:0crwdne2500960:0</color>
+
+    <color name="today_highlight_color">crwdns2500962:0crwdne2500962:0</color>
+
+    <!-- The app wide background color -->
+    <color name="background_color">crwdns2500964:0crwdne2500964:0</color>
+    <color name="event_background">crwdns2500966:0crwdne2500966:0</color>
+    <color name="panel_text_foreground">crwdns2500968:0crwdne2500968:0</color>
+    <color name="calendar_event_text_color">crwdns2500970:0crwdne2500970:0</color>
+
+    <color name="calendar_owner_text_color">crwdns2500972:0crwdne2500972:0</color>
+    <color name="calendar_date_range_color">crwdns2500974:0crwdne2500974:0</color>
+
+
+    <color name="week_saturday">crwdns2500976:0crwdne2500976:0</color>
+    <color name="week_sunday">crwdns2500978:0crwdne2500978:0</color>
+    <color name="calendar_future_bg_color">crwdns2500980:0crwdne2500980:0</color>
+    <color name="calendar_hour_label">crwdns2500982:0crwdne2500982:0</color>
+    <color name="calendar_ampm_label">crwdns2500984:0crwdne2500984:0</color>
+    <color name="calendar_hour_background">crwdns2500986:0crwdne2500986:0</color>
+
+    <color name="calendar_date_banner_background">crwdns2500988:0crwdne2500988:0</color>
+
+    <color name="calendar_date_banner_text_color">crwdns2500990:0crwdne2500990:0</color>
+
+    <color name="calendar_grid_area_selected">crwdns2500992:0crwdne2500992:0</color>
+
+
+    <color name="calendar_grid_line_inner_horizontal_color">crwdns2500994:0crwdne2500994:0</color>
+    <color name="calendar_grid_line_inner_vertical_color">crwdns2500996:0crwdne2500996:0</color>
+    <color name="calendar_grid_line_highlight_color">crwdns2500998:0crwdne2500998:0</color>
+
+    <color name="mini_month_bg_color">crwdns2501000:0crwdne2501000:0</color>
+    <color name="mini_month_today_outline_color">crwdns2501002:0crwdne2501002:0</color>
+
+    <color name="month_day_number">crwdns2501004:0crwdne2501004:0</color>
+    <color name="month_mini_day_number">crwdns2501006:0crwdne2501006:0</color>
+    <color name="month_day_number_other">crwdns2501008:0crwdne2501008:0</color>
+    <color name="month_week_num_color">crwdns2501010:0crwdne2501010:0</color>
+    <color name="month_day_names_color">crwdns2501012:0crwdne2501012:0</color>
+    <color name="month_today_number">crwdns2501014:0crwdne2501014:0</color>
+    <color name="month_event_color">crwdns2501016:0crwdne2501016:0</color>
+    <color name="month_event_extra_color">crwdns2501018:0crwdne2501018:0</color>
+    <color name="month_event_other_color">crwdns2501020:0crwdne2501020:0</color>
+    <color name="month_event_extra_other_color">crwdns2501022:0crwdne2501022:0</color>
+    <color name="month_saturday">crwdns2501024:0crwdne2501024:0</color>
+    <color name="month_sunday">crwdns2501026:0crwdne2501026:0</color>
+    <color name="month_grid_lines">crwdns2501028:0crwdne2501028:0</color>
+    <color name="month_other_month_day_number">crwdns2501030:0crwdne2501030:0</color>
+    <color name="month_other_bgcolor">crwdns2501032:0crwdne2501032:0</color>
+    <color name="month_selected_week_bgcolor">crwdns2501034:0crwdne2501034:0</color>
+    <color name="month_today_bgcolor">crwdns2501036:0crwdne2501036:0</color>
+    <color name="month_bgcolor">crwdns2501038:0crwdne2501038:0</color>
+
+    <color name="month_dna_conflict_time_color">crwdns2501040:0crwdne2501040:0</color>
+
+    <color name="event_center">crwdns2501042:0crwdne2501042:0</color>
+    <color name="edit_event_separator">crwdns2501044:0crwdne2501044:0</color>
+
+    <color name="calendar_visible">crwdns2501046:0crwdne2501046:0</color>
+    <color name="calendar_hidden">crwdns2501048:0crwdne2501048:0</color>
+    <color name="calendar_secondary_visible">crwdns2501050:0crwdne2501050:0</color>
+    <color name="calendar_secondary_hidden">crwdns2501052:0crwdne2501052:0</color>
+
+    <!-- Text color of the date in the Calendar widget -->
+
+    <color name="agenda_item_not_selected">crwdns2501054:0crwdne2501054:0</color>
+    <!-- Text color of declined events in agenda view -->
+    <color name="agenda_item_declined_color">crwdns2501056:0crwdne2501056:0</color>
+    <!-- Text color of non-declined events in agenda view -->
+    <color name="agenda_item_standard_color">crwdns2501058:0crwdne2501058:0</color>
+    <!-- Background Color of present/future events in agenda view  -->
+    <color name="agenda_day_bar_background_color">crwdns2501060:0crwdne2501060:0</color>
+    <!-- Background Color of past events in agenda view  -->
+    <color name="agenda_past_days_bar_background_color">crwdns2501062:0crwdne2501062:0</color>
+    <!-- Color of the separator between the past and the present/future in agenda view  -->
+    <color name="agenda_past_present_separator_color">crwdns2501064:0crwdne2501064:0</color>
+    <!-- General background color in agenda view  -->
+    <color name="agenda_general_background_color">crwdns2501066:0crwdne2501066:0</color>
+    <!-- Agenda day item text color  -->
+    <color name="agenda_day_item_text_color">crwdns2501068:0crwdne2501068:0</color>
+    <!-- Color of the event location's text in an agenda item  -->
+    <color name="agenda_item_where_text_color">crwdns2501070:0crwdne2501070:0</color>
+    <!-- Color of the event location's text in an agenda item  -->
+    <color name="agenda_item_where_declined_text_color">crwdns2501072:0crwdne2501072:0</color>
+    <!-- Color of text in the calendar view selection menu -->
+    <color name="calendar_view_switch_menu_text_color">crwdns2501074:0crwdne2501074:0</color>
+    <!-- Light color of text in the calendar view selection menu -->
+    <color name="calendar_view_switch_menu_text_color_light">crwdns2501076:0crwdne2501076:0</color>
+    <!-- Color of the separator between items in the agenda list -->
+    <color name="agenda_list_separator_color">crwdns2501078:0crwdne2501078:0</color>
+    <!-- Text color of a selected items in the agenda list - trumps all other text colors -->
+    <color name="agenda_selected_background_color">crwdns2501080:0crwdne2501080:0</color>
+    <!-- Background color of a selected items in the agenda list -->
+    <color name="agenda_selected_text_color">crwdns2501082:0crwdne2501082:0</color>
+    <!-- Text color of the "new event" hint in day and week views -->
+    <color name="new_event_hint_text_color">crwdns2501084:0crwdne2501084:0</color>
+
+    <!-- Text color of a clicked event in the day/week view -->
+    <color name="day_event_clicked_background_color">crwdns2501086:0crwdne2501086:0</color>
+    <!-- background color for for clicked days in month view-->
+    <color name="day_clicked_background_color">crwdns2501088:0crwdne2501088:0</color>
+    <!-- background color for the past -->
+    <color name="day_past_background_color">crwdns2501090:0crwdne2501090:0</color>
+
+    <!-- Event info colors -->
+    <color name="event_info_headline_color">crwdns2501092:0crwdne2501092:0</color>
+    <color name="event_info_headline_transparent_color">crwdns2501094:0crwdne2501094:0</color>
+    <color name="event_info_headline_link_color">crwdns2501096:0crwdne2501096:0</color>
+    <color name="event_info_organizer_color">crwdns2501098:0crwdne2501098:0</color>
+    <color name="event_info_description_color">crwdns2501100:0crwdne2501100:0</color>
+    <color name="event_info_body_color">crwdns2501102:0crwdne2501102:0</color>
+    <color name="event_info_label_color">crwdns2501104:0crwdne2501104:0</color>
+    <color name="event_info_label_background_color">crwdns2501106:0crwdne2501106:0</color>
+
+    <!-- Create event colors -->
+    <color name="create_event_date_color">crwdns2501108:0crwdne2501108:0</color>
+    <color name="create_event_more_details_color">crwdns2501110:0crwdne2501110:0</color>
+    <color name="create_event_divider_color">crwdns2501112:0crwdne2501112:0</color>
+
+    <color name="text_shadow_color">crwdns2501114:0crwdne2501114:0</color>
+
+    <color name="alert_event_title">crwdns2501116:0crwdne2501116:0</color>
+    <color name="alert_event_other">crwdns2501118:0crwdne2501118:0</color>
+    <color name="alert_past_event">crwdns2501120:0crwdne2501120:0</color>
+
+    <color name="appwidget_row_in_progress">crwdns2501122:0crwdne2501122:0</color>
+
+    <color name="appwidget_date">crwdns2501124:0crwdne2501124:0</color>
+    <color name="appwidget_week">crwdns2501126:0crwdne2501126:0</color>
+    <color name="appwidget_month">crwdns2501128:0crwdne2501128:0</color>
+
+    <!-- Text color of declined events in widget view -->
+    <color name="appwidget_item_declined_color">crwdns2501130:0crwdne2501130:0</color>
+    <!-- Text color of non-declined events in widget view -->
+    <color name="appwidget_item_standard_color">crwdns2501132:0crwdne2501132:0</color>
+    <!-- Text color for all day events in widget view -->
+    <color name="appwidget_item_allday_color">crwdns2501134:0crwdne2501134:0</color>
+
+    <color name="appwidget_title">crwdns2501136:0crwdne2501136:0</color>
+    <color name="appwidget_when">crwdns2501138:0crwdne2501138:0</color>
+    <color name="appwidget_where">crwdns2501140:0crwdne2501140:0</color>
+    <color name="appwidget_no_events">crwdns2501142:0crwdne2501142:0</color>
+
+    <color name="recurrence_picker_background">crwdns2501144:0crwdne2501144:0</color>
+    <color name="recurrence_bubble_text_normal">crwdns2501146:0crwdne2501146:0</color>
+</resources>
