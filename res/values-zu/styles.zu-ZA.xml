@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/Calendar/assets/res/any/styles.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="MinusButton">
+        <item name="android:background">crwdns2501264:0crwdne2501264:0</item>
+        <item name="android:src">crwdns2501266:0crwdne2501266:0</item>
+    </style>
+
+    <style name="MonthView_DayLabel">
+        <item name="android:layout_width">crwdns2501268:0crwdne2501268:0</item>
+        <item name="android:layout_height">crwdns2501270:0crwdne2501270:0</item>
+        <item name="android:layout_weight">crwdns2501272:0crwdne2501272:0</item>
+        <item name="android:gravity">crwdns2501274:0crwdne2501274:0</item>
+        <item name="android:paddingTop">crwdns2501276:0crwdne2501276:0</item>
+        <item name="android:paddingBottom">crwdns2501278:0crwdne2501278:0</item>
+        <item name="android:textAppearance">crwdns2501280:0crwdne2501280:0</item>
+    </style>
+
+    <style name="MonthView_MiniMonthLabel">
+        <item name="android:gravity">crwdns2501282:0crwdne2501282:0</item>
+        <item name="android:paddingTop">crwdns2501284:0crwdne2501284:0</item>
+        <item name="android:paddingBottom">crwdns2501286:0crwdne2501286:0</item>
+        <item name="android:textSize">crwdns2501288:0crwdne2501288:0</item>
+        <item name="android:textStyle">crwdns2501290:0crwdne2501290:0</item>
+        <item name="android:textColor">crwdns2501292:0crwdne2501292:0</item>
+    </style>
+
+    <style name="TextAppearance" parent="android:TextAppearance">
+    </style>
+
+    <style name="TextAppearance.SelectCalendar_Name">
+        <item name="android:textSize">crwdns2501294:0crwdne2501294:0</item>
+    </style>
+
+    <style name="TextAppearance.MonthView_MiniDayLabel">
+        <item name="android:textSize">crwdns2501296:0crwdne2501296:0</item>
+        <item name="android:textStyle">crwdns2501298:0crwdne2501298:0</item>
+        <item name="android:textColor">crwdns2501300:0crwdne2501300:0</item>
+    </style>
+
+    <style name="TextAppearance.MonthView_DayLabel">
+        <item name="android:textSize">crwdns2501302:0crwdne2501302:0</item>
+        <item name="android:paddingLeft">crwdns2501304:0crwdne2501304:0</item>
+        <item name="android:textColor">crwdns2501306:0crwdne2501306:0</item>
+    </style>
+
+    <style name="TextAppearance.AgendaView_ValueLabel">
+        <item name="android:textSize">crwdns2501308:0crwdne2501308:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Label">
+        <item name="android:textAppearance">crwdns2501310:0crwdne2501310:0</item>
+        <item name="android:minHeight">crwdns2501312:0crwdne2501312:0</item>
+        <item name="android:layout_width">crwdns2501314:0crwdne2501314:0</item>
+        <item name="android:layout_marginLeft">crwdns2501316:0crwdne2501316:0</item>
+        <item name="android:layout_marginRight">crwdns2501318:0crwdne2501318:0</item>
+        <item name="android:paddingLeft">crwdns2501320:0crwdne2501320:0</item>
+        <item name="android:paddingRight">crwdns2501322:0crwdne2501322:0</item>
+        <item name="android:gravity">crwdns2501324:0crwdne2501324:0</item>
+        <item name="android:layout_gravity">crwdns2501326:0crwdne2501326:0</item>
+        <item name="android:textSize">crwdns2501328:0crwdne2501328:0</item>
+        <item name="android:textColor">crwdns2501330:0crwdne2501330:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Button" parent="TextAppearance.EditEvent_Label">
+        <item name="android:textColor">crwdns2501332:0crwdne2501332:0</item>
+    </style>
+
+    <style name="TextAppearance.Recurrence_Button" parent="TextAppearance.EditEvent_Label">
+        <item name="android:textColor">crwdns2501334:0crwdne2501334:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_LabelSmall" parent="TextAppearance.EditEvent_Small">
+        <item name="android:minHeight">crwdns2501336:0crwdne2501336:0</item>
+        <item name="android:layout_width">crwdns2501338:0crwdne2501338:0</item>
+        <item name="android:layout_marginLeft">crwdns2501340:0crwdne2501340:0</item>
+        <item name="android:layout_marginRight">crwdns2501342:0crwdne2501342:0</item>
+        <item name="android:paddingLeft">crwdns2501344:0crwdne2501344:0</item>
+        <item name="android:paddingRight">crwdns2501346:0crwdne2501346:0</item>
+        <item name="android:layout_marginBottom">crwdns2501348:0crwdne2501348:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Small">
+        <item name="android:textAppearance">crwdns2501350:0crwdne2501350:0</item>
+        <item name="android:textSize">crwdns2501352:0crwdne2501352:0</item>
+        <item name="android:textColor">crwdns2501354:0crwdne2501354:0</item>
+        <item name="android:textAllCaps">crwdns2501356:0crwdne2501356:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent">
+        <item name="android:textAppearance">crwdns2501358:0crwdne2501358:0</item>
+        <item name="android:textSize">crwdns2501360:0crwdne2501360:0</item>
+        <item name="android:textColor">crwdns2501362:0crwdne2501362:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Value" parent="TextAppearance.EditEvent">
+        <item name="android:gravity">crwdns2501364:0crwdne2501364:0</item>
+        <item name="android:layout_gravity">crwdns2501366:0crwdne2501366:0</item>
+        <item name="android:layout_marginRight">crwdns2501368:0crwdne2501368:0</item>
+        <item name="android:layout_marginLeft">crwdns2501370:0crwdne2501370:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEventCalSpinner">
+        <item name="android:textAppearance">crwdns2501372:0crwdne2501372:0</item>
+        <item name="android:textSize">crwdns2501374:0crwdne2501374:0</item>
+        <item name="android:textColor">crwdns2501376:0crwdne2501376:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_CalSpinnerValue" parent="TextAppearance.EditEventCalSpinner">
+        <item name="android:paddingLeft">crwdns2501378:0crwdne2501378:0</item>
+        <item name="android:paddingRight">crwdns2501380:0crwdne2501380:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_Spinner" parent="android:style/Widget.Holo.Light.Spinner">
+        <item name="android:textSize">crwdns2501382:0crwdne2501382:0</item>
+        <item name="android:textColor">crwdns2501384:0crwdne2501384:0</item>
+        <item name="android:layout_marginRight">crwdns2501386:0crwdne2501386:0</item>
+        <item name="android:layout_marginLeft">crwdns2501388:0crwdne2501388:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_SpinnerButton" parent="TextAppearance.EditEvent_Spinner">
+        <item name="android:paddingLeft">crwdns2501390:0crwdne2501390:0</item>
+        <item name="android:paddingRight">crwdns2501392:0crwdne2501392:0</item>
+    </style>
+
+    <style name="TextAppearance.EditEvent_homeTime">
+        <item name="android:textAppearance">crwdns2501394:0crwdne2501394:0</item>
+        <item name="android:textSize">crwdns2501396:0crwdne2501396:0</item>
+        <item name="android:textColor">crwdns2501398:0crwdne2501398:0</item>
+        <item name="android:paddingRight">crwdns2501400:0crwdne2501400:0</item>
+        <item name="android:singleLine">crwdns2501402:0crwdne2501402:0</item>
+    </style>
+
+    <style name="TextAppearance.EventInfo_Label">
+        <item name="android:textAppearance">crwdns2501404:0crwdne2501404:0</item>
+        <item name="android:textSize">crwdns2501406:0crwdne2501406:0</item>
+        <item name="android:paddingLeft">crwdns2501408:0crwdne2501408:0</item>
+    </style>
+
+    <style name="EditEvent_Layout" parent="android:Theme.Holo.Light">
+    </style>
+
+    <style name="TextAppearance.Date_Range_Title">
+        <item name="android:textSize">crwdns2501410:0crwdne2501410:0</item>
+        <item name="android:textColor">crwdns2501412:0crwdne2501412:0</item>
+    </style>
+
+    <style name="CalendarTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowContentOverlay">crwdns2501414:0crwdne2501414:0</item>
+    </style>
+
+    <style name="CalendarTheme.WithActionBar" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">crwdns2501416:0crwdne2501416:0</item>
+        <item name="android:windowActionBar">crwdns2501418:0crwdne2501418:0</item>
+        <item name="android:windowBackground">crwdns2501420:0crwdne2501420:0</item>
+        <item name="android:actionBarStyle">crwdns2501422:0crwdne2501422:0</item>
+        <item name="android:endYear">crwdns2501424:0crwdne2501424:0</item>
+        <item name="android:startYear">crwdns2501426:0crwdne2501426:0</item>
+    </style>
+
+    <style name="CalendarActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:displayOptions">crwdns2501428:0crwdne2501428:0</item>
+    </style>
+
+    <style name="CalendarTheme.WithActionBarWallpaper" parent="CalendarTheme.WithActionBar">
+        <item name="android:windowBackground">crwdns2501430:0crwdne2501430:0</item>
+        <item name="android:colorBackgroundCacheHint">crwdns2501432:0crwdne2501432:0</item>
+        <item name="android:windowShowWallpaper">crwdns2501434:0crwdne2501434:0</item>
+    </style>
+
+    <style name="MultiStateButton">
+        <item name="android:focusable">crwdns2501436:0crwdne2501436:0</item>
+        <item name="android:clickable">crwdns2501438:0crwdne2501438:0</item>
+        <item name="android:textAppearance">crwdns2501440:0crwdne2501440:0</item>
+        <item name="android:gravity">crwdns2501442:0crwdne2501442:0</item>
+    </style>
+
+    <style name="EditEventSeparator">
+        <item name="android:layout_height">crwdns2501444:0crwdne2501444:0</item>
+        <item name="android:layout_width">crwdns2501446:0crwdne2501446:0</item>
+        <item name="android:layout_marginTop">crwdns2501448:0crwdne2501448:0</item>
+        <item name="android:layout_marginBottom">crwdns2501450:0crwdne2501450:0</item>
+        <item name="android:background">crwdns2501452:0crwdne2501452:0</item>
+        <item name="android:visibility">crwdns2501454:0crwdne2501454:0</item>
+    </style>
+
+    <style name="EditEventCustomActionButton" parent="android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:layout_height">crwdns2501456:0crwdne2501456:0</item>
+        <item name="android:layout_width">crwdns2501458:0crwdne2501458:0</item>
+        <item name="android:layout_weight">crwdns2501460:0crwdne2501460:0</item>
+        <item name="android:focusable">crwdns2501462:0crwdne2501462:0</item>
+        <item name="android:orientation">crwdns2501464:0crwdne2501464:0</item>
+    </style>
+
+    <style name="EditEventCustomActionButtonImage">
+        <item name="android:layout_height">crwdns2501466:0crwdne2501466:0</item>
+        <item name="android:layout_width">crwdns2501468:0crwdne2501468:0</item>
+        <item name="android:padding">crwdns2501470:0crwdne2501470:0</item>
+    </style>
+
+    <style name="EditEventCustomActionButtonText">
+        <item name="android:layout_height">crwdns2501472:0crwdne2501472:0</item>
+        <item name="android:layout_width">crwdns2501474:0crwdne2501474:0</item>
+        <item name="android:textAppearance">crwdns2501476:0crwdne2501476:0</item>
+        <item name="android:textColor">crwdns2501478:0crwdne2501478:0</item>
+        <item name="android:orientation">crwdns2501480:0crwdne2501480:0</item>
+        <item name="android:singleLine">crwdns2501482:0crwdne2501482:0</item>
+        <item name="android:ellipsize">crwdns2501484:0crwdne2501484:0</item>
+        <item name="android:padding">crwdns2501486:0crwdne2501486:0</item>
+    </style>
+
+    <style name="WidgetDayOfWeekStyle">
+        <item name="android:layout_width">crwdns2501488:0crwdne2501488:0</item>
+        <item name="android:layout_height">crwdns2501490:0crwdne2501490:0</item>
+        <item name="android:layout_marginBottom">crwdns2501492:0crwdne2501492:0</item>
+        <item name="android:textSize">crwdns2501494:0crwdne2501494:0</item>
+        <item name="android:textAllCaps">crwdns2501496:0crwdne2501496:0</item>
+
+        <item name="android:textStyle">crwdns2501498:0crwdne2501498:0</item>
+        <item name="android:gravity">crwdns2501500:0crwdne2501500:0</item>
+        <item name="android:singleLine">crwdns2501502:0crwdne2501502:0</item>
+    </style>
+
+    <style name="WidgetDateStyle">
+        <item name="android:layout_width">crwdns2501504:0crwdne2501504:0</item>
+        <item name="android:layout_height">crwdns2501506:0crwdne2501506:0</item>
+        <item name="android:textSize">crwdns2501508:0crwdne2501508:0</item>
+        <item name="android:gravity">crwdns2501510:0crwdne2501510:0</item>
+        <item name="android:layout_marginTop">crwdns2501512:0crwdne2501512:0</item>
+        <item name="android:singleLine">crwdns2501514:0crwdne2501514:0</item>
+    </style>
+
+    <style name="NotificationPrimaryText" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+
+    <style name="NotificationSecondaryText" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">crwdns2501516:0crwdne2501516:0</item>
+    </style>
+
+    <style name="TextAppearance.RecurrencePickerStyle">
+        <item name="android:textSize">crwdns2501518:0crwdne2501518:0</item>
+    </style>
+
+    <style name="TextAppearance.Recurrence_SpinnerButton" parent="android:style/Widget.Holo.Light.Spinner"/>
+
+    <style name="RecurrenceDayOfWeekStyle">
+        <item name="android:layout_width">crwdns2501520:0crwdne2501520:0</item>
+        <item name="android:layout_height">crwdns2501522:0crwdne2501522:0</item>
+        <item name="android:layout_marginTop">crwdns2501524:0crwdne2501524:0</item>
+        <item name="android:layout_marginBottom">crwdns2501526:0crwdne2501526:0</item>
+        <item name="android:layout_marginLeft">crwdns2501528:0crwdne2501528:0</item>
+        <item name="android:layout_marginRight">crwdns2501530:0crwdne2501530:0</item>
+        <item name="android:layout_weight">crwdns2501532:0crwdne2501532:0</item>
+        <item name="android:textColor">crwdns2501534:0crwdne2501534:0</item>
+        <item name="android:textAllCaps">crwdns2501536:0crwdne2501536:0</item>
+        <item name="android:textSize">crwdns2501538:0crwdne2501538:0</item>
+        <item name="android:textStyle">crwdns2501540:0crwdne2501540:0</item>
+        <item name="android:singleLine">crwdns2501542:0crwdne2501542:0</item>
+        <item name="android:background">crwdns2501544:0crwdne2501544:0</item>
+        <item name="android:paddingLeft">crwdns2501546:0crwdne2501546:0</item>
+        <item name="android:paddingRight">crwdns2501548:0crwdne2501548:0</item>
+        <item name="android:paddingTop">crwdns2501550:0crwdne2501550:0</item>
+        <item name="android:paddingBottom">crwdns2501552:0crwdne2501552:0</item>
+        </style>
+</resources>
