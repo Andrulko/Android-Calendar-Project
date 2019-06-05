@@ -1,9 +1,4 @@
 files:
-  - source: /*.md
-    translation: /%locale%/%original_file_name%
-    languages_mapping:
-      locale:
-        de: Deutsch
-        fr: Kukuku
   - source: /res/values/strings.xml
-    translation: /test/hello/%locale%/%original_file_name%
+    translation: /res/values-%two_letters_code%/%file_name%.%locale%.xml
+    translate_attributes: 0
