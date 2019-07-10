@@ -45,9 +45,9 @@
         <item>45 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
-        <item>3 hours</item>
+        <item>3 Stunden</item>
         <item>12 hours</item>
-        <item>24 hours</item>
+        <item>24 Stunden</item>
         <item>2 days</item>
         <item>1 week</item>
     </string-array>
@@ -56,7 +56,7 @@
          [CHAR LIMIT=12]
     -->
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
+        <item>Keine</item>
         <item>0 minutes</item>
         <item>1 minute</item>
         <item>5 minutes</item>
@@ -68,9 +68,9 @@
         <item>45 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
-        <item>3 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
+        <item>3 Stunden</item>
+        <item>12 Stunden</item>
+        <item>24 Stunden</item>
         <item>2 days</item>
         <item>1 week</item>
     </string-array>
@@ -101,9 +101,9 @@
     <!-- Invitation responses -->
     <string-array name="response_labels1">
         <item>No response</item>
-        <item>Yes</item>
+        <item>Ja</item>
         <item>Maybe</item>
-        <item>No</item>
+        <item>Nein</item>
     </string-array>
     <!-- The corresponding indices are defined in DeleteEventHelper.java -->
     <!-- This is a list of choices displayed when the user deletes an event.
