@@ -16,7 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="app_label">Calendar Hellos</string>
+    <string name="app_label21312312">Drive</string>
+    <string name="app_label">Hello Hello Hello</string>
     <string name="mail-system">Welcome to Mail System!</string>
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip></skip>
