@@ -20,12 +20,11 @@
     <string name="app_label">Hello Hello Hello</string>
     <string name="mail-system">Welcome to Mail System!</string>
     <!-- Shared Labels. These labels are shared among the activities. -->
-    <skip></skip>
     <!-- This is the label for the title or name of an event -->
     <string name="mail2">Send message to %s</string>
     <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
-    <string name="where_label">Dabei</string>
+    <string name="where_label">Where</string>
     <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
     <string name="when_label">When</string>
     <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
@@ -33,7 +32,7 @@
     <!-- This is the label for the Guests/Attendees of an event -->
     <string name="attendees_label">Guests</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Tastatur2</string>
+    <string name="today">Keyboard</string>
     <!-- Text to show when an event starts on the next day -->
     <string name="tomorrow">Tomorrow</string>
     <!-- Text for an event starting on the current day with a start and end time.
@@ -97,7 +96,6 @@
         <item quantity="other">WEEK <xliff:g id="count">%d</xliff:g></item>
     </plurals>
     <!-- Menu items: -->
-    <skip></skip>
     <!-- This is a label on a context menu item. Pressing this menu item to initiate
         syncing of your Calendar data with the server. [CHAR LIMIT=11] -->
     <string name="calendar_refresh"> \"Refresh\"</string>
@@ -139,7 +137,7 @@
          or remove selected calendars. -->
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
-    <string name="menu_preferences">"Einstellungen"</string>
+    <string name="menu_preferences">"Settings"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
     <string name="menu_select_visible_calendars">"Calendars to display"</string>
@@ -153,9 +151,7 @@
          navigation controls on the right side. [CHAR LIMIT=20] -->
     <string name="show_controls">"Show controls"</string>
     <!-- Month view -->
-    <skip></skip>
     <!-- Select Visible Calendars activity -->
-    <skip></skip>
     <!-- Title of "My calendars" screen -->
     <string name="select_visible_calendars_title">"Calendars to display"</string>
     <!-- Synced and visible status message -->
@@ -179,7 +175,6 @@
     <!-- Select the set of calendars to sync [CHAR LIMIT=60] -->
     <string name="select_synced_calendars_button">Calendars to sync</string>
     <!-- Event edit activity -->
-    <skip></skip>
     <!-- The title of the screen where the user edits an event [CHAR LIMIT=17] -->
     <!-- Default value of What field (as a hint to the user) [CHAR LIMIT=15] -->
     <string name="hint_what">"Event name"</string>
@@ -204,24 +199,19 @@
     <!-- Body of message displayed to indicate available calendars are being loaded when creating
          a new event -->
     <!-- Create event dialog -->
-    <skip></skip>
     <!-- Create event dialog save button [CHAR LIMIT=10] -->
     <string name="create_event_dialog_save">Save</string>
     <!-- The alert toast is not actually being displayed for some reason. -->
-    <skip></skip>
     <!-- the title of the alert/notification activity -->
     <string name="alert_title">Calendar notifications</string>
     <!-- Notification window messages: -->
-    <skip></skip>
     <!-- Event info/edit screen labels:-->
-    <skip></skip>
     <!-- This is the title of the screen used to view the details of an event -->
     <string name="event_info_title">View event</string>
     <!-- This is the title of the screen used to view the details of an invitation
          to a meeting or event -->
     <string name="event_info_title_invite">Meeting invitation</string>
     <!-- EditEventActivity specific strings: -->
-    <skip></skip>
     <!-- Events have a start date/time and an end date/time. The display shows
          the start and end times like 'From start date To end date'. This is the
          label before the 'end date'. -->
@@ -255,7 +245,6 @@
     <!-- Title of a button shown when there is no account available and the system prompt a user to add one. [CHAR LIMIT=none] -->
     <string name="add_account">Add account</string>
     <!-- View Event -->
-    <skip></skip>
     <!-- Label for which calendar an event is part of -->
     <string name="view_event_calendar_label">Calendar:</string>
     <!-- Label for the event organizer -->
@@ -276,11 +265,11 @@
          'yes', 'no', and 'maybe' (and, initially, 'no response'). -->
     <string name="view_event_response_label">Attending?</string>
     <!-- Response for whether attending an event - accepted [CHAR LIMIT=10]-->
-    <string name="response_yes">Ja</string>
+    <string name="response_yes">Yes</string>
     <!-- Response for whether attending an event - tentative [CHAR LIMIT=10]-->
     <string name="response_maybe">Maybe</string>
     <!-- Response for whether attending an event - declined [CHAR LIMIT=10]-->
-    <string name="response_no">Nein</string>
+    <string name="response_no">No</string>
     <string name="response_no2">New Text</string>
     <!-- Label for emailing attendees -->
     <string name="email_guests_label">Email guests</string>
@@ -324,7 +313,6 @@
     <!-- Reminders label [CHAR LIMIT=15]-->
     <string name="event_info_reminders_label">Reminders</string>
     <!-- Agenda View strings -->
-    <skip></skip>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
     <string name="agenda_today">TODAY, <xliff:g id="date">%1$s</xliff:g></string>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
@@ -338,11 +326,9 @@
     <!-- This is shown at the bottom of the agenda view showing the end of the searched range. If the user taps on this string and Calendar will find events later/newer than what is visible and display them to the user -->
     <string name="show_newer_events">Touch to view events after <xliff:g id="newest_search_range">%1$s</xliff:g></string>
     <!-- Search activity strings -->
-    <skip></skip>
     <!-- Title of the search screen [CHAR LIMIT=30] -->
     <string name="search_title">Search my calendars</string>
     <!-- Button labels: -->
-    <skip></skip>
     <!-- This is the title of a popup window that is displayed when the user
          edits a repeating event. [CHAR LIMIT=20]-->
     <string name="edit_event_label">"Details"</string>
@@ -353,11 +339,10 @@
     <string name="delete_label">"Delete"</string>
     <!-- A menu item for deleting an event -->
     <!-- The button label for saving an event -->
-    <string name="save_label">Fertig</string>
+    <string name="save_label">Done</string>
     <!-- The button label for discarding changes to an event -->
     <string name="discard_label">Cancel</string>
     <!-- Button labels on expanded notification reminders: -->
-    <skip></skip>
     <!-- The button label for making the reminder alarms go away temporarily.
          The reminder alarms will fire off again in 5 minutes. -->
     <string name="snooze_all_label">"Snooze all"</string>
@@ -368,7 +353,6 @@
          and re-fire in 5 minutes. [CHAR LIMIT=12]-->
     <string name="snooze_label">"Snooze"</string>
     <!-- Repetition dialog options: -->
-    <skip></skip>
     <!-- A label in a multiple-choice list for the specifying that an event does
          not repeat -->
     <string name="does_not_repeat">One-time event</string>
@@ -385,7 +369,7 @@
     </plurals>
     <!-- A description for an event that repeats daily. For example, Every 2 days [CHAR LIMIT=15]-->
     <plurals name="daily">
-        <item quantity="one">Tag</item>
+        <item quantity="one">Daily</item>
         <item quantity="other">Every <xliff:g id="number">%d</xliff:g> days</item>
     </plurals>
     <!-- A label in a multiple-choice list for the specifying that an event
@@ -399,7 +383,7 @@
     </plurals>
     <!-- The common portion of a string describing how often an event repeats,
          example: 'Monthly (on day 2)' -->
-    <string name="monthly">Monat</string>
+    <string name="monthly">Monthly</string>
     <!-- Calendar spinner item, to select that an event recurs every year. -->
     <string name="yearly_plain">Yearly</string>
     <!-- Example: "Monthly (on day 15)" -->
@@ -433,7 +417,6 @@
     <!-- This is the button to create a new event in a dialog window. [CHAR LIMIT=30] -->
     <string name="new_event_dialog_option">"New event"</string>
     <!-- Confirmation dialog message -->
-    <skip></skip>
     <!-- This is a confirmation message in a popup dialog that appears when the
          user has asked to delete an event. The user still has a chance to cancel
          this operation. -->
@@ -454,7 +437,7 @@
          [CHAR LIMIT=30] -->
     <string name="menu_about_preferences">About Calendar</string>
     <!-- This is the title of the screen for setting user preferences. -->
-    <string name="preferences_title">"Einstellungen"</string>
+    <string name="preferences_title">"Settings"</string>
     <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
     <string name="preferences_general_title">Calendar view setting</string>
@@ -506,7 +489,6 @@
     <!-- Build version of the application -->
     <string name="preferences_build_version">Build version</string>
     <!-- Widget -->
-    <skip></skip>
     <!-- Title for calendar gadget when displayed in list of all other gadgets -->
     <string name="gadget_title">Calendar</string>
     <!-- Shown in month view next to event icon when additional events exist for that day, but no
