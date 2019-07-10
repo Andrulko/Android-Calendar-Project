@@ -34,20 +34,20 @@
          [CHAR LIMIT=15]
     -->
     <string-array name="reminder_minutes_labels">
-        <item>0 minutos</item>
+        <item>0 minutes</item>
         <item>1 minute</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
         <item>20 minutes</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
-        <item>3 horas</item>
+        <item>3 hours</item>
         <item>12 hours</item>
-        <item>24 horas</item>
+        <item>24 hours</item>
         <item>2 days</item>
         <item>1 week</item>
     </string-array>
@@ -56,21 +56,21 @@
          [CHAR LIMIT=12]
     -->
     <string-array name="preferences_default_reminder_labels">
-        <item>Ninguna</item>
-        <item>0 minutos</item>
+        <item>None</item>
+        <item>0 minutes</item>
         <item>1 minute</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
         <item>20 minutes</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
-        <item>3 horas</item>
+        <item>3 hours</item>
         <item>12 hours</item>
-        <item>24 horas</item>
+        <item>24 hours</item>
         <item>2 days</item>
         <item>1 week</item>
     </string-array>
@@ -101,7 +101,7 @@
     <!-- Invitation responses -->
     <string-array name="response_labels1">
         <item>No response</item>
-        <item>Sí</item>
+        <item>Yes</item>
         <item>Maybe</item>
         <item>No</item>
     </string-array>
@@ -109,7 +109,6 @@
     <!-- This is a list of choices displayed when the user deletes an event.
          It only is shown when deleting a recurring event.
     -->
-    <skip></skip>
     <string-array name="delete_repeating_labels">
         <item>Only this event</item>
         <item>This and future events</item>
@@ -124,13 +123,11 @@
          code where you can't delete one instance of a repeating event that
          was created on the phone until that event has been synced to the server.
      -->
-    <skip></skip>
     <string-array name="delete_repeating_labels_no_selected">
         <item>This &amp; future events</item>
         <item>All events</item>
     </string-array>
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
-    <skip></skip>
     <!-- The list of choices displayed in a dialog box when the user wants to
     respond to an invitation that repeats. -->
     <string-array name="change_response_labels">
