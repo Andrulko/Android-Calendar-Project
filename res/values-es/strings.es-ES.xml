@@ -454,7 +454,7 @@
          [CHAR LIMIT=30] -->
     <string name="menu_about_preferences">About Calendar</string>
     <!-- This is the title of the screen for setting user preferences. -->
-    <string name="preferences_title">"Settings"</string>
+    <string name="preferences_title">"Ajustes"</string>
     <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
     <string name="preferences_general_title">Calendar view setting</string>
