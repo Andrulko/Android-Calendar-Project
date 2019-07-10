@@ -25,7 +25,7 @@
     <string name="mail2">Send message to %s</string>
     <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
-    <string name="where_label">Where</string>
+    <string name="where_label">Dabei</string>
     <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
     <string name="when_label">When</string>
     <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
@@ -33,7 +33,7 @@
     <!-- This is the label for the Guests/Attendees of an event -->
     <string name="attendees_label">Guests</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Keyboard</string>
+    <string name="today">Tastatur2</string>
     <!-- Text to show when an event starts on the next day -->
     <string name="tomorrow">Tomorrow</string>
     <!-- Text for an event starting on the current day with a start and end time.
@@ -139,7 +139,7 @@
          or remove selected calendars. -->
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
-    <string name="menu_preferences">"Settings"</string>
+    <string name="menu_preferences">"Einstellungen"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
     <string name="menu_select_visible_calendars">"Calendars to display"</string>
@@ -276,11 +276,11 @@
          'yes', 'no', and 'maybe' (and, initially, 'no response'). -->
     <string name="view_event_response_label">Attending?</string>
     <!-- Response for whether attending an event - accepted [CHAR LIMIT=10]-->
-    <string name="response_yes">Yes</string>
+    <string name="response_yes">Ja</string>
     <!-- Response for whether attending an event - tentative [CHAR LIMIT=10]-->
     <string name="response_maybe">Maybe</string>
     <!-- Response for whether attending an event - declined [CHAR LIMIT=10]-->
-    <string name="response_no">No</string>
+    <string name="response_no">Nein</string>
     <string name="response_no2">New Text</string>
     <!-- Label for emailing attendees -->
     <string name="email_guests_label">Email guests</string>
@@ -353,7 +353,7 @@
     <string name="delete_label">"Delete"</string>
     <!-- A menu item for deleting an event -->
     <!-- The button label for saving an event -->
-    <string name="save_label">Done</string>
+    <string name="save_label">Fertig</string>
     <!-- The button label for discarding changes to an event -->
     <string name="discard_label">Cancel</string>
     <!-- Button labels on expanded notification reminders: -->
@@ -385,7 +385,7 @@
     </plurals>
     <!-- A description for an event that repeats daily. For example, Every 2 days [CHAR LIMIT=15]-->
     <plurals name="daily">
-        <item quantity="one">Daily</item>
+        <item quantity="one">Tag</item>
         <item quantity="other">Every <xliff:g id="number">%d</xliff:g> days</item>
     </plurals>
     <!-- A label in a multiple-choice list for the specifying that an event
@@ -399,7 +399,7 @@
     </plurals>
     <!-- The common portion of a string describing how often an event repeats,
          example: 'Monthly (on day 2)' -->
-    <string name="monthly">Monthly</string>
+    <string name="monthly">Monat</string>
     <!-- Calendar spinner item, to select that an event recurs every year. -->
     <string name="yearly_plain">Yearly</string>
     <!-- Example: "Monthly (on day 15)" -->
@@ -454,7 +454,7 @@
          [CHAR LIMIT=30] -->
     <string name="menu_about_preferences">About Calendar</string>
     <!-- This is the title of the screen for setting user preferences. -->
-    <string name="preferences_title">"Settings"</string>
+    <string name="preferences_title">"Einstellungen"</string>
     <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
     <string name="preferences_general_title">Calendar view setting</string>
