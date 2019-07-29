@@ -15,6 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
+    <string name="hello_world">Hello World</string>
     <string name="app_label21312312">CREATE PROJECT</string>
     <string name="app_label">Hello Hello Hello</string>
     <string name="mail-system">Welcome to Mail System!</string>
