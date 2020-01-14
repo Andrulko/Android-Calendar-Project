@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
+    <string name="unique_ID2">Jeszcze inny tekst</string>
     <string name="unique_ID">Jakiś nowy tekst</string>
     <string name="1234124rs">ZAPYTANIE DEMO</string>
     <string name="hello_world">Cześć Świat</string>
