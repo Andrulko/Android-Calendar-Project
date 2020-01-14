@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="unique_ID2">Another another text</string>
+    <string name="unique_ID2">Jeszcze inny tekst</string>
     <string name="unique_ID">Jakiś nowy tekst</string>
     <string name="1234124rs">ZAPYTANIE DEMO</string>
     <string name="hello_world">Cześć Świat</string>
@@ -26,7 +26,7 @@
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip></skip>
     <!-- This is the label for the title or name of an event -->
-    <string name="mail2">Send message to %s</string>
+    <string name="mail2">Wyślij wiadomość do %s</string>
     <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
     <string name="where_label">Where</string>
