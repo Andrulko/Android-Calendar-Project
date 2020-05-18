@@ -1,5 +1,0 @@
-files:
-  - source: /res/values/*.xml
-    ignore:
-      - /res/values/strings.xml
-    translation: /res/%two_letters_code%/%file_name%_%two_letters_code%.xml
