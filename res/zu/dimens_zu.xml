@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="crwdns1240:0crwdne1240:0">crwdns1242:0crwdne1242:0</dimen>
+    <dimen name="crwdns1244:0crwdne1244:0">crwdns1246:0crwdne1246:0</dimen>
+    <dimen name="crwdns1248:0crwdne1248:0">crwdns1250:0crwdne1250:0</dimen>
+    <dimen name="crwdns1252:0crwdne1252:0">crwdns1254:0crwdne1254:0</dimen>
+    <dimen name="crwdns1256:0crwdne1256:0">crwdns1258:0crwdne1258:0</dimen>
+    <dimen name="crwdns1260:0crwdne1260:0">crwdns1262:0crwdne1262:0</dimen>
+    <dimen name="crwdns1264:0crwdne1264:0">crwdns1266:0crwdne1266:0</dimen>
+    <dimen name="crwdns1268:0crwdne1268:0">crwdns1270:0crwdne1270:0</dimen>
+    <dimen name="crwdns1272:0crwdne1272:0">crwdns1274:0crwdne1274:0</dimen>
+    <dimen name="crwdns1276:0crwdne1276:0">crwdns1278:0crwdne1278:0</dimen>
+    <dimen name="crwdns1280:0crwdne1280:0">crwdns1282:0crwdne1282:0</dimen>
+    <dimen name="crwdns1284:0crwdne1284:0">crwdns1286:0crwdne1286:0</dimen>
+    <dimen name="crwdns1288:0crwdne1288:0">crwdns1290:0crwdne1290:0</dimen>
+    <!-- minimum size of hours column in day/week view -->
+    <dimen name="crwdns1292:0crwdne1292:0">crwdns1294:0crwdne1294:0</dimen>
+    <!-- margins size of hours column in day/week view -->
+    <dimen name="crwdns1296:0crwdne1296:0">crwdns1298:0crwdne1298:0</dimen>
+    <dimen name="crwdns1300:0crwdne1300:0">crwdns1302:0crwdne1302:0</dimen>
+    <!-- size of day header in day and week views  -->
+    <dimen name="crwdns1304:0crwdne1304:0">crwdns1306:0crwdne1306:0</dimen>
+    <dimen name="crwdns1308:0crwdne1308:0">crwdns1310:0crwdne1310:0</dimen>
+    <dimen name="crwdns1312:0crwdne1312:0">crwdns1314:0crwdne1314:0</dimen>
+    <dimen name="crwdns1316:0crwdne1316:0">crwdns1318:0crwdne1318:0</dimen>
+    <dimen name="crwdns1320:0crwdne1320:0">crwdns1322:0crwdne1322:0</dimen>
+    <dimen name="crwdns1324:0crwdne1324:0">crwdns1326:0crwdne1326:0</dimen>
+    <dimen name="crwdns1328:0crwdne1328:0">crwdns1330:0crwdne1330:0</dimen>
+    <dimen name="crwdns1332:0crwdne1332:0">crwdns1334:0crwdne1334:0</dimen>
+    <dimen name="crwdns1336:0crwdne1336:0">crwdns1338:0crwdne1338:0</dimen>
+    <dimen name="crwdns1340:0crwdne1340:0">crwdns1342:0crwdne1342:0</dimen>
+    <dimen name="crwdns1344:0crwdne1344:0">crwdns1346:0crwdne1346:0</dimen>
+    <dimen name="crwdns1348:0crwdne1348:0">crwdns1350:0crwdne1350:0</dimen>
+    <dimen name="crwdns1352:0crwdne1352:0">crwdns1354:0crwdne1354:0</dimen>
+    <dimen name="crwdns1356:0crwdne1356:0">crwdns1358:0crwdne1358:0</dimen>
+    <dimen name="crwdns1360:0crwdne1360:0">crwdns1362:0crwdne1362:0</dimen>
+    <dimen name="crwdns1364:0crwdne1364:0">crwdns1366:0crwdne1366:0</dimen>
+    <dimen name="crwdns1368:0crwdne1368:0">crwdns1370:0crwdne1370:0</dimen>
+    <dimen name="crwdns1372:0crwdne1372:0">crwdns1374:0crwdne1374:0</dimen>
+    <dimen name="crwdns1376:0crwdne1376:0">crwdns1378:0crwdne1378:0</dimen>
+    <dimen name="crwdns1380:0crwdne1380:0">crwdns1382:0crwdne1382:0</dimen>
+
+    <dimen name="crwdns1384:0crwdne1384:0">crwdns1386:0crwdne1386:0</dimen>
+    <dimen name="crwdns1388:0crwdne1388:0">crwdns1390:0crwdne1390:0</dimen>
+</resources>
