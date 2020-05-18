@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2011 The Android Open Source Project Licensed under the
+    Apache License, Version 2.0 (the "License"); you may not use this file
+    except in compliance with the License. You may obtain a copy of the
+    License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by
+    applicable law or agreed to in writing, software distributed under the
+    License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+    CONDITIONS OF ANY KIND, either express or implied. See the License for
+    the specific language governing permissions and limitations under the
+    License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- size of event title font in month view  -->
+    <integer name="crwdns1392:0crwdne1392:0">crwdns1394:0crwdne1394:0</integer>
+    <!-- size of day date font in month view  -->
+    <integer name="crwdns1396:0crwdne1396:0">crwdns1398:0crwdne1398:0</integer>
+    <!-- max number of lines in the description without showing More/Less button  -->
+    <integer name="crwdns1400:0crwdne1400:0">crwdns1402:0crwdne1402:0</integer>
+    <!-- The alpha level of photos of attendees that didn't respond -->
+    <integer name="crwdns1404:0crwdne1404:0">crwdns1406:0crwdne1406:0</integer>
+    <!-- The default alpha level of photos of attendees -->
+    <integer name="crwdns1408:0crwdne1408:0">crwdns1410:0crwdne1410:0</integer>
+    <!-- margin between the day number and the edge of the day in month view -->
+    <integer name="crwdns1412:0crwdne1412:0">crwdns1414:0crwdne1414:0</integer>
+    <!-- The size of the color chip in the agenda view for all day events -->
+    <integer name="crwdns1416:0crwdne1416:0">crwdns1418:0crwdne1418:0</integer>
+    <!-- The size of the color chip in the agenda view -->
+    <integer name="crwdns1420:0crwdne1420:0">crwdns1422:0crwdne1422:0</integer>
+    <!-- The time of day in minutes usually considered the start of the work day, eg. 6am in the US -->
+    <integer name="crwdns1424:0crwdne1424:0">crwdns1426:0crwdne1426:0</integer>
+    <!-- The time of day in minutes usually considered the end of the work day, eg. 8pm in the US -->
+    <integer name="crwdns1428:0crwdne1428:0">crwdns1430:0crwdne1430:0</integer>
+    <!-- The time (in milliseconds) to scroll in or out the mini month and calendar controls -->
+    <integer name="crwdns1432:0crwdne1432:0">crwdns1434:0crwdne1434:0</integer>
+
+</resources>
