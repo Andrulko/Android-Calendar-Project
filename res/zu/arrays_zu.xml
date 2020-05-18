@@ -19,10 +19,10 @@
          [CHAR LIMIT=10]
     -->
     <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>Email</item>
-        <item>SMS</item>
-        <item>Alarm</item>
+        <item>crwdns528:0crwdne528:0</item>
+        <item>crwdns530:0crwdne530:0</item>
+        <item>crwdns532:0crwdne532:0</item>
+        <item>crwdns534:0crwdne534:0</item>
     </string-array>
     <!-- This maps reminder_methods_labels to internal constants. -->
     <!-- Choices for the "Reminder minutes" spinner.
@@ -33,76 +33,76 @@
          [CHAR LIMIT=15]
     -->
     <string-array name="reminder_minutes_labels">
-        <item>0 minutes</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>crwdns536:0crwdne536:0</item>
+        <item>crwdns538:0crwdne538:0</item>
+        <item>crwdns540:0crwdne540:0</item>
+        <item>crwdns542:0crwdne542:0</item>
+        <item>crwdns544:0crwdne544:0</item>
+        <item>crwdns546:0crwdne546:0</item>
+        <item>crwdns548:0crwdne548:0</item>
+        <item>crwdns550:0crwdne550:0</item>
+        <item>crwdns552:0crwdne552:0</item>
+        <item>crwdns554:0crwdne554:0</item>
+        <item>crwdns556:0crwdne556:0</item>
+        <item>crwdns558:0crwdne558:0</item>
+        <item>crwdns560:0crwdne560:0</item>
+        <item>crwdns562:0crwdne562:0</item>
+        <item>crwdns564:0crwdne564:0</item>
+        <item>crwdns566:0crwdne566:0</item>
     </string-array>
     <!-- Choices for the "Reminder minutes" spinner in the settings.
          These must be kept in sync with the preferences_default_reminder_values array.
          [CHAR LIMIT=12]
     -->
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
-        <item>0 minutes</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>crwdns568:0crwdne568:0</item>
+        <item>crwdns570:0crwdne570:0</item>
+        <item>crwdns572:0crwdne572:0</item>
+        <item>crwdns574:0crwdne574:0</item>
+        <item>crwdns576:0crwdne576:0</item>
+        <item>crwdns578:0crwdne578:0</item>
+        <item>crwdns580:0crwdne580:0</item>
+        <item>crwdns582:0crwdne582:0</item>
+        <item>crwdns584:0crwdne584:0</item>
+        <item>crwdns586:0crwdne586:0</item>
+        <item>crwdns588:0crwdne588:0</item>
+        <item>crwdns590:0crwdne590:0</item>
+        <item>crwdns592:0crwdne592:0</item>
+        <item>crwdns594:0crwdne594:0</item>
+        <item>crwdns596:0crwdne596:0</item>
+        <item>crwdns598:0crwdne598:0</item>
+        <item>crwdns600:0crwdne600:0</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
-        <item>Monday</item>
+        <item>crwdns636:0crwdne636:0</item>
+        <item>crwdns638:0crwdne638:0</item>
+        <item>crwdns640:0crwdne640:0</item>
+        <item>crwdns642:0crwdne642:0</item>
     </string-array>
     <string-array name="availability">
-        <item>Busy</item>
-        <item>Available</item>
-        <item>Tentative</item>
+        <item>crwdns652:0crwdne652:0</item>
+        <item>crwdns654:0crwdne654:0</item>
+        <item>crwdns656:0crwdne656:0</item>
     </string-array>
     <!-- This maps reminder_methods_labels to internal constants. -->
     <string-array name="visibility">
-        <item>Default</item>
-        <item>Private</item>
-        <item>Public</item>
+        <item>crwdns658:0crwdne658:0</item>
+        <item>crwdns660:0crwdne660:0</item>
+        <item>crwdns662:0crwdne662:0</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>crwdns664:0crwdne664:0</item>
+        <item>crwdns666:0crwdne666:0</item>
+        <item>crwdns668:0crwdne668:0</item>
+        <item>crwdns670:0crwdne670:0</item>
+        <item>crwdns672:0crwdne672:0</item>
     </string-array>
     <!-- Invitation responses -->
     <string-array name="response_labels1">
-        <item>No response</item>
-        <item>Yes</item>
-        <item>Maybe</item>
-        <item>No</item>
+        <item>crwdns674:0crwdne674:0</item>
+        <item>crwdns676:0crwdne676:0</item>
+        <item>crwdns678:0crwdne678:0</item>
+        <item>crwdns680:0crwdne680:0</item>
     </string-array>
     <!-- The corresponding indices are defined in DeleteEventHelper.java -->
     <!-- This is a list of choices displayed when the user deletes an event.
@@ -110,9 +110,9 @@
     -->
     <skip></skip>
     <string-array name="delete_repeating_labels">
-        <item>Only this event</item>
-        <item>This and future events</item>
-        <item>All events</item>
+        <item>crwdns682:0crwdne682:0</item>
+        <item>crwdns684:0crwdne684:0</item>
+        <item>crwdns686:0crwdne686:0</item>
     </string-array>
     <!-- DO NOT TRANSLATE These values need to correspond to the indices
          defined in DeleteEventHelper.java-->
@@ -125,8 +125,8 @@
      -->
     <skip></skip>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>This &amp; future events</item>
-        <item>All events</item>
+        <item>crwdns688:0crwdne688:0</item>
+        <item>crwdns690:0crwdne690:0</item>
     </string-array>
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
     <skip></skip>
@@ -134,30 +134,30 @@
     respond to an invitation that repeats. -->
     <string-array name="change_response_labels">
         <!-- The choice for responding to only one instance of a repeating event -->
-        <item>Only this event</item>
+        <item>crwdns692:0crwdne692:0</item>
         <!-- The choice for responding to all instances of a repeating event -->
-        <item>All events in the series</item>
+        <item>crwdns694:0crwdne694:0</item>
     </string-array>
     <!-- Strings for buttons in drop down menu -->
     <string-array name="buttons_list">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
-        <item>Agenda</item>
+        <item>crwdns696:0crwdne696:0</item>
+        <item>crwdns698:0crwdne698:0</item>
+        <item>crwdns700:0crwdne700:0</item>
+        <item>crwdns702:0crwdne702:0</item>
     </string-array>
     <!-- Experimental options for skipping reminders. [CHAR LIMIT = 37] -->
     <string-array name="preferences_skip_reminders_labels">
         <!-- Default choice -->
-        <item>Only if declined</item>
+        <item>crwdns704:0crwdne704:0</item>
         <!-- Second option, for skipping reminders to events not yet responded to. -->
-        <item>If declined or not responded</item>
+        <item>crwdns706:0crwdne706:0</item>
     </string-array>
     <!-- Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20] -->
     <string-array name="recurrence_freq">
-        <item>REPEAT DAILY</item>
-        <item>REPEAT WEEKLY</item>
-        <item>REPEAT MONTHLY</item>
-        <item>REPEAT YEARLY</item>
+        <item>crwdns712:0crwdne712:0</item>
+        <item>crwdns714:0crwdne714:0</item>
+        <item>crwdns716:0crwdne716:0</item>
+        <item>crwdns718:0crwdne718:0</item>
     </string-array>
     <!-- The following sets of strings describe a monthly recurring event, which will repeat
          on the Nth WEEKDAY of every month. For example, the 3rd Monday of every month, or
@@ -166,58 +166,58 @@
      -->
     <!-- Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sun">
-        <item>on every first Sunday</item>
-        <item>on every second Sunday</item>
-        <item>on every third Sunday</item>
-        <item>on every fourth Sunday</item>
-        <item>on every last Sunday</item>
+        <item>crwdns720:0crwdne720:0</item>
+        <item>crwdns722:0crwdne722:0</item>
+        <item>crwdns724:0crwdne724:0</item>
+        <item>crwdns726:0crwdne726:0</item>
+        <item>crwdns728:0crwdne728:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_mon">
-        <item>on every first Monday</item>
-        <item>on every second Monday</item>
-        <item>on every third Monday</item>
-        <item>on every fourth Monday</item>
-        <item>on every last Monday</item>
+        <item>crwdns730:0crwdne730:0</item>
+        <item>crwdns732:0crwdne732:0</item>
+        <item>crwdns734:0crwdne734:0</item>
+        <item>crwdns736:0crwdne736:0</item>
+        <item>crwdns738:0crwdne738:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Tuesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_tues">
-        <item>on every first Tuesday</item>
-        <item>on every second Tuesday</item>
-        <item>on every third Tuesday</item>
-        <item>on every fourth Tuesday</item>
-        <item>on every last Tuesday</item>
+        <item>crwdns740:0crwdne740:0</item>
+        <item>crwdns742:0crwdne742:0</item>
+        <item>crwdns744:0crwdne744:0</item>
+        <item>crwdns746:0crwdne746:0</item>
+        <item>crwdns748:0crwdne748:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Wednesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_wed">
-        <item>on every first Wednesday</item>
-        <item>on every second Wednesday</item>
-        <item>on every third Wednesday</item>
-        <item>on every fourth Wednesday</item>
-        <item>on every last Wednesday</item>
+        <item>crwdns750:0crwdne750:0</item>
+        <item>crwdns752:0crwdne752:0</item>
+        <item>crwdns754:0crwdne754:0</item>
+        <item>crwdns756:0crwdne756:0</item>
+        <item>crwdns758:0crwdne758:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Thursday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_thurs">
-        <item>on every first Thursday</item>
-        <item>on every second Thursday</item>
-        <item>on every third Thursday</item>
-        <item>on every fourth Thursday</item>
-        <item>on every last Thursday</item>
+        <item>crwdns760:0crwdne760:0</item>
+        <item>crwdns762:0crwdne762:0</item>
+        <item>crwdns764:0crwdne764:0</item>
+        <item>crwdns766:0crwdne766:0</item>
+        <item>crwdns768:0crwdne768:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_fri">
-        <item>on every first Friday</item>
-        <item>on every second Friday</item>
-        <item>on every third Friday</item>
-        <item>on every fourth Friday</item>
-        <item>on every last Friday</item>
+        <item>crwdns770:0crwdne770:0</item>
+        <item>crwdns772:0crwdne772:0</item>
+        <item>crwdns774:0crwdne774:0</item>
+        <item>crwdns776:0crwdne776:0</item>
+        <item>crwdns778:0crwdne778:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Saturday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sat">
-        <item>on every first Saturday</item>
-        <item>on every second Saturday</item>
-        <item>on every third Saturday</item>
-        <item>on every fourth Saturday</item>
-        <item>on every last Saturday</item>
+        <item>crwdns780:0crwdne780:0</item>
+        <item>crwdns782:0crwdne782:0</item>
+        <item>crwdns784:0crwdne784:0</item>
+        <item>crwdns786:0crwdne786:0</item>
+        <item>crwdns788:0crwdne788:0</item>
     </string-array>
 </resources>
