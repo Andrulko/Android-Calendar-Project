@@ -15,33 +15,33 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="unique_ID2">DE DE DE</string>
-    <string name="unique_ID">Французский перевод</string>
+    <string name="unique_ID2">Another another text</string>
+    <string name="unique_ID">Some new text</string>
     <string name="1234124rs">REQUEST DEMO</string>
     <string name="hello_world">Hello World</string>
     <string name="app_label21312312">CREATE PROJECT</string>
-    <string name="app_label">Calendrier</string>
+    <string name="app_label">Hello Hello Hello</string>
     <string name="mail-system">Welcome to Mail System!</string>
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip></skip>
     <!-- This is the label for the title or name of an event -->
     <string name="mail2">Send message to %s</string>
-    <string name="what_label">Ce</string>
+    <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
-    <string name="where_label">Où</string>
+    <string name="where_label">Where</string>
     <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
-    <string name="when_label">Lorsque</string>
+    <string name="when_label">When</string>
     <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
-    <string name="timezone_label">Fuseau horaire</string>
+    <string name="timezone_label">Time zone</string>
     <!-- This is the label for the Guests/Attendees of an event -->
-    <string name="attendees_label">Les clients</string>
+    <string name="attendees_label">Guests</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Aujourd\'hui</string>
+    <string name="today">Keyboard</string>
     <!-- Text to show when an event starts on the next day -->
-    <string name="tomorrow">Demain</string>
+    <string name="tomorrow">Tomorrow</string>
     <!-- Text for an event starting on the current day with a start and end time.
          For ex, "Today at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
-    <string name="today_at_time_fmt">"Aujourd'hui à <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="today_at_time_fmt">"Today at <xliff:g id="time_interval">%s</xliff:g>"</string>
     <!-- Text for an event starting on the next day with a start and end time.
          For ex, "Tomorrow at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
     <string name="tomorrow_at_time_fmt">"Tomorrow at <xliff:g id="time_interval">%s</xliff:g>"</string>
@@ -187,11 +187,11 @@
     <!-- Default value of What field (as a hint to the user) [CHAR LIMIT=15] -->
     <string name="hint_what">"Event name"</string>
     <!-- Default value of Where field (as a hint to the user)[CHAR LIMIT=15] -->
-    <string name="hint_where">"Location"</string>
+    <string name="hint_where">"German Translation Location"</string>
     <!-- Default value of Description field (as a hint to the user) [CHAR LIMIT=15]-->
     <string name="hint_description">"Description"</string>
     <!-- Default value of Attendees/Guests field (as a hint to the user) [CHAR LIMIT=10] -->
-    <string name="hint_attendees">"Les clients"</string>
+    <string name="hint_attendees">"Guests"</string>
     <!-- Toast message displayed when a new event is created -->
     <string name="creating_event">"Event created."</string>
     <!-- Toast message displayed when an existing event is saved after being modified -->
@@ -209,7 +209,7 @@
     <!-- Create event dialog -->
     <skip></skip>
     <!-- Create event dialog save button [CHAR LIMIT=10] -->
-    <string name="create_event_dialog_save">Save</string>
+    <string name="create_event_dialog_save">Save DE</string>
     <!-- The alert toast is not actually being displayed for some reason. -->
     <skip></skip>
     <!-- the title of the alert/notification activity -->
@@ -564,7 +564,7 @@
     <!-- Pick the ending time for a new event[CHAR LIMIT = NONE]-->
     <string name="accessibility_pick_end_time">End time</string>
     <!-- Select a time zone for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_time_zone">Fuseau horaire</string>
+    <string name="accessibility_pick_time_zone">Time zone</string>
     <!-- Select a time zone for a new event [CHAR LIMIT = NONE]-->
     <string name="accessibility_pick_recurrence">Repeat event</string>
     <!-- Add a reminder to an event [CHAR LIMIT = NONE]-->
