@@ -187,7 +187,7 @@
     <!-- Default value of What field (as a hint to the user) [CHAR LIMIT=15] -->
     <string name="hint_what">"Event name"</string>
     <!-- Default value of Where field (as a hint to the user)[CHAR LIMIT=15] -->
-    <string name="hint_where">"15052020"</string>
+    <string name="hint_where">"German Translation Location"</string>
     <!-- Default value of Description field (as a hint to the user) [CHAR LIMIT=15]-->
     <string name="hint_description">"Description"</string>
     <!-- Default value of Attendees/Guests field (as a hint to the user) [CHAR LIMIT=10] -->
@@ -209,7 +209,7 @@
     <!-- Create event dialog -->
     <skip></skip>
     <!-- Create event dialog save button [CHAR LIMIT=10] -->
-    <string name="create_event_dialog_save">Save</string>
+    <string name="create_event_dialog_save">Save DE</string>
     <!-- The alert toast is not actually being displayed for some reason. -->
     <skip></skip>
     <!-- the title of the alert/notification activity -->
