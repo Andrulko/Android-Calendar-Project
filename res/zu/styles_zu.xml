@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/Calendar/assets/res/any/styles.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="crwdns4779959:0crwdne4779959:0">
+        <item name="crwdns4779961:0crwdne4779961:0">crwdns4779963:0crwdne4779963:0</item>
+        <item name="crwdns4779965:0crwdne4779965:0">crwdns4779967:0crwdne4779967:0</item>
+    </style>
+
+    <style name="crwdns4779969:0crwdne4779969:0">
+        <item name="crwdns4779971:0crwdne4779971:0">crwdns4779973:0crwdne4779973:0</item>
+        <item name="crwdns4779975:0crwdne4779975:0">crwdns4779977:0crwdne4779977:0</item>
+        <item name="crwdns4779979:0crwdne4779979:0">crwdns4779981:0crwdne4779981:0</item>
+        <item name="crwdns4779983:0crwdne4779983:0">crwdns4779985:0crwdne4779985:0</item>
+        <item name="crwdns4779987:0crwdne4779987:0">crwdns4779989:0crwdne4779989:0</item>
+        <item name="crwdns4779991:0crwdne4779991:0">crwdns4779993:0crwdne4779993:0</item>
+        <item name="crwdns4779995:0crwdne4779995:0">crwdns4779997:0crwdne4779997:0</item>
+    </style>
+
+    <style name="crwdns4779999:0crwdne4779999:0">
+        <item name="crwdns4780001:0crwdne4780001:0">crwdns4780003:0crwdne4780003:0</item>
+        <item name="crwdns4780005:0crwdne4780005:0">crwdns4780007:0crwdne4780007:0</item>
+        <item name="crwdns4780009:0crwdne4780009:0">crwdns4780011:0crwdne4780011:0</item>
+        <item name="crwdns4780013:0crwdne4780013:0">crwdns4780015:0crwdne4780015:0</item>
+        <item name="crwdns4780017:0crwdne4780017:0">crwdns4780019:0crwdne4780019:0</item>
+        <item name="crwdns4780021:0crwdne4780021:0">crwdns4780023:0crwdne4780023:0</item>
+    </style>
+
+    <style name="crwdns4780025:0crwdne4780025:0" parent="crwdns4780027:0crwdne4780027:0">
+    </style>
+
+    <style name="crwdns4780029:0crwdne4780029:0">
+        <item name="crwdns4780031:0crwdne4780031:0">crwdns4780033:0crwdne4780033:0</item>
+    </style>
+
+    <style name="crwdns4780035:0crwdne4780035:0">
+        <item name="crwdns4780037:0crwdne4780037:0">crwdns4780039:0crwdne4780039:0</item>
+        <item name="crwdns4780041:0crwdne4780041:0">crwdns4780043:0crwdne4780043:0</item>
+        <item name="crwdns4780045:0crwdne4780045:0">crwdns4780047:0crwdne4780047:0</item>
+    </style>
+
+    <style name="crwdns4780049:0crwdne4780049:0">
+        <item name="crwdns4780051:0crwdne4780051:0">crwdns4780053:0crwdne4780053:0</item>
+        <item name="crwdns4780055:0crwdne4780055:0">crwdns4780057:0crwdne4780057:0</item>
+        <item name="crwdns4780059:0crwdne4780059:0">crwdns4780061:0crwdne4780061:0</item>
+    </style>
+
+    <style name="crwdns4780063:0crwdne4780063:0">
+        <item name="crwdns4780065:0crwdne4780065:0">crwdns4780067:0crwdne4780067:0</item>
+    </style>
+
+    <style name="crwdns4780069:0crwdne4780069:0">
+        <item name="crwdns4780071:0crwdne4780071:0">crwdns4780073:0crwdne4780073:0</item>
+        <item name="crwdns4780075:0crwdne4780075:0">crwdns4780077:0crwdne4780077:0</item>
+        <item name="crwdns4780079:0crwdne4780079:0">crwdns4780081:0crwdne4780081:0</item>
+        <item name="crwdns4780083:0crwdne4780083:0">crwdns4780085:0crwdne4780085:0</item>
+        <item name="crwdns4780087:0crwdne4780087:0">crwdns4780089:0crwdne4780089:0</item>
+        <item name="crwdns4780091:0crwdne4780091:0">crwdns4780093:0crwdne4780093:0</item>
+        <item name="crwdns4780095:0crwdne4780095:0">crwdns4780097:0crwdne4780097:0</item>
+        <item name="crwdns4780099:0crwdne4780099:0">crwdns4780101:0crwdne4780101:0</item>
+        <item name="crwdns4780103:0crwdne4780103:0">crwdns4780105:0crwdne4780105:0</item>
+        <item name="crwdns4780107:0crwdne4780107:0">crwdns4780109:0crwdne4780109:0</item>
+        <item name="crwdns4780111:0crwdne4780111:0">crwdns4780113:0crwdne4780113:0</item>
+    </style>
+
+    <style name="crwdns4780115:0crwdne4780115:0" parent="crwdns4780117:0crwdne4780117:0">
+        <item name="crwdns4780119:0crwdne4780119:0">crwdns4780121:0crwdne4780121:0</item>
+    </style>
+
+    <style name="crwdns4780123:0crwdne4780123:0" parent="crwdns4780125:0crwdne4780125:0">
+        <item name="crwdns4780127:0crwdne4780127:0">crwdns4780129:0crwdne4780129:0</item>
+    </style>
+
+    <style name="crwdns4780131:0crwdne4780131:0" parent="crwdns4780133:0crwdne4780133:0">
+        <item name="crwdns4780135:0crwdne4780135:0">crwdns4780137:0crwdne4780137:0</item>
+        <item name="crwdns4780139:0crwdne4780139:0">crwdns4780141:0crwdne4780141:0</item>
+        <item name="crwdns4780143:0crwdne4780143:0">crwdns4780145:0crwdne4780145:0</item>
+        <item name="crwdns4780147:0crwdne4780147:0">crwdns4780149:0crwdne4780149:0</item>
+        <item name="crwdns4780151:0crwdne4780151:0">crwdns4780153:0crwdne4780153:0</item>
+        <item name="crwdns4780155:0crwdne4780155:0">crwdns4780157:0crwdne4780157:0</item>
+        <item name="crwdns4780159:0crwdne4780159:0">crwdns4780161:0crwdne4780161:0</item>
+    </style>
+
+    <style name="crwdns4780163:0crwdne4780163:0">
+        <item name="crwdns4780165:0crwdne4780165:0">crwdns4780167:0crwdne4780167:0</item>
+        <item name="crwdns4780169:0crwdne4780169:0">crwdns4780171:0crwdne4780171:0</item>
+        <item name="crwdns4780173:0crwdne4780173:0">crwdns4780175:0crwdne4780175:0</item>
+        <item name="crwdns4780177:0crwdne4780177:0">crwdns4780179:0crwdne4780179:0</item>
+    </style>
+
+    <style name="crwdns4780181:0crwdne4780181:0">
+        <item name="crwdns4780183:0crwdne4780183:0">crwdns4780185:0crwdne4780185:0</item>
+        <item name="crwdns4780187:0crwdne4780187:0">crwdns4780189:0crwdne4780189:0</item>
+        <item name="crwdns4780191:0crwdne4780191:0">crwdns4780193:0crwdne4780193:0</item>
+    </style>
+
+    <style name="crwdns4780195:0crwdne4780195:0" parent="crwdns4780197:0crwdne4780197:0">
+        <item name="crwdns4780199:0crwdne4780199:0">crwdns4780201:0crwdne4780201:0</item>
+        <item name="crwdns4780203:0crwdne4780203:0">crwdns4780205:0crwdne4780205:0</item>
+        <item name="crwdns4780207:0crwdne4780207:0">crwdns4780209:0crwdne4780209:0</item>
+        <item name="crwdns4780211:0crwdne4780211:0">crwdns4780213:0crwdne4780213:0</item>
+    </style>
+
+    <style name="crwdns4780215:0crwdne4780215:0">
+        <item name="crwdns4780217:0crwdne4780217:0">crwdns4780219:0crwdne4780219:0</item>
+        <item name="crwdns4780221:0crwdne4780221:0">crwdns4780223:0crwdne4780223:0</item>
+        <item name="crwdns4780225:0crwdne4780225:0">crwdns4780227:0crwdne4780227:0</item>
+    </style>
+
+    <style name="crwdns4780229:0crwdne4780229:0" parent="crwdns4780231:0crwdne4780231:0">
+        <item name="crwdns4780233:0crwdne4780233:0">crwdns4780235:0crwdne4780235:0</item>
+        <item name="crwdns4780237:0crwdne4780237:0">crwdns4780239:0crwdne4780239:0</item>
+    </style>
+
+    <style name="crwdns4780241:0crwdne4780241:0" parent="crwdns4780243:0crwdne4780243:0">
+        <item name="crwdns4780245:0crwdne4780245:0">crwdns4780247:0crwdne4780247:0</item>
+        <item name="crwdns4780249:0crwdne4780249:0">crwdns4780251:0crwdne4780251:0</item>
+        <item name="crwdns4780253:0crwdne4780253:0">crwdns4780255:0crwdne4780255:0</item>
+        <item name="crwdns4780257:0crwdne4780257:0">crwdns4780259:0crwdne4780259:0</item>
+    </style>
+
+    <style name="crwdns4780261:0crwdne4780261:0" parent="crwdns4780263:0crwdne4780263:0">
+        <item name="crwdns4780265:0crwdne4780265:0">crwdns4780267:0crwdne4780267:0</item>
+        <item name="crwdns4780269:0crwdne4780269:0">crwdns4780271:0crwdne4780271:0</item>
+    </style>
+
+    <style name="crwdns4780273:0crwdne4780273:0">
+        <item name="crwdns4780275:0crwdne4780275:0">crwdns4780277:0crwdne4780277:0</item>
+        <item name="crwdns4780279:0crwdne4780279:0">crwdns4780281:0crwdne4780281:0</item>
+        <item name="crwdns4780283:0crwdne4780283:0">crwdns4780285:0crwdne4780285:0</item>
+        <item name="crwdns4780287:0crwdne4780287:0">crwdns4780289:0crwdne4780289:0</item>
+        <item name="crwdns4780291:0crwdne4780291:0">crwdns4780293:0crwdne4780293:0</item>
+    </style>
+
+    <style name="crwdns4780295:0crwdne4780295:0">
+        <item name="crwdns4780297:0crwdne4780297:0">crwdns4780299:0crwdne4780299:0</item>
+        <item name="crwdns4780301:0crwdne4780301:0">crwdns4780303:0crwdne4780303:0</item>
+        <item name="crwdns4780305:0crwdne4780305:0">crwdns4780307:0crwdne4780307:0</item>
+    </style>
+
+    <style name="crwdns4780309:0crwdne4780309:0" parent="crwdns4780311:0crwdne4780311:0">
+    </style>
+
+    <style name="crwdns4780313:0crwdne4780313:0">
+        <item name="crwdns4780315:0crwdne4780315:0">crwdns4780317:0crwdne4780317:0</item>
+        <item name="crwdns4780319:0crwdne4780319:0">crwdns4780321:0crwdne4780321:0</item>
+    </style>
+
+    <style name="crwdns4780323:0crwdne4780323:0" parent="crwdns4780325:0crwdne4780325:0">
+        <item name="crwdns4780327:0crwdne4780327:0">crwdns4780329:0crwdne4780329:0</item>
+    </style>
+
+    <style name="crwdns4780331:0crwdne4780331:0" parent="crwdns4780333:0crwdne4780333:0">
+        <item name="crwdns4780335:0crwdne4780335:0">crwdns4780337:0crwdne4780337:0</item>
+        <item name="crwdns4780339:0crwdne4780339:0">crwdns4780341:0crwdne4780341:0</item>
+        <item name="crwdns4780343:0crwdne4780343:0">crwdns4780345:0crwdne4780345:0</item>
+        <item name="crwdns4780347:0crwdne4780347:0">crwdns4780349:0crwdne4780349:0</item>
+        <item name="crwdns4780351:0crwdne4780351:0">crwdns4780353:0crwdne4780353:0</item>
+        <item name="crwdns4780355:0crwdne4780355:0">crwdns4780357:0crwdne4780357:0</item>
+    </style>
+
+    <style name="crwdns4780359:0crwdne4780359:0" parent="crwdns4780361:0crwdne4780361:0">
+        <item name="crwdns4780363:0crwdne4780363:0">crwdns4780365:0crwdne4780365:0</item>
+    </style>
+
+    <style name="crwdns4780367:0crwdne4780367:0" parent="crwdns4780369:0crwdne4780369:0">
+        <item name="crwdns4780371:0crwdne4780371:0">crwdns4780373:0crwdne4780373:0</item>
+        <item name="crwdns4780375:0crwdne4780375:0">crwdns4780377:0crwdne4780377:0</item>
+        <item name="crwdns4780379:0crwdne4780379:0">crwdns4780381:0crwdne4780381:0</item>
+    </style>
+
+    <style name="crwdns4780383:0crwdne4780383:0">
+        <item name="crwdns4780385:0crwdne4780385:0">crwdns4780387:0crwdne4780387:0</item>
+        <item name="crwdns4780389:0crwdne4780389:0">crwdns4780391:0crwdne4780391:0</item>
+        <item name="crwdns4780393:0crwdne4780393:0">crwdns4780395:0crwdne4780395:0</item>
+        <item name="crwdns4780397:0crwdne4780397:0">crwdns4780399:0crwdne4780399:0</item>
+    </style>
+
+    <style name="crwdns4780401:0crwdne4780401:0">
+        <item name="crwdns4780403:0crwdne4780403:0">crwdns4780405:0crwdne4780405:0</item>
+        <item name="crwdns4780407:0crwdne4780407:0">crwdns4780409:0crwdne4780409:0</item>
+        <item name="crwdns4780411:0crwdne4780411:0">crwdns4780413:0crwdne4780413:0</item>
+        <item name="crwdns4780415:0crwdne4780415:0">crwdns4780417:0crwdne4780417:0</item>
+        <item name="crwdns4780419:0crwdne4780419:0">crwdns4780421:0crwdne4780421:0</item>
+        <item name="crwdns4780423:0crwdne4780423:0">crwdns4780425:0crwdne4780425:0</item>
+    </style>
+
+    <style name="crwdns4780427:0crwdne4780427:0" parent="crwdns4780429:0crwdne4780429:0">
+        <item name="crwdns4780431:0crwdne4780431:0">crwdns4780433:0crwdne4780433:0</item>
+        <item name="crwdns4780435:0crwdne4780435:0">crwdns4780437:0crwdne4780437:0</item>
+        <item name="crwdns4780439:0crwdne4780439:0">crwdns4780441:0crwdne4780441:0</item>
+        <item name="crwdns4780443:0crwdne4780443:0">crwdns4780445:0crwdne4780445:0</item>
+        <item name="crwdns4780447:0crwdne4780447:0">crwdns4780449:0crwdne4780449:0</item>
+    </style>
+
+    <style name="crwdns4780451:0crwdne4780451:0">
+        <item name="crwdns4780453:0crwdne4780453:0">crwdns4780455:0crwdne4780455:0</item>
+        <item name="crwdns4780457:0crwdne4780457:0">crwdns4780459:0crwdne4780459:0</item>
+        <item name="crwdns4780461:0crwdne4780461:0">crwdns4780463:0crwdne4780463:0</item>
+    </style>
+
+    <style name="crwdns4780465:0crwdne4780465:0">
+        <item name="crwdns4780467:0crwdne4780467:0">crwdns4780469:0crwdne4780469:0</item>
+        <item name="crwdns4780471:0crwdne4780471:0">crwdns4780473:0crwdne4780473:0</item>
+        <item name="crwdns4780475:0crwdne4780475:0">crwdns4780477:0crwdne4780477:0</item>
+        <item name="crwdns4780479:0crwdne4780479:0">crwdns4780481:0crwdne4780481:0</item>
+        <item name="crwdns4780483:0crwdne4780483:0">crwdns4780485:0crwdne4780485:0</item>
+        <item name="crwdns4780487:0crwdne4780487:0">crwdns4780489:0crwdne4780489:0</item>
+        <item name="crwdns4780491:0crwdne4780491:0">crwdns4780493:0crwdne4780493:0</item>
+        <item name="crwdns4780495:0crwdne4780495:0">crwdns4780497:0crwdne4780497:0</item>
+    </style>
+
+    <style name="crwdns4780499:0crwdne4780499:0">
+        <item name="crwdns4780501:0crwdne4780501:0">crwdns4780503:0crwdne4780503:0</item>
+        <item name="crwdns4780505:0crwdne4780505:0">crwdns4780507:0crwdne4780507:0</item>
+        <item name="crwdns4780509:0crwdne4780509:0">crwdns4780511:0crwdne4780511:0</item>
+        <item name="crwdns4780513:0crwdne4780513:0">crwdns4780515:0crwdne4780515:0</item>
+        <item name="crwdns4780517:0crwdne4780517:0">crwdns4780519:0crwdne4780519:0</item>
+
+        <item name="crwdns4780521:0crwdne4780521:0">crwdns4780523:0crwdne4780523:0</item>
+        <item name="crwdns4780525:0crwdne4780525:0">crwdns4780527:0crwdne4780527:0</item>
+        <item name="crwdns4780529:0crwdne4780529:0">crwdns4780531:0crwdne4780531:0</item>
+    </style>
+
+    <style name="crwdns4780533:0crwdne4780533:0">
+        <item name="crwdns4780535:0crwdne4780535:0">crwdns4780537:0crwdne4780537:0</item>
+        <item name="crwdns4780539:0crwdne4780539:0">crwdns4780541:0crwdne4780541:0</item>
+        <item name="crwdns4780543:0crwdne4780543:0">crwdns4780545:0crwdne4780545:0</item>
+        <item name="crwdns4780547:0crwdne4780547:0">crwdns4780549:0crwdne4780549:0</item>
+        <item name="crwdns4780551:0crwdne4780551:0">crwdns4780553:0crwdne4780553:0</item>
+        <item name="crwdns4780555:0crwdne4780555:0">crwdns4780557:0crwdne4780557:0</item>
+    </style>
+
+    <style name="crwdns4780559:0crwdne4780559:0" parent="crwdns4780561:0crwdne4780561:0"/>
+
+    <style name="crwdns4780563:0crwdne4780563:0" parent="crwdns4780565:0crwdne4780565:0">
+        <item name="crwdns4780567:0crwdne4780567:0">crwdns4780569:0crwdne4780569:0</item>
+    </style>
+
+    <style name="crwdns4780571:0crwdne4780571:0">
+        <item name="crwdns4780573:0crwdne4780573:0">crwdns4780575:0crwdne4780575:0</item>
+    </style>
+
+    <style name="crwdns4780577:0crwdne4780577:0" parent="crwdns4780579:0crwdne4780579:0"/>
+
+    <style name="crwdns4780581:0crwdne4780581:0">
+        <item name="crwdns4780583:0crwdne4780583:0">crwdns4780585:0crwdne4780585:0</item>
+        <item name="crwdns4780587:0crwdne4780587:0">crwdns4780589:0crwdne4780589:0</item>
+        <item name="crwdns4780591:0crwdne4780591:0">crwdns4780593:0crwdne4780593:0</item>
+        <item name="crwdns4780595:0crwdne4780595:0">crwdns4780597:0crwdne4780597:0</item>
+        <item name="crwdns4780599:0crwdne4780599:0">crwdns4780601:0crwdne4780601:0</item>
+        <item name="crwdns4780603:0crwdne4780603:0">crwdns4780605:0crwdne4780605:0</item>
+        <item name="crwdns4780607:0crwdne4780607:0">crwdns4780609:0crwdne4780609:0</item>
+        <item name="crwdns4780611:0crwdne4780611:0">crwdns4780613:0crwdne4780613:0</item>
+        <item name="crwdns4780615:0crwdne4780615:0">crwdns4780617:0crwdne4780617:0</item>
+        <item name="crwdns4780619:0crwdne4780619:0">crwdns4780621:0crwdne4780621:0</item>
+        <item name="crwdns4780623:0crwdne4780623:0">crwdns4780625:0crwdne4780625:0</item>
+        <item name="crwdns4780627:0crwdne4780627:0">crwdns4780629:0crwdne4780629:0</item>
+        <item name="crwdns4780631:0crwdne4780631:0">crwdns4780633:0crwdne4780633:0</item>
+        <item name="crwdns4780635:0crwdne4780635:0">crwdns4780637:0crwdne4780637:0</item>
+        <item name="crwdns4780639:0crwdne4780639:0">crwdns4780641:0crwdne4780641:0</item>
+        <item name="crwdns4780643:0crwdne4780643:0">crwdns4780645:0crwdne4780645:0</item>
+        <item name="crwdns4780647:0crwdne4780647:0">crwdns4780649:0crwdne4780649:0</item>
+        </style>
+</resources>
