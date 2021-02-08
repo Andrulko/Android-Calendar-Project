@@ -15,15 +15,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Check box label for using custom snooze delays -->
-    <string name="preferences_alerts_custom_snooze_delay_title">crwdns814:0crwdne814:0</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">crwdns279604:0crwdne279604:0</string>
     <!-- Summaries for using custom snooze delays -->
-    <string name="preferences_alerts_custom_snooze_delay_summary_on">crwdns816:0crwdne816:0</string>
-    <string name="preferences_alerts_custom_snooze_delay_summary_off">crwdns818:0crwdne818:0</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">crwdns279606:0crwdne279606:0</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">crwdns279608:0crwdne279608:0</string>
     <!-- Title of custom snooze delay dialog -->
-    <string name="snooze_delay_dialog_title">crwdns820:0crwdne820:0</string>
+    <string name="snooze_delay_dialog_title">crwdns279610:0crwdne279610:0</string>
     <!-- List item label for setting the default snooze delay -->
-    <string name="preferences_default_snooze_delay_title">crwdns822:0crwdne822:0</string>
+    <string name="preferences_default_snooze_delay_title">crwdns279612:0crwdne279612:0</string>
     <!-- Title of dialog for setting the default snooze delay -->
-    <string name="preferences_default_snooze_delay_dialog">crwdns824:0crwdne824:0</string>
+    <string name="preferences_default_snooze_delay_dialog">crwdns279614:0crwdne279614:0</string>
     <!-- Default value for the default snooze delay (in minutes) -->
 </resources>
