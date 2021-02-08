@@ -15,49 +15,49 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="hello_world">Hello World</string>
-    <string name="app_label21312312">CREATE PROJECT</string>
-    <string name="app_label">Hello Hello Hello</string>
-    <string name="mail-system">Welcome to Mail System!</string>
+    <string name="hello_world">crwdns274106:0crwdne274106:0</string>
+    <string name="app_label21312312">crwdns274108:0crwdne274108:0</string>
+    <string name="app_label">crwdns274110:0crwdne274110:0</string>
+    <string name="mail-system">crwdns274112:0crwdne274112:0</string>
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip></skip>
     <!-- This is the label for the title or name of an event -->
-    <string name="mail2">Send message to %s</string>
-    <string name="what_label">What</string>
+    <string name="mail2">crwdns274114:0%scrwdne274114:0</string>
+    <string name="what_label">crwdns274116:0crwdne274116:0</string>
     <!-- This is the label for the location of an event -->
-    <string name="where_label">Where</string>
+    <string name="where_label">crwdns274118:0crwdne274118:0</string>
     <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
-    <string name="when_label">When</string>
+    <string name="when_label">crwdns274120:0crwdne274120:0</string>
     <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
-    <string name="timezone_label">Time zone</string>
+    <string name="timezone_label">crwdns274122:0crwdne274122:0</string>
     <!-- This is the label for the Guests/Attendees of an event -->
-    <string name="attendees_label">Guests</string>
+    <string name="attendees_label">crwdns274124:0crwdne274124:0</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Keyboard</string>
+    <string name="today">crwdns274126:0crwdne274126:0</string>
     <!-- Text to show when an event starts on the next day -->
-    <string name="tomorrow">Tomorrow</string>
+    <string name="tomorrow">crwdns274128:0crwdne274128:0</string>
     <!-- Text for an event starting on the current day with a start and end time.
          For ex, "Today at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
-    <string name="today_at_time_fmt">"Today at <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="today_at_time_fmt">"crwdns274130:0%scrwdne274130:0"</string>
     <!-- Text for an event starting on the next day with a start and end time.
          For ex, "Tomorrow at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
-    <string name="tomorrow_at_time_fmt">"Tomorrow at <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="tomorrow_at_time_fmt">"crwdns274132:0%scrwdne274132:0"</string>
     <!-- Format string for a date and time description.  For ex:
          "April 19, 2012, 3:00pm - 4:00pm" [CHAR LIMIT=NONE] -->
-    <string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
+    <string name="date_time_fmt">"crwdns274134:0%scrwdnd274134:0%scrwdne274134:0"</string>
     <!-- Some events repeat daily, weekly, monthly, or yearly.  This is the label
          for all the choices about how often an event repeats (including the choice
          of not repeating). -->
-    <string name="repeats_label">Repetition</string>
+    <string name="repeats_label">crwdns274136:0crwdne274136:0</string>
     <!-- Title of event when no explicit title is specified by the user -->
-    <string name="no_title_label">(No title)</string>
+    <string name="no_title_label">crwdns274138:0crwdne274138:0</string>
     <!-- Reminder format strings -->
     <plurals name="Nminutes">
         <!-- This is the label for a 1-minute reminder. -->
-        <item quantity="one">1 minute</item>
+        <item quantity="one">crwdns274140:1crwdne274140:1</item>
         <!-- This is the label for 2 or more minutes. The actual number of
              minutes is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> minutes</item>
+        <item quantity="other">crwdns274140:5%dcrwdne274140:5</item>
     </plurals>
     <!-- We use the abbreviation "mins" instead of "minutes" to keep the string short.
          This is the number of minutes displayed for a calendar reminder.  For example,
@@ -65,140 +65,139 @@
          should use the shortest acceptable abbreviation to save space. -->
     <plurals name="Nmins">
         <!-- This is the label for a 1-minute reminder. -->
-        <item quantity="one">1 min</item>
+        <item quantity="one">crwdns274142:1crwdne274142:1</item>
         <!-- This is the label for 2 or more minutes. The actual number of
              minutes is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> mins</item>
+        <item quantity="other">crwdns274142:5%dcrwdne274142:5</item>
     </plurals>
     <!-- This is the number of hours displayed for a calendar reminder.  For example,
          a reminder of 1 hour would be displayed as '1 hour'.  The translation
          should use the shortest acceptable abbreviation of 'hour' to save space. -->
     <plurals name="Nhours">
         <!-- This is the label for a 1-hour reminder. -->
-        <item quantity="one">1 hour</item>
+        <item quantity="one">crwdns274144:1crwdne274144:1</item>
         <!-- This is the label for a reminder of 2 or more hours. The actual number of
              hours is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> hours</item>
+        <item quantity="other">crwdns274144:5%dcrwdne274144:5</item>
     </plurals>
     <!-- This is the number of days displayed for a calendar reminder.  For example,
          a reminder of 2 days would be displayed as '2 days'.  The translation
          should use the shortest acceptable abbreviation of 'day' to save space. -->
     <plurals name="Ndays">
         <!-- This is the label for a reminder of 1 day. -->
-        <item quantity="one">1 day</item>
+        <item quantity="one">crwdns274146:1crwdne274146:1</item>
         <!-- This is the label for a reminder of 2 or more days. The actual number of
              days is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> days</item>
+        <item quantity="other">crwdns274146:5%dcrwdne274146:5</item>
     </plurals>
     <!-- This is for displaying the week of the year near the date. Eg. "January, 2011 Week 1" -->
     <plurals name="weekN">
-        <item quantity="one">WEEK <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="one">crwdns274148:1%dcrwdne274148:1</item>
         <!-- Label for displaying week of the year for all week values [CHAR LIMIT=16] -->
-        <item quantity="other">WEEK <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="other">crwdns274148:5%dcrwdne274148:5</item>
     </plurals>
     <!-- Menu items: -->
     <skip></skip>
     <!-- This is a label on a context menu item. Pressing this menu item to initiate
         syncing of your Calendar data with the server. [CHAR LIMIT=11] -->
-    <string name="calendar_refresh"> \"Refresh\"</string>
+    <string name="calendar_refresh">crwdns274150:0crwdne274150:0</string>
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Agenda view. -->
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Day view. -->
-    <string name="show_day_view">"Show day"</string>
+    <string name="show_day_view">"crwdns274152:0crwdne274152:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Agenda view. -->
-    <string name="agenda_view">"Agenda"</string>
+    <string name="agenda_view">"crwdns274154:0crwdne274154:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Day view. -->
-    <string name="day_view">"Day"</string>
+    <string name="day_view">"crwdns274156:0crwdne274156:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Week view. -->
-    <string name="week_view">"Week"</string>
+    <string name="week_view">"crwdns274158:0crwdne274158:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          Month view. -->
-    <string name="month_view">"Month"</string>
+    <string name="month_view">"crwdns274160:0crwdne274160:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item displays the
          details of an event. -->
-    <string name="event_view">"View event"</string>
+    <string name="event_view">"crwdns274162:0crwdne274162:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to create a new event. -->
-    <string name="event_create">"New event"</string>
+    <string name="event_create">"crwdns274164:0crwdne274164:0"</string>
     <!-- This is a label on a menu item in a popup window. Pressing this menu
          item allows the user to edit or change an existing event. -->
-    <string name="event_edit">"Edit event"</string>
+    <string name="event_edit">"crwdns274166:0crwdne274166:0"</string>
     <!-- This is a label on a menu item in a popup window. Pressing this menu
          item allows the user to delete an existing event. -->
-    <string name="event_delete">"Delete event"</string>
+    <string name="event_delete">"crwdns274168:0crwdne274168:0"</string>
     <!-- This is a label on a menu item. Pressing this menu
          item takes the user to the current day (today) in whatever view
          (Day view, Week view, Agenda view, Month view) they are currently in. -->
-    <string name="goto_today">"Today"</string>
+    <string name="goto_today">"crwdns274170:0crwdne274170:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to see the list of calendars that he is viewing and to then add
          or remove selected calendars. -->
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to view and edit his Settings (or Preferences) -->
-    <string name="menu_preferences">"Settings"</string>
+    <string name="menu_preferences">"crwdns274172:0crwdne274172:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
-    <string name="menu_select_visible_calendars">"Calendars to display"</string>
+    <string name="menu_select_visible_calendars">"crwdns274174:0crwdne274174:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item allows the
          user to select the calendars to display [CHAR LIMIT=20] -->
-    <string name="search">"Search"</string>
+    <string name="search">"crwdns274176:0crwdne274176:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item hides
          the navigation controls on the right side. [CHAR LIMIT=20] -->
-    <string name="hide_controls">"Hide controls"</string>
+    <string name="hide_controls">"crwdns274178:0crwdne274178:0"</string>
     <!-- This is a label on a menu item. Pressing this menu item shows the
          navigation controls on the right side. [CHAR LIMIT=20] -->
-    <string name="show_controls">"Show controls"</string>
+    <string name="show_controls">"crwdns274180:0crwdne274180:0"</string>
     <!-- Month view -->
     <skip></skip>
     <!-- Select Visible Calendars activity -->
     <skip></skip>
     <!-- Title of "My calendars" screen -->
-    <string name="select_visible_calendars_title">"Calendars to display"</string>
+    <string name="select_visible_calendars_title">"crwdns274182:0crwdne274182:0"</string>
     <!-- Synced and visible status message -->
     <!-- Synced but not visible status message -->
     <!-- not Synced or visible status message -->
     <!-- Synced status message displayed when the given calendar is stored/synced on the device
         [CHAR LIMIT=60] -->
-    <string name="synced"> synced</string>
+    <string name="synced">crwdns274184:0crwdne274184:0</string>
     <!-- Not synced status message displayed when the given calendar is not stored/synced on the
         device [CHAR LIMIT=60] -->
-    <string name="not_synced"> not synced</string>
+    <string name="not_synced">crwdns274186:0crwdne274186:0</string>
     <!-- Message displayed to user when an account with Calendars is not being auto-synced
         [CHAR LIMIT=120]-->
-    <string name="acct_not_synced">This account isn\'t being synced so your calendars may
-        not be up-to-date.</string>
+    <string name="acct_not_synced">crwdns274188:0crwdne274188:0</string>
     <!-- Label on button that takes user to the Accounts and Sync settings page [CHAR LIMIT=60] -->
-    <string name="accounts">Accounts &amp; sync</string>
+    <string name="accounts">crwdns274190:0crwdne274190:0</string>
     <!-- Select Synced Calendars activity -->
     <!-- Select the set of calendars to sync [CHAR LIMIT=60] -->
-    <string name="select_synced_calendars_title">Calendars to sync</string>
+    <string name="select_synced_calendars_title">crwdns274192:0crwdne274192:0</string>
     <!-- Select the set of calendars to sync [CHAR LIMIT=60] -->
-    <string name="select_synced_calendars_button">Calendars to sync</string>
+    <string name="select_synced_calendars_button">crwdns274194:0crwdne274194:0</string>
     <!-- Event edit activity -->
     <skip></skip>
     <!-- The title of the screen where the user edits an event [CHAR LIMIT=17] -->
     <!-- Default value of What field (as a hint to the user) [CHAR LIMIT=15] -->
-    <string name="hint_what">"Event name"</string>
+    <string name="hint_what">"crwdns274196:0crwdne274196:0"</string>
     <!-- Default value of Where field (as a hint to the user)[CHAR LIMIT=15] -->
-    <string name="hint_where">"Location"</string>
+    <string name="hint_where">"crwdns274198:0crwdne274198:0"</string>
     <!-- Default value of Description field (as a hint to the user) [CHAR LIMIT=15]-->
-    <string name="hint_description">"Description"</string>
+    <string name="hint_description">"crwdns274200:0crwdne274200:0"</string>
     <!-- Default value of Attendees/Guests field (as a hint to the user) [CHAR LIMIT=10] -->
-    <string name="hint_attendees">"Guests"</string>
+    <string name="hint_attendees">"crwdns274202:0crwdne274202:0"</string>
     <!-- Toast message displayed when a new event is created -->
-    <string name="creating_event">"Event created."</string>
+    <string name="creating_event">"crwdns274204:0crwdne274204:0"</string>
     <!-- Toast message displayed when an existing event is saved after being modified -->
-    <string name="saving_event">"Event saved."</string>
+    <string name="saving_event">"crwdns274206:0crwdne274206:0"</string>
     <!-- Toast message displayed when a new event was not saved because it was empty [CHAR LIMIT=30] -->
-    <string name="empty_event">"Empty event not created."</string>
+    <string name="empty_event">"crwdns274208:0crwdne274208:0"</string>
     <!-- Toast message displayed when a new event with guests is created -->
-    <string name="creating_event_with_guest">"Invitations will be sent."</string>
+    <string name="creating_event_with_guest">"crwdns274210:0crwdne274210:0"</string>
     <!-- Toast message displayed when an existing event with guests is saved after being modified -->
-    <string name="saving_event_with_guest">"Updates will be sent."</string>
+    <string name="saving_event_with_guest">"crwdns274212:0crwdne274212:0"</string>
     <!-- Title of message displayed to indicate available calendars are being loaded when creating
          a new event -->
     <!-- Body of message displayed to indicate available calendars are being loaded when creating
@@ -206,206 +205,206 @@
     <!-- Create event dialog -->
     <skip></skip>
     <!-- Create event dialog save button [CHAR LIMIT=10] -->
-    <string name="create_event_dialog_save">Save</string>
+    <string name="create_event_dialog_save">crwdns274214:0crwdne274214:0</string>
     <!-- The alert toast is not actually being displayed for some reason. -->
     <skip></skip>
     <!-- the title of the alert/notification activity -->
-    <string name="alert_title">Calendar notifications</string>
+    <string name="alert_title">crwdns274216:0crwdne274216:0</string>
     <!-- Notification window messages: -->
     <skip></skip>
     <!-- Event info/edit screen labels:-->
     <skip></skip>
     <!-- This is the title of the screen used to view the details of an event -->
-    <string name="event_info_title">View event</string>
+    <string name="event_info_title">crwdns274218:0crwdne274218:0</string>
     <!-- This is the title of the screen used to view the details of an invitation
          to a meeting or event -->
-    <string name="event_info_title_invite">Meeting invitation</string>
+    <string name="event_info_title_invite">crwdns274220:0crwdne274220:0</string>
     <!-- EditEventActivity specific strings: -->
     <skip></skip>
     <!-- Events have a start date/time and an end date/time. The display shows
          the start and end times like 'From start date To end date'. This is the
          label before the 'end date'. -->
-    <string name="edit_event_to_label">To</string>
+    <string name="edit_event_to_label">crwdns274222:0crwdne274222:0</string>
     <!-- Events have a start date/time and an end date/time. The display shows
          the start and end times like 'From start date To end date'. This is the
          label before the 'start date'. -->
-    <string name="edit_event_from_label">From</string>
+    <string name="edit_event_from_label">crwdns274224:0crwdne274224:0</string>
     <!-- Check box label that specifies if this is an all-day event -->
-    <string name="edit_event_all_day_label">All day</string>
+    <string name="edit_event_all_day_label">crwdns274226:0crwdne274226:0</string>
     <!-- Label for choosing one of the calendars -->
-    <string name="edit_event_calendar_label">Calendar</string>
+    <string name="edit_event_calendar_label">crwdns274228:0crwdne274228:0</string>
     <!-- Menu item to show all choices [CHAR LIMIT=22]-->
-    <string name="edit_event_show_all">Show all</string>
+    <string name="edit_event_show_all">crwdns274230:0crwdne274230:0</string>
     <!-- Label for the event description -->
-    <string name="description_label">Description</string>
+    <string name="description_label">crwdns274232:0crwdne274232:0</string>
     <!-- Label for the 'Presence' of an event, which can be either 'busy' (the default)
          or 'available'  [CHAR LIMIT=15] -->
-    <string name="presence_label">Show me as</string>
+    <string name="presence_label">crwdns274234:0crwdne274234:0</string>
     <!-- Label for the 'Privacy' of an event, which can be either 'private'
          or 'public' [CHAR LIMIT=15] -->
-    <string name="privacy_label">Privacy</string>
+    <string name="privacy_label">crwdns274236:0crwdne274236:0</string>
     <!-- Label for the list of reminders for an event [CHAR LIMIT=20] -->
-    <string name="reminders_label">Add reminder</string>
+    <string name="reminders_label">crwdns274238:0crwdne274238:0</string>
     <!-- Title of alert shown if the user tries to create an event and has no calendars -->
-    <string name="no_syncable_calendars">No calendars</string>
+    <string name="no_syncable_calendars">crwdns274240:0crwdne274240:0</string>
     <!-- Body of alert shown if the user tries to create an event and has no calendars. Users can start adding an account here. [CHAR LIMIT=NONE] -->
-    <string name="no_calendars_found">Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.</string>
+    <string name="no_calendars_found">crwdns274242:0crwdne274242:0</string>
     <!-- Body of dialog prompting the user to create an account.[CHAR LIMIT=NONE] -->
-    <string name="create_an_account_desc">"Calendar works better with a Google Account.\n\n\u2022 Access it from any web browser\n\u2022 Back up your events securely"</string>
+    <string name="create_an_account_desc">"crwdns274244:0crwdne274244:0"</string>
     <!-- Title of a button shown when there is no account available and the system prompt a user to add one. [CHAR LIMIT=none] -->
-    <string name="add_account">Add account</string>
+    <string name="add_account">crwdns274246:0crwdne274246:0</string>
     <!-- View Event -->
     <skip></skip>
     <!-- Label for which calendar an event is part of -->
-    <string name="view_event_calendar_label">Calendar:</string>
+    <string name="view_event_calendar_label">crwdns274248:0crwdne274248:0</string>
     <!-- Label for the event organizer -->
-    <string name="view_event_organizer_label">Organizer:</string>
+    <string name="view_event_organizer_label">crwdns274250:0crwdne274250:0</string>
     <!-- Label for the local timezone -->
     <!-- Label for showing event color picker -->
-    <string name="choose_event_color_label">Choose event color</string>
+    <string name="choose_event_color_label">crwdns274252:0crwdne274252:0</string>
     <!-- Title for event color picker dialog -->
-    <string name="event_color_picker_dialog_title">Event Color</string>
+    <string name="event_color_picker_dialog_title">crwdns274254:0crwdne274254:0</string>
     <!-- Label for button which sets event color to default calendar color -->
-    <string name="event_color_set_to_default">Set to default calendar color</string>
+    <string name="event_color_set_to_default">crwdns274256:0crwdne274256:0</string>
     <!-- Title for calendar color picker dialog -->
-    <string name="calendar_color_picker_dialog_title">Calendar Color</string>
+    <string name="calendar_color_picker_dialog_title">crwdns274258:0crwdne274258:0</string>
     <!-- Description for calendar color squares, which bring up the color picker. -->
-    <string name="calendar_square_color_picker_description">Color picker</string>
+    <string name="calendar_square_color_picker_description">crwdns274260:0crwdne274260:0</string>
     <!-- Label for whether the user is attending this event. This is shown when
          a user is invited to a meeting or event.  The possible answers are
          'yes', 'no', and 'maybe' (and, initially, 'no response'). -->
-    <string name="view_event_response_label">Attending?</string>
+    <string name="view_event_response_label">crwdns274262:0crwdne274262:0</string>
     <!-- Response for whether attending an event - accepted [CHAR LIMIT=10]-->
-    <string name="response_yes">Yes</string>
+    <string name="response_yes">crwdns274264:0crwdne274264:0</string>
     <!-- Response for whether attending an event - tentative [CHAR LIMIT=10]-->
-    <string name="response_maybe">Maybe</string>
+    <string name="response_maybe">crwdns274266:0crwdne274266:0</string>
     <!-- Response for whether attending an event - declined [CHAR LIMIT=10]-->
-    <string name="response_no">No</string>
-    <string name="response_no2">New Text</string>
+    <string name="response_no">crwdns274268:0crwdne274268:0</string>
+    <string name="response_no2">crwdns274270:0crwdne274270:0</string>
     <!-- Label for emailing attendees -->
-    <string name="email_guests_label">Email guests</string>
+    <string name="email_guests_label">crwdns274272:0crwdne274272:0</string>
     <!-- Label for emailing the organizer (when there are no attendees) -->
-    <string name="email_organizer_label">Email organizer</string>
+    <string name="email_organizer_label">crwdns274274:0crwdne274274:0</string>
     <!-- This is shown in the popup picker when emailing attendees -->
-    <string name="email_picker_label">Email with</string>
+    <string name="email_picker_label">crwdns274276:0crwdne274276:0</string>
     <!-- The is shown in the email subject as the prefix appended to the event title -->
     <!-- Toast message displayed when the event id was not found LIMIT=30] -->
-    <string name="event_not_found">"Event not found."</string>
+    <string name="event_not_found">"crwdns274280:0crwdne274280:0"</string>
     <!-- Notification label for getting a map of the location. -->
-    <string name="map_label">Map</string>
+    <string name="map_label">crwdns274282:0crwdne274282:0</string>
     <!-- Notification label for calling a phone number in the location. -->
-    <string name="call_label">Call</string>
+    <string name="call_label">crwdns274284:0crwdne274284:0</string>
     <!-- Title of the quick response item in Settings [CHAR LIMIT=18]-->
-    <string name="quick_response_settings">Quick responses</string>
+    <string name="quick_response_settings">crwdns274286:0crwdne274286:0</string>
     <!-- Summary of the quick response item in Settings [CHAR LIMIT=80]-->
-    <string name="quick_response_settings_summary">Edit default responses when emailing guests</string>
+    <string name="quick_response_settings_summary">crwdns274288:0crwdne274288:0</string>
     <!-- Title of the quick response screen in Settings->Quick Response [CHAR LIMIT=27]-->
-    <string name="quick_response_settings_title">Edit quick responses</string>
+    <string name="quick_response_settings_title">crwdns274290:0crwdne274290:0</string>
     <!-- Title of the quick response item in Settings [CHAR LIMIT=18]-->
-    <string name="quick_response_settings_edit_title">Quick response</string>
+    <string name="quick_response_settings_edit_title">crwdns274292:0crwdne274292:0</string>
     <!-- Title of the dialog prompting the user choose a response when emailing guests  [CHAR LIMIT=none]-->
-    <string name="quick_response_dialog_title">Choose quick response</string>
+    <string name="quick_response_dialog_title">crwdns274294:0crwdne274294:0</string>
     <!-- Error to user when an email program can't be found[CHAR LIMIT=none]-->
-    <string name="quick_response_email_failed">Failed to find an email program</string>
+    <string name="quick_response_email_failed">crwdns274296:0crwdne274296:0</string>
     <!-- The is shown in the email subject as the prefix appended to the event title [CHAR LIMIT=none]-->
     <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>Sorry, I can\'t make it. We\'ll have to reschedule.</item>
+        <item>crwdns274298:0crwdne274298:0</item>
+        <item>crwdns274300:0crwdne274300:0</item>
+        <item>crwdns274302:0crwdne274302:0</item>
+        <item>crwdns274304:0crwdne274304:0</item>
     </string-array>
     <!-- Option to create a custom response instead of using defaults [CHAR LIMIT=none] -->
-    <string name="quick_response_custom_msg">Write your own\u2026</string>
+    <string name="quick_response_custom_msg">crwdns274306:0crwdne274306:0</string>
     <!-- Event Info strings-->
     <!-- Time Zone Label [CHAR LIMIT=12]-->
     <!-- Repetition Label [CHAR LIMIT=12]-->
     <!-- Organizer Label [CHAR LIMIT=12]-->
-    <string name="event_info_organizer">Organizer:</string>
+    <string name="event_info_organizer">crwdns274308:0crwdne274308:0</string>
     <!-- Reminders label [CHAR LIMIT=15]-->
-    <string name="event_info_reminders_label">Reminders</string>
+    <string name="event_info_reminders_label">crwdns274310:0crwdne274310:0</string>
     <!-- Agenda View strings -->
     <skip></skip>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
-    <string name="agenda_today">TODAY, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_today">crwdns274312:0%1$scrwdne274312:0</string>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
-    <string name="agenda_yesterday">YESTERDAY, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">crwdns274314:0%1$scrwdne274314:0</string>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
-    <string name="agenda_tomorrow">TOMORROW, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">crwdns274316:0%1$scrwdne274316:0</string>
     <!-- This is shown while the calendar events are being loading to the screen. -->
-    <string name="loading">Loading\u2026</string>
+    <string name="loading">crwdns274318:0crwdne274318:0</string>
     <!-- This is shown at the top of the agenda view showing the beginning of the searched range. If the user taps on this string and Calendar will find events older than what is visible and display them to the user -->
-    <string name="show_older_events">Touch to view events before <xliff:g id="oldest_search_range">%1$s</xliff:g></string>
+    <string name="show_older_events">crwdns274320:0%1$scrwdne274320:0</string>
     <!-- This is shown at the bottom of the agenda view showing the end of the searched range. If the user taps on this string and Calendar will find events later/newer than what is visible and display them to the user -->
-    <string name="show_newer_events">Touch to view events after <xliff:g id="newest_search_range">%1$s</xliff:g></string>
+    <string name="show_newer_events">crwdns274322:0%1$scrwdne274322:0</string>
     <!-- Search activity strings -->
     <skip></skip>
     <!-- Title of the search screen [CHAR LIMIT=30] -->
-    <string name="search_title">Search my calendars</string>
+    <string name="search_title">crwdns274324:0crwdne274324:0</string>
     <!-- Button labels: -->
     <skip></skip>
     <!-- This is the title of a popup window that is displayed when the user
          edits a repeating event. [CHAR LIMIT=20]-->
-    <string name="edit_event_label">"Details"</string>
+    <string name="edit_event_label">"crwdns274326:0crwdne274326:0"</string>
     <!-- This is a menu button for switching into edit mode when viewing an event.
         [CHAR LIMIT=10] -->
-    <string name="edit_label">"Edit"</string>
+    <string name="edit_label">"crwdns274328:0crwdne274328:0"</string>
     <!-- The button label for deleting an event -->
-    <string name="delete_label">"Delete"</string>
+    <string name="delete_label">"crwdns274330:0crwdne274330:0"</string>
     <!-- A menu item for deleting an event -->
     <!-- The button label for saving an event -->
-    <string name="save_label">Done</string>
+    <string name="save_label">crwdns274332:0crwdne274332:0</string>
     <!-- The button label for discarding changes to an event -->
-    <string name="discard_label">Cancel</string>
+    <string name="discard_label">crwdns274334:0crwdne274334:0</string>
     <!-- Button labels on expanded notification reminders: -->
     <skip></skip>
     <!-- The button label for making the reminder alarms go away temporarily.
          The reminder alarms will fire off again in 5 minutes. -->
-    <string name="snooze_all_label">"Snooze all"</string>
+    <string name="snooze_all_label">"crwdns274336:0crwdne274336:0"</string>
     <!-- The button label for dismissing all the current reminder alarms. This
          causes them to disappear from the notification screen. -->
-    <string name="dismiss_all_label">"Dismiss all"</string>
+    <string name="dismiss_all_label">"crwdns274338:0crwdne274338:0"</string>
     <!-- The button label for making the reminder alarms go away temporarily
          and re-fire in 5 minutes. [CHAR LIMIT=12]-->
-    <string name="snooze_label">"Snooze"</string>
+    <string name="snooze_label">"crwdns274340:0crwdne274340:0"</string>
     <!-- Repetition dialog options: -->
     <skip></skip>
     <!-- A label in a multiple-choice list for the specifying that an event does
          not repeat -->
-    <string name="does_not_repeat">One-time event</string>
+    <string name="does_not_repeat">crwdns274342:0crwdne274342:0</string>
     <!-- Part of a description of an repeating event. This part states the date when a repeating
          event ends. The part before the semi-colon describes how it repeats.
          e.g. Every 2 weeks; until 1/1/2030 [CHAR LIMIT=21] -->
-    <string name="endByDate">; until <xliff:g id="date">%s</xliff:g></string>
+    <string name="endByDate">crwdns274344:0%scrwdne274344:0</string>
     <!-- Part of a description of an repeating event. This part how many times the event repeats.
          The part before the semi-colon describes how it repeats.
          e.g. Every 2 weeks; for 15 times [CHAR LIMIT=15] -->
     <plurals name="endByCount">
-        <item quantity="one">; for one time</item>
-        <item quantity="other">; for <xliff:g id="number">%d</xliff:g> times</item>
+        <item quantity="one">crwdns274346:1crwdne274346:1</item>
+        <item quantity="other">crwdns274346:5%dcrwdne274346:5</item>
     </plurals>
     <!-- A description for an event that repeats daily. For example, Every 2 days [CHAR LIMIT=15]-->
     <plurals name="daily">
-        <item quantity="one">Daily</item>
-        <item quantity="other">Every <xliff:g id="number">%d</xliff:g> days</item>
+        <item quantity="one">crwdns274348:1crwdne274348:1</item>
+        <item quantity="other">crwdns274348:5%dcrwdne274348:5</item>
     </plurals>
     <!-- A label in a multiple-choice list for the specifying that an event
          repeats every weekday (Monday through Friday) -->
-    <string name="every_weekday">"Every weekday (Mon\u2013Fri)"</string>
+    <string name="every_weekday">"crwdns274350:0crwdne274350:0"</string>
     <!-- A description for an event that repeats weekly on some day of the week. For example,
          'Weekly on Tuesday' or Every 2 weeks on Monday, Tuesday.  [CHAR LIMIT=25]-->
     <plurals name="weekly">
-        <item quantity="one">Weekly on <xliff:g id="days_of_week">%2$s</xliff:g></item>
-        <item quantity="other">Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g></item>
+        <item quantity="one">crwdns274352:1%2$scrwdne274352:1</item>
+        <item quantity="other">crwdns274352:5%1$dcrwdnd274352:5%2$scrwdne274352:5</item>
     </plurals>
     <!-- The common portion of a string describing how often an event repeats,
          example: 'Monthly (on day 2)' -->
-    <string name="monthly">Monthly</string>
+    <string name="monthly">crwdns274354:0crwdne274354:0</string>
     <!-- Calendar spinner item, to select that an event recurs every year. -->
-    <string name="yearly_plain">Yearly</string>
+    <string name="yearly_plain">crwdns274356:0crwdne274356:0</string>
     <!-- Example: "Monthly (on day 15)" -->
-    <string name="monthly_on_day">"Monthly (on day <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="monthly_on_day">"crwdns274358:0%scrwdne274358:0"</string>
     <!-- Example: "Yearly (on April 15)" -->
-    <string name="yearly">"Yearly (on <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="yearly">"crwdns274360:0%scrwdne274360:0"</string>
     <!-- This is a label for telling the user that this event repeats in
          custom (non-standard) way from the usual repeat rates (such as daily,
          weekly, etc.) and that the user cannot change this on the phone
@@ -414,256 +413,256 @@
          custom (non-standard) way from the usual repeat rates (such as daily,
          weekly, etc.) and that the user cannot change this on the phone
          (but only on the web). -->
-    <string name="custom" product="default">"Custom (can't customize on phone)"</string>
+    <string name="custom" product="default">"crwdns274362:0crwdne274362:0"</string>
     <!-- This is a choice in a list that the user sees when he tries to modify
          a repeating event.  This choice says to change just this one instance
          of this repeating event. -->
-    <string name="modify_event">Change only this event</string>
+    <string name="modify_event">crwdns274364:0crwdne274364:0</string>
     <!-- This is a choice in a list that the user sees when he tries to modify
          a repeating event.  This choice says to change all occurrences of
          this repeating event. -->
-    <string name="modify_all">Change all events in the series</string>
+    <string name="modify_all">crwdns274366:0crwdne274366:0</string>
     <!-- This is a choice in a list that the user sees when he tries to modify
          a repeating event.  This choice says to change this instance and all
          future occurrences of this repeating event. -->
-    <string name="modify_all_following">Change this and all future events</string>
+    <string name="modify_all_following">crwdns274368:0crwdne274368:0</string>
     <!-- Dialogs -->
     <!-- This is a label on the dialog for creating a new event. [CHAR LIMIT=30] -->
-    <string name="new_event_dialog_label">"New event"</string>
+    <string name="new_event_dialog_label">"crwdns274370:0crwdne274370:0"</string>
     <!-- This is the button to create a new event in a dialog window. [CHAR LIMIT=30] -->
-    <string name="new_event_dialog_option">"New event"</string>
+    <string name="new_event_dialog_option">"crwdns274372:0crwdne274372:0"</string>
     <!-- Confirmation dialog message -->
     <skip></skip>
     <!-- This is a confirmation message in a popup dialog that appears when the
          user has asked to delete an event. The user still has a chance to cancel
          this operation. -->
-    <string name="delete_this_event_title">Delete this event?</string>
+    <string name="delete_this_event_title">crwdns274374:0crwdne274374:0</string>
     <!-- This is a confirmation message in a popup dialog that appears when the
          user has asked to delete an event that is recurring. The user still has a chance to cancel
          this operation. -->
-    <string name="delete_recurring_event_title">Delete <xliff:g id="eventtitle">%s</xliff:g>?</string>
+    <string name="delete_recurring_event_title">crwdns274376:0%scrwdne274376:0</string>
     <!-- This is the title of a popup dialog that asks for confirmation before
          changing the response to an invitation. -->
-    <string name="change_response_title">Change response</string>
+    <string name="change_response_title">crwdns274378:0crwdne274378:0</string>
     <!-- This the title of a menu for General Preferences.
          Pressing the menu item lets user to view and edit his general settings
          (or preferences) [CHAR LIMIT=30] -->
-    <string name="menu_general_preferences">General settings</string>
+    <string name="menu_general_preferences">crwdns274380:0crwdne274380:0</string>
     <!-- This the title of a menu for "About Calendar" Preferences.
          Pressing the menu item lets user to view the current settings
          [CHAR LIMIT=30] -->
-    <string name="menu_about_preferences">About Calendar</string>
+    <string name="menu_about_preferences">crwdns274382:0crwdne274382:0</string>
     <!-- This is the title of the screen for setting user preferences. -->
-    <string name="preferences_title">"Settings"</string>
+    <string name="preferences_title">"crwdns274384:0crwdne274384:0"</string>
     <!-- This is the title of a section in the Settings screen for settings
          related to viewing calendar events -->
-    <string name="preferences_general_title">Calendar view setting</string>
+    <string name="preferences_general_title">crwdns274386:0crwdne274386:0</string>
     <!-- This is the title of a section in the Settings screen for settings
          related to reminders for calendar events -->
-    <string name="preferences_reminder_title">Notifications \u0026 reminders</string>
+    <string name="preferences_reminder_title">crwdns274388:0crwdne274388:0</string>
     <!-- Settings check box label to hide events that the user has declined to attend -->
-    <string name="preferences_hide_declined_title">Hide declined events</string>
+    <string name="preferences_hide_declined_title">crwdns274390:0crwdne274390:0</string>
     <!-- Settings week start label to start week on specific day-->
-    <string name="preferences_week_start_day_title">Week starts on</string>
+    <string name="preferences_week_start_day_title">crwdns274392:0crwdne274392:0</string>
     <!-- Title of popup for week start day setting-->
-    <string name="preferences_week_start_day_dialog">Week starts on</string>
+    <string name="preferences_week_start_day_dialog">crwdns274394:0crwdne274394:0</string>
     <!-- DO NOT TRANSLATE -->
-    <string name="preferences_week_start_day_default">-1</string>
+    <string name="preferences_week_start_day_default">crwdns274396:0crwdne274396:0</string>
     <!-- Title of the settings item to clear the recent search history [CHAR LIMIT=40] -->
-    <string name="preferences_clear_search_history_title">Clear search history</string>
+    <string name="preferences_clear_search_history_title">crwdns274398:0crwdne274398:0</string>
     <!-- Summary of the settings item to clear the recent search history [CHAR LIMIT=70]-->
-    <string name="preferences_clear_search_history_summary">Remove all the searches you\'ve performed</string>
+    <string name="preferences_clear_search_history_summary">crwdns274400:0crwdne274400:0</string>
     <!-- Message to show in a toast when the history is cleared [CHAR LIMIT=40] -->
-    <string name="search_history_cleared">Search history cleared.</string>
+    <string name="search_history_cleared">crwdns274402:0crwdne274402:0</string>
     <!-- Settings check box label to enable or disable notifications -->
-    <string name="preferences_alerts_title">Notifications</string>
+    <string name="preferences_alerts_title">crwdns274404:0crwdne274404:0</string>
     <!-- Settings dialog label that specifies when the phone should vibrate -->
-    <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
+    <string name="preferences_alerts_vibrateWhen_title">crwdns274406:0crwdne274406:0</string>
     <!-- The old value for enabling vibration. used only for migrating -->
     <!-- Title of ringtone selector dialog -->
-    <string name="preferences_alerts_ringtone_title">Sound</string>
+    <string name="preferences_alerts_ringtone_title">crwdns274410:0crwdne274410:0</string>
     <!-- Title of check box label to enable or disable pop-up notifications -->
-    <string name="preferences_alerts_popup_title">Pop-up notification</string>
+    <string name="preferences_alerts_popup_title">crwdns274412:0crwdne274412:0</string>
     <!-- List item label for setting the default number of reminder minutes -->
-    <string name="preferences_default_reminder_title">Default reminder time</string>
+    <string name="preferences_default_reminder_title">crwdns274414:0crwdne274414:0</string>
     <!-- Title of dialog for setting the default number of reminder minutes -->
-    <string name="preferences_default_reminder_dialog">Default reminder time</string>
+    <string name="preferences_default_reminder_dialog">crwdns274416:0crwdne274416:0</string>
     <!-- Default value for the number of reminder minutes -->
-    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_default_reminder_default">crwdns274418:0crwdne274418:0</string>
     <!-- Settings check box label to keep Calendar in a fixed 'home' time zone [CHAR LIMIT = 18] -->
-    <string name="preferences_use_home_tz_title">Use home time zone</string>
+    <string name="preferences_use_home_tz_title">crwdns274420:0crwdne274420:0</string>
     <!-- Settings description of what setting Calendar to use a fixed 'home' time
         zone does [CHAR LIMIT = 60]-->
-    <string name="preferences_use_home_tz_descrip">Displays calendars and event times in your home time zone when traveling</string>
+    <string name="preferences_use_home_tz_descrip">crwdns274422:0crwdne274422:0</string>
     <!-- Settings title for selecting a 'home' time zone to display Calendar in [CHAR LIMIT = 18] -->
-    <string name="preferences_home_tz_title">Home time zone</string>
+    <string name="preferences_home_tz_title">crwdns274424:0crwdne274424:0</string>
     <!-- DO NOT TRANSLATE -->
-    <string name="preferences_home_tz_default">America/Los_Angeles</string>
+    <string name="preferences_home_tz_default">crwdns274426:0crwdne274426:0</string>
     <!-- Title of the settings item to show week number in week view [CHAR LIMIT=40] -->
-    <string name="preferences_show_week_num_title">Show week number</string>
+    <string name="preferences_show_week_num_title">crwdns274428:0crwdne274428:0</string>
     <!-- This is the title of a section in the Settings screen for "About" this application -->
-    <string name="preferences_about_title">About</string>
+    <string name="preferences_about_title">crwdns274430:0crwdne274430:0</string>
     <!-- Build version of the application -->
-    <string name="preferences_build_version">Build version</string>
+    <string name="preferences_build_version">crwdns274432:0crwdne274432:0</string>
     <!-- Widget -->
     <skip></skip>
     <!-- Title for calendar gadget when displayed in list of all other gadgets -->
-    <string name="gadget_title">Calendar</string>
+    <string name="gadget_title">crwdns274434:0crwdne274434:0</string>
     <!-- Shown in month view next to event icon when additional events exist for that day, but no
         room remaining -->
     <plurals name="month_more_events">
         <!-- additional events message for 1 event, the quotes force a literal interpretation of the
             string [CHAR LIMIT = 10] -->
-        <item quantity="one">"+1"</item>
+        <item quantity="one">"crwdns274436:1crwdne274436:1"</item>
         <!-- additional events message for multiple events [CHAR LIMIT = 10] -->
-        <item quantity="other">+<xliff:g id="number">%d</xliff:g></item>
+        <item quantity="other">crwdns274436:5%dcrwdne274436:5</item>
     </plurals>
     <!-- Caption to show on gadget when there are no upcoming calendar events -->
-    <string name="gadget_no_events">No upcoming calendar events</string>
+    <string name="gadget_no_events">crwdns274438:0crwdne274438:0</string>
     <!-- Text to show on gadget when an event is currently in progress -->
     <!-- Text to show on gadget when an all-day event is in progress -->
     <!-- DO NOT TRANSLATE -->
-    <string name="tardis">TARDIS</string>
+    <string name="tardis">crwdns274440:0crwdne274440:0</string>
     <!-- Experimental settings [CHAR LIMIT = 30]-->
-    <string name="preferences_experimental_category">Experimental</string>
+    <string name="preferences_experimental_category">crwdns274442:0crwdne274442:0</string>
     <!-- Reminders settings [CHAR LIMIT = 30]-->
-    <string name="preferences_reminders_category">Reminders</string>
+    <string name="preferences_reminders_category">crwdns274444:0crwdne274444:0</string>
     <!-- Preference label for when to skip reminders [CHAR LIMIT = 25] -->
-    <string name="preferences_reminders_responded_label">Skip Reminders</string>
+    <string name="preferences_reminders_responded_label">crwdns274446:0crwdne274446:0</string>
     <!-- Dialog title for when to skip reminders [CHAR LIMIT = 25] -->
-    <string name="preferences_reminders_responded_dialog">Skip Reminders</string>
+    <string name="preferences_reminders_responded_dialog">crwdns274448:0crwdne274448:0</string>
     <!-- Preference label for quiet hours [CHAR LIMIT = 25]-->
-    <string name="preferences_reminders_quiet_hours_label">Quiet hours</string>
+    <string name="preferences_reminders_quiet_hours_label">crwdns274450:0crwdne274450:0</string>
     <!-- Preference description for quiet hours [CHAR LIMIT = NONE]-->
-    <string name="preferences_reminders_quiet_hours_description">Silence event reminders during specified time.</string>
+    <string name="preferences_reminders_quiet_hours_description">crwdns274452:0crwdne274452:0</string>
     <!-- Preference label for quiet hours start time [CHAR LIMIT = 25]-->
-    <string name="preferences_reminders_quiet_hours_start">Quiet hours start time</string>
+    <string name="preferences_reminders_quiet_hours_start">crwdns274454:0crwdne274454:0</string>
     <!-- Preference label for quiet hours end time [CHAR LIMIT = 25]-->
-    <string name="preferences_reminders_quiet_hours_end">Quiet hours end time</string>
+    <string name="preferences_reminders_quiet_hours_end">crwdns274456:0crwdne274456:0</string>
     <!-- Preferences used for debugging purposes [CHAR LIMIT = 30]-->
-    <string name="preferences_debug_category">Debugging</string>
+    <string name="preferences_debug_category">crwdns274458:0crwdne274458:0</string>
     <!-- Send a copy of the database to developers for debugging [CHAR LIMIT="NONE"] -->
-    <string name="copy_db">Send database</string>
+    <string name="copy_db">crwdns274460:0crwdne274460:0</string>
     <!-- Displayed in email address autocomplete list when searching for contacts
          in corporate directories. Example:  "Searching bigcompany.com..." [CHAR LIMIT=64] -->
-    <string name="directory_searching_fmt">Searching <xliff:g id="domain">%s</xliff:g>\u2026</string>
+    <string name="directory_searching_fmt">crwdns274462:0%scrwdne274462:0</string>
     <!-- Accessibility Events -->
     <!-- Strings that describes actions for buttons without text -->
     <!-- Create a new calendar event [CHAR LIMIT = NONE]-->
     <!-- Remove a name of an attendee from a calendar event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_remove_attendee">Remove attendee</string>
+    <string name="accessibility_remove_attendee">crwdns274464:0crwdne274464:0</string>
     <!-- Pick a starting date for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_start_date">Start date</string>
+    <string name="accessibility_pick_start_date">crwdns274466:0crwdne274466:0</string>
     <!-- Pick a starting time for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_start_time">Start time</string>
+    <string name="accessibility_pick_start_time">crwdns274468:0crwdne274468:0</string>
     <!-- Pick the ending date for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_end_date">End date</string>
+    <string name="accessibility_pick_end_date">crwdns274470:0crwdne274470:0</string>
     <!-- Pick the ending time for a new event[CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_end_time">End time</string>
+    <string name="accessibility_pick_end_time">crwdns274472:0crwdne274472:0</string>
     <!-- Select a time zone for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_time_zone">Time zone</string>
+    <string name="accessibility_pick_time_zone">crwdns274474:0crwdne274474:0</string>
     <!-- Select a time zone for a new event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_pick_recurrence">Repeat event</string>
+    <string name="accessibility_pick_recurrence">crwdns274476:0crwdne274476:0</string>
     <!-- Add a reminder to an event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_add_reminder">Add reminder</string>
+    <string name="accessibility_add_reminder">crwdns274478:0crwdne274478:0</string>
     <!-- Remove a reminder from an event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_remove_reminder">Remove reminder</string>
+    <string name="accessibility_remove_reminder">crwdns274480:0crwdne274480:0</string>
     <!-- Add a new attendee to an event [CHAR LIMIT = NONE]-->
-    <string name="accessibility_add_attendee">Add attendee</string>
+    <string name="accessibility_add_attendee">crwdns274482:0crwdne274482:0</string>
     <!-- Choose if to sync/unsync this calendar with its server [CHAR LIMIT = NONE]-->
-    <string name="accessibility_sync_cal">Sync calendar</string>
+    <string name="accessibility_sync_cal">crwdns274484:0crwdne274484:0</string>
     <!-- Mark this event as an "all day event" [CHAR LIMIT = NONE]-->
-    <string name="accessibility_all_day">All day event</string>
+    <string name="accessibility_all_day">crwdns274486:0crwdne274486:0</string>
     <!-- Refresh the data in the calendar [CHAR LIMIT = NONE]-->
     <!-- Choose the type of repetition for the event (daily, weekly, etc.[CHAR LIMIT = NONE]-->
-    <string name="accessibility_repeats">Repetition</string>
+    <string name="accessibility_repeats">crwdns274488:0crwdne274488:0</string>
     <!-- Set the time for the reminder[CHAR LIMIT = NONE]-->
-    <string name="accessibility_reminder_time">Reminder time</string>
+    <string name="accessibility_reminder_time">crwdns274490:0crwdne274490:0</string>
     <!-- Set the type of the reminder (popup/email/sms)[CHAR LIMIT = NONE]-->
-    <string name="accessibility_reminder_type">Reminder type</string>
+    <string name="accessibility_reminder_type">crwdns274492:0crwdne274492:0</string>
     <!-- Select the way you are visible for the event (busy/free) [CHAR LIMIT = NONE]-->
-    <string name="accessibility_reminder_showmeas">Show me as</string>
+    <string name="accessibility_reminder_showmeas">crwdns274494:0crwdne274494:0</string>
     <!-- Set the event as private/public/default [CHAR LIMIT = NONE]-->
-    <string name="accessibility_reminder_privacy">Privacy</string>
+    <string name="accessibility_reminder_privacy">crwdns274496:0crwdne274496:0</string>
     <!-- Calendar notification [CHAR LIMIT = NONE]-->
-    <string name="acessibility_cal_notification">Calendar Notification</string>
+    <string name="acessibility_cal_notification">crwdns274498:0crwdne274498:0</string>
     <!-- Calendar notification snooze button [CHAR LIMIT = NONE]-->
-    <string name="acessibility_snooze_notification">Snooze Notification</string>
+    <string name="acessibility_snooze_notification">crwdns274500:0crwdne274500:0</string>
     <!-- Calendar notification email button [CHAR LIMIT = NONE]-->
-    <string name="accessibility_email_notification">Email guests</string>
+    <string name="accessibility_email_notification">crwdns274502:0crwdne274502:0</string>
     <!-- A "new event" hint for the user when selecting a specific hour in the day view [CHAR LIMIT = 30]-->
-    <string name="day_view_new_event_hint">+ New event</string>
+    <string name="day_view_new_event_hint">crwdns274504:0crwdne274504:0</string>
     <!--
       Source: A value for announcing the current event index (example: "Event 2 of 6").
       Description: This is spoken to the user. [CHAR LIMIT="NONE"]
     -->
-    <string name="template_announce_item_index">Event <xliff:g id="item_index">%1$s</xliff:g> of <xliff:g id="item_count">%2$s</xliff:g>.</string>
+    <string name="template_announce_item_index">crwdns274506:0%1$scrwdnd274506:0%2$scrwdne274506:0</string>
     <!-- number of events in the notification bar -->
     <plurals name="Nevents">
         <!-- This is the label for a 1 event. -->
-        <item quantity="one">1 event</item>
+        <item quantity="one">crwdns274508:1crwdne274508:1</item>
         <!-- This is the label for 2 or more events. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> events</item>
+        <item quantity="other">crwdns274508:5%dcrwdne274508:5</item>
     </plurals>
     <!-- number of remaining events for an alert digest in the notification bar [CHAR LIMIT = 30] -->
     <plurals name="N_remaining_events">
         <!-- This is the label for 1 event. -->
-        <item quantity="one">+1 event</item>
+        <item quantity="one">crwdns274510:1crwdne274510:1</item>
         <!-- This is the label for 2 or more events. -->
-        <item quantity="other">+<xliff:g id="count">%d</xliff:g> events</item>
+        <item quantity="other">crwdns274510:5%dcrwdne274510:5</item>
     </plurals>
     <!-- Description of the selected marker for accessibility support [CHAR LIMIT = NONE]-->
-    <string name="acessibility_selected_marker_description">Selected event</string>
+    <string name="acessibility_selected_marker_description">crwdns274512:0crwdne274512:0</string>
     <!-- Tell user not to check a checkbox [CHAR LIMIT=30] -->
-    <string name="do_not_check">Do NOT check -&gt;</string>
+    <string name="do_not_check">crwdns274514:0crwdne274514:0</string>
     <!-- Dialog title for recurrence picker for configuring a repeating event[CHAR LIMIT=20] -->
-    <string name="recurrence_dialog_title">Repeat</string>
+    <string name="recurrence_dialog_title">crwdns274516:0crwdne274516:0</string>
     <!-- Dialog title for recurrence picker when one-time event is selected [CHAR LIMIT=20] -->
-    <string name="recurrence_dialog_title_never">Never repeats</string>
+    <string name="recurrence_dialog_title_never">crwdns274518:0crwdne274518:0</string>
     <!-- Strings to describe how frequently to repeat an event (e.g. every 5 days) -->
     <plurals name="recurrence_interval_daily">
         <!-- Singular form [CHAR LIMIT=30] -->
-        <item quantity="one">Every <xliff:g id="count">%d</xliff:g> day</item>
+        <item quantity="one">crwdns274520:1%dcrwdne274520:1</item>
         <!-- Plural form [CHAR LIMIT=30] -->
-        <item quantity="other">Every <xliff:g id="count">%d</xliff:g> days</item>
+        <item quantity="other">crwdns274520:5%dcrwdne274520:5</item>
     </plurals>
     <!-- Strings to describe how frequently to repeat an event (e.g. every 5 weeks) -->
     <plurals name="recurrence_interval_weekly">
         <!-- Singular form [CHAR LIMIT=30] -->
-        <item quantity="one">Every <xliff:g id="count">%d</xliff:g> week</item>
+        <item quantity="one">crwdns274522:1%dcrwdne274522:1</item>
         <!-- Plural form [CHAR LIMIT=30] -->
-        <item quantity="other">Every <xliff:g id="count">%d</xliff:g> weeks</item>
+        <item quantity="other">crwdns274522:5%dcrwdne274522:5</item>
     </plurals>
     <!-- Strings to describe how frequently to repeat an event (e.g. every 5 months) -->
     <plurals name="recurrence_interval_monthly">
         <!-- Singular form [CHAR LIMIT=30] -->
-        <item quantity="one">Every <xliff:g id="count">%d</xliff:g> month</item>
+        <item quantity="one">crwdns274524:1%dcrwdne274524:1</item>
         <!-- Plural form [CHAR LIMIT=30] -->
-        <item quantity="other">Every <xliff:g id="count">%d</xliff:g> months</item>
+        <item quantity="other">crwdns274524:5%dcrwdne274524:5</item>
     </plurals>
     <!-- Strings to describe how frequently to repeat an event (e.g. every 5 years) -->
     <plurals name="recurrence_interval_yearly">
         <!-- Singular form [CHAR LIMIT=30] -->
-        <item quantity="one">Every <xliff:g id="count">%d</xliff:g> year</item>
+        <item quantity="one">crwdns274526:1%dcrwdne274526:1</item>
         <!-- Plural form [CHAR LIMIT=30] -->
-        <item quantity="other">Every <xliff:g id="count">%d</xliff:g> years</item>
+        <item quantity="other">crwdns274526:5%dcrwdne274526:5</item>
     </plurals>
     <!-- Repeat an monthly event on the same day of every month [CHAR LIMIT=20] -->
-    <string name="recurrence_month_pattern_by_day">on the same day each month</string>
+    <string name="recurrence_month_pattern_by_day">crwdns274528:0crwdne274528:0</string>
     <!-- Specifies that a repeating event to repeat forever (based on the defined frequency) instead of ending at a future date[CHAR LIMIT=20] -->
-    <string name="recurrence_end_continously">Forever</string>
+    <string name="recurrence_end_continously">crwdns274530:0crwdne274530:0</string>
     <!-- Specifies that a repeating event to repeat until a certain date[CHAR LIMIT=25] -->
-    <string name="recurrence_end_date_label">Until a date</string>
+    <string name="recurrence_end_date_label">crwdns274532:0crwdne274532:0</string>
     <!-- Specifies that a repeating event to repeat until a certain date[CHAR LIMIT=20] -->
-    <string name="recurrence_end_date">Until <xliff:g id="date">%s</xliff:g></string>
+    <string name="recurrence_end_date">crwdns274534:0%scrwdne274534:0</string>
     <!-- Specifies that a repeating event to repeat for a number of times. A repeating event can repeat forever, repeat in a certain frequency until a certain date, or repeat for a number of times. e.g. repeat 10 times and stop. This string is for the last case [CHAR LIMIT=25] -->
-    <string name="recurrence_end_count_label">For a number of events</string>
+    <string name="recurrence_end_count_label">crwdns274536:0crwdne274536:0</string>
     <!-- Specifies that a repeating event should repeat for a certain number of iterations. [CHAR LIMIT=20]-->
     <plurals name="recurrence_end_count">
-        <item quantity="one">For <xliff:g id="event_count">%d</xliff:g> event</item>
-        <item quantity="other">For <xliff:g id="event_count">%d</xliff:g> events</item>
+        <item quantity="one">crwdns274538:1%dcrwdne274538:1</item>
+        <item quantity="other">crwdns274538:5%dcrwdne274538:5</item>
     </plurals>
     <!-- Description of the selected marker for accessibility support [CHAR LIMIT = NONE]-->
-    <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
+    <string name="acessibility_recurrence_choose_end_date_description">crwdns274540:0crwdne274540:0</string>
     <!-- Do Not Translate.  Sender identity for global notification synchronization. -->
 </resources>
