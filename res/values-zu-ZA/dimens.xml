@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="crwdns271864:0crwdne271864:0">crwdns271866:0crwdne271866:0</dimen>
+    <dimen name="crwdns271868:0crwdne271868:0">crwdns271870:0crwdne271870:0</dimen>
+    <dimen name="crwdns271872:0crwdne271872:0">crwdns271874:0crwdne271874:0</dimen>
+    <dimen name="crwdns271876:0crwdne271876:0">crwdns271878:0crwdne271878:0</dimen>
+    <dimen name="crwdns271880:0crwdne271880:0">crwdns271882:0crwdne271882:0</dimen>
+    <dimen name="crwdns271884:0crwdne271884:0">crwdns271886:0crwdne271886:0</dimen>
+    <dimen name="crwdns271888:0crwdne271888:0">crwdns271890:0crwdne271890:0</dimen>
+    <dimen name="crwdns271892:0crwdne271892:0">crwdns271894:0crwdne271894:0</dimen>
+    <dimen name="crwdns271896:0crwdne271896:0">crwdns271898:0crwdne271898:0</dimen>
+    <dimen name="crwdns271900:0crwdne271900:0">crwdns271902:0crwdne271902:0</dimen>
+    <dimen name="crwdns271904:0crwdne271904:0">crwdns271906:0crwdne271906:0</dimen>
+    <dimen name="crwdns271908:0crwdne271908:0">crwdns271910:0crwdne271910:0</dimen>
+    <dimen name="crwdns271912:0crwdne271912:0">crwdns271914:0crwdne271914:0</dimen>
+    <!-- minimum size of hours column in day/week view -->
+    <dimen name="crwdns271916:0crwdne271916:0">crwdns271918:0crwdne271918:0</dimen>
+    <!-- margins size of hours column in day/week view -->
+    <dimen name="crwdns271920:0crwdne271920:0">crwdns271922:0crwdne271922:0</dimen>
+    <dimen name="crwdns271924:0crwdne271924:0">crwdns271926:0crwdne271926:0</dimen>
+    <!-- size of day header in day and week views  -->
+    <dimen name="crwdns271928:0crwdne271928:0">crwdns271930:0crwdne271930:0</dimen>
+    <dimen name="crwdns271932:0crwdne271932:0">crwdns271934:0crwdne271934:0</dimen>
+    <dimen name="crwdns271936:0crwdne271936:0">crwdns271938:0crwdne271938:0</dimen>
+    <dimen name="crwdns271940:0crwdne271940:0">crwdns271942:0crwdne271942:0</dimen>
+    <dimen name="crwdns271944:0crwdne271944:0">crwdns271946:0crwdne271946:0</dimen>
+    <dimen name="crwdns271948:0crwdne271948:0">crwdns271950:0crwdne271950:0</dimen>
+    <dimen name="crwdns271952:0crwdne271952:0">crwdns271954:0crwdne271954:0</dimen>
+    <dimen name="crwdns271956:0crwdne271956:0">crwdns271958:0crwdne271958:0</dimen>
+    <dimen name="crwdns271960:0crwdne271960:0">crwdns271962:0crwdne271962:0</dimen>
+    <dimen name="crwdns271964:0crwdne271964:0">crwdns271966:0crwdne271966:0</dimen>
+    <dimen name="crwdns271968:0crwdne271968:0">crwdns271970:0crwdne271970:0</dimen>
+    <dimen name="crwdns271972:0crwdne271972:0">crwdns271974:0crwdne271974:0</dimen>
+    <dimen name="crwdns271976:0crwdne271976:0">crwdns271978:0crwdne271978:0</dimen>
+    <dimen name="crwdns271980:0crwdne271980:0">crwdns271982:0crwdne271982:0</dimen>
+    <dimen name="crwdns271984:0crwdne271984:0">crwdns271986:0crwdne271986:0</dimen>
+    <dimen name="crwdns271988:0crwdne271988:0">crwdns271990:0crwdne271990:0</dimen>
+    <dimen name="crwdns271992:0crwdne271992:0">crwdns271994:0crwdne271994:0</dimen>
+    <dimen name="crwdns271996:0crwdne271996:0">crwdns271998:0crwdne271998:0</dimen>
+    <dimen name="crwdns272000:0crwdne272000:0">crwdns272002:0crwdne272002:0</dimen>
+    <dimen name="crwdns272004:0crwdne272004:0">crwdns272006:0crwdne272006:0</dimen>
+
+    <dimen name="crwdns272008:0crwdne272008:0">crwdns272010:0crwdne272010:0</dimen>
+    <dimen name="crwdns272012:0crwdne272012:0">crwdns272014:0crwdne272014:0</dimen>
+</resources>
