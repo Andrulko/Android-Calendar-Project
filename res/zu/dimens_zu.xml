@@ -14,46 +14,46 @@
      limitations under the License.
 -->
 <resources>
-    <dimen name="crwdns1240:0crwdne1240:0">crwdns1242:0crwdne1242:0</dimen>
-    <dimen name="crwdns1244:0crwdne1244:0">crwdns1246:0crwdne1246:0</dimen>
-    <dimen name="crwdns1248:0crwdne1248:0">crwdns1250:0crwdne1250:0</dimen>
-    <dimen name="crwdns1252:0crwdne1252:0">crwdns1254:0crwdne1254:0</dimen>
-    <dimen name="crwdns1256:0crwdne1256:0">crwdns1258:0crwdne1258:0</dimen>
-    <dimen name="crwdns1260:0crwdne1260:0">crwdns1262:0crwdne1262:0</dimen>
-    <dimen name="crwdns1264:0crwdne1264:0">crwdns1266:0crwdne1266:0</dimen>
-    <dimen name="crwdns1268:0crwdne1268:0">crwdns1270:0crwdne1270:0</dimen>
-    <dimen name="crwdns1272:0crwdne1272:0">crwdns1274:0crwdne1274:0</dimen>
-    <dimen name="crwdns1276:0crwdne1276:0">crwdns1278:0crwdne1278:0</dimen>
-    <dimen name="crwdns1280:0crwdne1280:0">crwdns1282:0crwdne1282:0</dimen>
-    <dimen name="crwdns1284:0crwdne1284:0">crwdns1286:0crwdne1286:0</dimen>
-    <dimen name="crwdns1288:0crwdne1288:0">crwdns1290:0crwdne1290:0</dimen>
+    <dimen name="crwdns280030:0crwdne280030:0">crwdns280032:0crwdne280032:0</dimen>
+    <dimen name="crwdns280034:0crwdne280034:0">crwdns280036:0crwdne280036:0</dimen>
+    <dimen name="crwdns280038:0crwdne280038:0">crwdns280040:0crwdne280040:0</dimen>
+    <dimen name="crwdns280042:0crwdne280042:0">crwdns280044:0crwdne280044:0</dimen>
+    <dimen name="crwdns280046:0crwdne280046:0">crwdns280048:0crwdne280048:0</dimen>
+    <dimen name="crwdns280050:0crwdne280050:0">crwdns280052:0crwdne280052:0</dimen>
+    <dimen name="crwdns280054:0crwdne280054:0">crwdns280056:0crwdne280056:0</dimen>
+    <dimen name="crwdns280058:0crwdne280058:0">crwdns280060:0crwdne280060:0</dimen>
+    <dimen name="crwdns280062:0crwdne280062:0">crwdns280064:0crwdne280064:0</dimen>
+    <dimen name="crwdns280066:0crwdne280066:0">crwdns280068:0crwdne280068:0</dimen>
+    <dimen name="crwdns280070:0crwdne280070:0">crwdns280072:0crwdne280072:0</dimen>
+    <dimen name="crwdns280074:0crwdne280074:0">crwdns280076:0crwdne280076:0</dimen>
+    <dimen name="crwdns280078:0crwdne280078:0">crwdns280080:0crwdne280080:0</dimen>
     <!-- minimum size of hours column in day/week view -->
-    <dimen name="crwdns1292:0crwdne1292:0">crwdns1294:0crwdne1294:0</dimen>
+    <dimen name="crwdns280082:0crwdne280082:0">crwdns280084:0crwdne280084:0</dimen>
     <!-- margins size of hours column in day/week view -->
-    <dimen name="crwdns1296:0crwdne1296:0">crwdns1298:0crwdne1298:0</dimen>
-    <dimen name="crwdns1300:0crwdne1300:0">crwdns1302:0crwdne1302:0</dimen>
+    <dimen name="crwdns280086:0crwdne280086:0">crwdns280088:0crwdne280088:0</dimen>
+    <dimen name="crwdns280090:0crwdne280090:0">crwdns280092:0crwdne280092:0</dimen>
     <!-- size of day header in day and week views  -->
-    <dimen name="crwdns1304:0crwdne1304:0">crwdns1306:0crwdne1306:0</dimen>
-    <dimen name="crwdns1308:0crwdne1308:0">crwdns1310:0crwdne1310:0</dimen>
-    <dimen name="crwdns1312:0crwdne1312:0">crwdns1314:0crwdne1314:0</dimen>
-    <dimen name="crwdns1316:0crwdne1316:0">crwdns1318:0crwdne1318:0</dimen>
-    <dimen name="crwdns1320:0crwdne1320:0">crwdns1322:0crwdne1322:0</dimen>
-    <dimen name="crwdns1324:0crwdne1324:0">crwdns1326:0crwdne1326:0</dimen>
-    <dimen name="crwdns1328:0crwdne1328:0">crwdns1330:0crwdne1330:0</dimen>
-    <dimen name="crwdns1332:0crwdne1332:0">crwdns1334:0crwdne1334:0</dimen>
-    <dimen name="crwdns1336:0crwdne1336:0">crwdns1338:0crwdne1338:0</dimen>
-    <dimen name="crwdns1340:0crwdne1340:0">crwdns1342:0crwdne1342:0</dimen>
-    <dimen name="crwdns1344:0crwdne1344:0">crwdns1346:0crwdne1346:0</dimen>
-    <dimen name="crwdns1348:0crwdne1348:0">crwdns1350:0crwdne1350:0</dimen>
-    <dimen name="crwdns1352:0crwdne1352:0">crwdns1354:0crwdne1354:0</dimen>
-    <dimen name="crwdns1356:0crwdne1356:0">crwdns1358:0crwdne1358:0</dimen>
-    <dimen name="crwdns1360:0crwdne1360:0">crwdns1362:0crwdne1362:0</dimen>
-    <dimen name="crwdns1364:0crwdne1364:0">crwdns1366:0crwdne1366:0</dimen>
-    <dimen name="crwdns1368:0crwdne1368:0">crwdns1370:0crwdne1370:0</dimen>
-    <dimen name="crwdns1372:0crwdne1372:0">crwdns1374:0crwdne1374:0</dimen>
-    <dimen name="crwdns1376:0crwdne1376:0">crwdns1378:0crwdne1378:0</dimen>
-    <dimen name="crwdns1380:0crwdne1380:0">crwdns1382:0crwdne1382:0</dimen>
+    <dimen name="crwdns280094:0crwdne280094:0">crwdns280096:0crwdne280096:0</dimen>
+    <dimen name="crwdns280098:0crwdne280098:0">crwdns280100:0crwdne280100:0</dimen>
+    <dimen name="crwdns280102:0crwdne280102:0">crwdns280104:0crwdne280104:0</dimen>
+    <dimen name="crwdns280106:0crwdne280106:0">crwdns280108:0crwdne280108:0</dimen>
+    <dimen name="crwdns280110:0crwdne280110:0">crwdns280112:0crwdne280112:0</dimen>
+    <dimen name="crwdns280114:0crwdne280114:0">crwdns280116:0crwdne280116:0</dimen>
+    <dimen name="crwdns280118:0crwdne280118:0">crwdns280120:0crwdne280120:0</dimen>
+    <dimen name="crwdns280122:0crwdne280122:0">crwdns280124:0crwdne280124:0</dimen>
+    <dimen name="crwdns280126:0crwdne280126:0">crwdns280128:0crwdne280128:0</dimen>
+    <dimen name="crwdns280130:0crwdne280130:0">crwdns280132:0crwdne280132:0</dimen>
+    <dimen name="crwdns280134:0crwdne280134:0">crwdns280136:0crwdne280136:0</dimen>
+    <dimen name="crwdns280138:0crwdne280138:0">crwdns280140:0crwdne280140:0</dimen>
+    <dimen name="crwdns280142:0crwdne280142:0">crwdns280144:0crwdne280144:0</dimen>
+    <dimen name="crwdns280146:0crwdne280146:0">crwdns280148:0crwdne280148:0</dimen>
+    <dimen name="crwdns280150:0crwdne280150:0">crwdns280152:0crwdne280152:0</dimen>
+    <dimen name="crwdns280154:0crwdne280154:0">crwdns280156:0crwdne280156:0</dimen>
+    <dimen name="crwdns280158:0crwdne280158:0">crwdns280160:0crwdne280160:0</dimen>
+    <dimen name="crwdns280162:0crwdne280162:0">crwdns280164:0crwdne280164:0</dimen>
+    <dimen name="crwdns280166:0crwdne280166:0">crwdns280168:0crwdne280168:0</dimen>
+    <dimen name="crwdns280170:0crwdne280170:0">crwdns280172:0crwdne280172:0</dimen>
 
-    <dimen name="crwdns1384:0crwdne1384:0">crwdns1386:0crwdne1386:0</dimen>
-    <dimen name="crwdns1388:0crwdne1388:0">crwdns1390:0crwdne1390:0</dimen>
+    <dimen name="crwdns280174:0crwdne280174:0">crwdns280176:0crwdne280176:0</dimen>
+    <dimen name="crwdns280178:0crwdne280178:0">crwdns280180:0crwdne280180:0</dimen>
 </resources>

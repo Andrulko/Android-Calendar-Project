@@ -19,152 +19,152 @@
 -->
 <resources>
 
-    <color name="crwdns828:0crwdne828:0">crwdns830:0crwdne830:0</color>
+    <color name="crwdns279618:0crwdne279618:0">crwdns279620:0crwdne279620:0</color>
 
-    <color name="crwdns832:0crwdne832:0">crwdns834:0crwdne834:0</color>
+    <color name="crwdns279622:0crwdne279622:0">crwdns279624:0crwdne279624:0</color>
 
-    <color name="crwdns836:0crwdne836:0">crwdns838:0crwdne838:0</color>
+    <color name="crwdns279626:0crwdne279626:0">crwdns279628:0crwdne279628:0</color>
 
     <!-- The app wide background color -->
-    <color name="crwdns840:0crwdne840:0">crwdns842:0crwdne842:0</color>
-    <color name="crwdns844:0crwdne844:0">crwdns846:0crwdne846:0</color>
-    <color name="crwdns848:0crwdne848:0">crwdns850:0crwdne850:0</color>
-    <color name="crwdns852:0crwdne852:0">crwdns854:0crwdne854:0</color>
+    <color name="crwdns279630:0crwdne279630:0">crwdns279632:0crwdne279632:0</color>
+    <color name="crwdns279634:0crwdne279634:0">crwdns279636:0crwdne279636:0</color>
+    <color name="crwdns279638:0crwdne279638:0">crwdns279640:0crwdne279640:0</color>
+    <color name="crwdns279642:0crwdne279642:0">crwdns279644:0crwdne279644:0</color>
 
-    <color name="crwdns856:0crwdne856:0">crwdns858:0crwdne858:0</color>
-    <color name="crwdns860:0crwdne860:0">crwdns862:0crwdne862:0</color>
-
-
-    <color name="crwdns864:0crwdne864:0">crwdns866:0crwdne866:0</color>
-    <color name="crwdns868:0crwdne868:0">crwdns870:0crwdne870:0</color>
-    <color name="crwdns872:0crwdne872:0">crwdns874:0crwdne874:0</color>
-    <color name="crwdns876:0crwdne876:0">crwdns878:0crwdne878:0</color>
-    <color name="crwdns880:0crwdne880:0">crwdns882:0crwdne882:0</color>
-    <color name="crwdns884:0crwdne884:0">crwdns886:0crwdne886:0</color>
-
-    <color name="crwdns888:0crwdne888:0">crwdns890:0crwdne890:0</color>
-
-    <color name="crwdns892:0crwdne892:0">crwdns894:0crwdne894:0</color>
-
-    <color name="crwdns896:0crwdne896:0">crwdns898:0crwdne898:0</color>
+    <color name="crwdns279646:0crwdne279646:0">crwdns279648:0crwdne279648:0</color>
+    <color name="crwdns279650:0crwdne279650:0">crwdns279652:0crwdne279652:0</color>
 
 
-    <color name="crwdns900:0crwdne900:0">crwdns902:0crwdne902:0</color>
-    <color name="crwdns904:0crwdne904:0">crwdns906:0crwdne906:0</color>
-    <color name="crwdns908:0crwdne908:0">crwdns910:0crwdne910:0</color>
+    <color name="crwdns279654:0crwdne279654:0">crwdns279656:0crwdne279656:0</color>
+    <color name="crwdns279658:0crwdne279658:0">crwdns279660:0crwdne279660:0</color>
+    <color name="crwdns279662:0crwdne279662:0">crwdns279664:0crwdne279664:0</color>
+    <color name="crwdns279666:0crwdne279666:0">crwdns279668:0crwdne279668:0</color>
+    <color name="crwdns279670:0crwdne279670:0">crwdns279672:0crwdne279672:0</color>
+    <color name="crwdns279674:0crwdne279674:0">crwdns279676:0crwdne279676:0</color>
 
-    <color name="crwdns912:0crwdne912:0">crwdns914:0crwdne914:0</color>
-    <color name="crwdns916:0crwdne916:0">crwdns918:0crwdne918:0</color>
+    <color name="crwdns279678:0crwdne279678:0">crwdns279680:0crwdne279680:0</color>
 
-    <color name="crwdns920:0crwdne920:0">crwdns922:0crwdne922:0</color>
-    <color name="crwdns924:0crwdne924:0">crwdns926:0crwdne926:0</color>
-    <color name="crwdns928:0crwdne928:0">crwdns930:0crwdne930:0</color>
-    <color name="crwdns932:0crwdne932:0">crwdns934:0crwdne934:0</color>
-    <color name="crwdns936:0crwdne936:0">crwdns938:0crwdne938:0</color>
-    <color name="crwdns940:0crwdne940:0">crwdns942:0crwdne942:0</color>
-    <color name="crwdns944:0crwdne944:0">crwdns946:0crwdne946:0</color>
-    <color name="crwdns948:0crwdne948:0">crwdns950:0crwdne950:0</color>
-    <color name="crwdns952:0crwdne952:0">crwdns954:0crwdne954:0</color>
-    <color name="crwdns956:0crwdne956:0">crwdns958:0crwdne958:0</color>
-    <color name="crwdns960:0crwdne960:0">crwdns962:0crwdne962:0</color>
-    <color name="crwdns964:0crwdne964:0">crwdns966:0crwdne966:0</color>
-    <color name="crwdns968:0crwdne968:0">crwdns970:0crwdne970:0</color>
-    <color name="crwdns972:0crwdne972:0">crwdns974:0crwdne974:0</color>
-    <color name="crwdns976:0crwdne976:0">crwdns978:0crwdne978:0</color>
-    <color name="crwdns980:0crwdne980:0">crwdns982:0crwdne982:0</color>
-    <color name="crwdns984:0crwdne984:0">crwdns986:0crwdne986:0</color>
-    <color name="crwdns988:0crwdne988:0">crwdns990:0crwdne990:0</color>
+    <color name="crwdns279682:0crwdne279682:0">crwdns279684:0crwdne279684:0</color>
 
-    <color name="crwdns992:0crwdne992:0">crwdns994:0crwdne994:0</color>
+    <color name="crwdns279686:0crwdne279686:0">crwdns279688:0crwdne279688:0</color>
 
-    <color name="crwdns996:0crwdne996:0">crwdns998:0crwdne998:0</color>
-    <color name="crwdns1000:0crwdne1000:0">crwdns1002:0crwdne1002:0</color>
 
-    <color name="crwdns1004:0crwdne1004:0">crwdns1006:0crwdne1006:0</color>
-    <color name="crwdns1008:0crwdne1008:0">crwdns1010:0crwdne1010:0</color>
-    <color name="crwdns1012:0crwdne1012:0">crwdns1014:0crwdne1014:0</color>
-    <color name="crwdns1016:0crwdne1016:0">crwdns1018:0crwdne1018:0</color>
+    <color name="crwdns279690:0crwdne279690:0">crwdns279692:0crwdne279692:0</color>
+    <color name="crwdns279694:0crwdne279694:0">crwdns279696:0crwdne279696:0</color>
+    <color name="crwdns279698:0crwdne279698:0">crwdns279700:0crwdne279700:0</color>
+
+    <color name="crwdns279702:0crwdne279702:0">crwdns279704:0crwdne279704:0</color>
+    <color name="crwdns279706:0crwdne279706:0">crwdns279708:0crwdne279708:0</color>
+
+    <color name="crwdns279710:0crwdne279710:0">crwdns279712:0crwdne279712:0</color>
+    <color name="crwdns279714:0crwdne279714:0">crwdns279716:0crwdne279716:0</color>
+    <color name="crwdns279718:0crwdne279718:0">crwdns279720:0crwdne279720:0</color>
+    <color name="crwdns279722:0crwdne279722:0">crwdns279724:0crwdne279724:0</color>
+    <color name="crwdns279726:0crwdne279726:0">crwdns279728:0crwdne279728:0</color>
+    <color name="crwdns279730:0crwdne279730:0">crwdns279732:0crwdne279732:0</color>
+    <color name="crwdns279734:0crwdne279734:0">crwdns279736:0crwdne279736:0</color>
+    <color name="crwdns279738:0crwdne279738:0">crwdns279740:0crwdne279740:0</color>
+    <color name="crwdns279742:0crwdne279742:0">crwdns279744:0crwdne279744:0</color>
+    <color name="crwdns279746:0crwdne279746:0">crwdns279748:0crwdne279748:0</color>
+    <color name="crwdns279750:0crwdne279750:0">crwdns279752:0crwdne279752:0</color>
+    <color name="crwdns279754:0crwdne279754:0">crwdns279756:0crwdne279756:0</color>
+    <color name="crwdns279758:0crwdne279758:0">crwdns279760:0crwdne279760:0</color>
+    <color name="crwdns279762:0crwdne279762:0">crwdns279764:0crwdne279764:0</color>
+    <color name="crwdns279766:0crwdne279766:0">crwdns279768:0crwdne279768:0</color>
+    <color name="crwdns279770:0crwdne279770:0">crwdns279772:0crwdne279772:0</color>
+    <color name="crwdns279774:0crwdne279774:0">crwdns279776:0crwdne279776:0</color>
+    <color name="crwdns279778:0crwdne279778:0">crwdns279780:0crwdne279780:0</color>
+
+    <color name="crwdns279782:0crwdne279782:0">crwdns279784:0crwdne279784:0</color>
+
+    <color name="crwdns279786:0crwdne279786:0">crwdns279788:0crwdne279788:0</color>
+    <color name="crwdns279790:0crwdne279790:0">crwdns279792:0crwdne279792:0</color>
+
+    <color name="crwdns279794:0crwdne279794:0">crwdns279796:0crwdne279796:0</color>
+    <color name="crwdns279798:0crwdne279798:0">crwdns279800:0crwdne279800:0</color>
+    <color name="crwdns279802:0crwdne279802:0">crwdns279804:0crwdne279804:0</color>
+    <color name="crwdns279806:0crwdne279806:0">crwdns279808:0crwdne279808:0</color>
 
     <!-- Text color of the date in the Calendar widget -->
 
-    <color name="crwdns1020:0crwdne1020:0">crwdns1022:0crwdne1022:0</color>
+    <color name="crwdns279810:0crwdne279810:0">crwdns279812:0crwdne279812:0</color>
     <!-- Text color of declined events in agenda view -->
-    <color name="crwdns1024:0crwdne1024:0">crwdns1026:0crwdne1026:0</color>
+    <color name="crwdns279814:0crwdne279814:0">crwdns279816:0crwdne279816:0</color>
     <!-- Text color of non-declined events in agenda view -->
-    <color name="crwdns1028:0crwdne1028:0">crwdns1030:0crwdne1030:0</color>
+    <color name="crwdns279818:0crwdne279818:0">crwdns279820:0crwdne279820:0</color>
     <!-- Background Color of present/future events in agenda view  -->
-    <color name="crwdns1032:0crwdne1032:0">crwdns1034:0crwdne1034:0</color>
+    <color name="crwdns279822:0crwdne279822:0">crwdns279824:0crwdne279824:0</color>
     <!-- Background Color of past events in agenda view  -->
-    <color name="crwdns1036:0crwdne1036:0">crwdns1038:0crwdne1038:0</color>
+    <color name="crwdns279826:0crwdne279826:0">crwdns279828:0crwdne279828:0</color>
     <!-- Color of the separator between the past and the present/future in agenda view  -->
-    <color name="crwdns1040:0crwdne1040:0">crwdns1042:0crwdne1042:0</color>
+    <color name="crwdns279830:0crwdne279830:0">crwdns279832:0crwdne279832:0</color>
     <!-- General background color in agenda view  -->
-    <color name="crwdns1044:0crwdne1044:0">crwdns1046:0crwdne1046:0</color>
+    <color name="crwdns279834:0crwdne279834:0">crwdns279836:0crwdne279836:0</color>
     <!-- Agenda day item text color  -->
-    <color name="crwdns1048:0crwdne1048:0">crwdns1050:0crwdne1050:0</color>
+    <color name="crwdns279838:0crwdne279838:0">crwdns279840:0crwdne279840:0</color>
     <!-- Color of the event location's text in an agenda item  -->
-    <color name="crwdns1052:0crwdne1052:0">crwdns1054:0crwdne1054:0</color>
+    <color name="crwdns279842:0crwdne279842:0">crwdns279844:0crwdne279844:0</color>
     <!-- Color of the event location's text in an agenda item  -->
-    <color name="crwdns1056:0crwdne1056:0">crwdns1058:0crwdne1058:0</color>
+    <color name="crwdns279846:0crwdne279846:0">crwdns279848:0crwdne279848:0</color>
     <!-- Color of text in the calendar view selection menu -->
-    <color name="crwdns1060:0crwdne1060:0">crwdns1062:0crwdne1062:0</color>
+    <color name="crwdns279850:0crwdne279850:0">crwdns279852:0crwdne279852:0</color>
     <!-- Light color of text in the calendar view selection menu -->
-    <color name="crwdns1064:0crwdne1064:0">crwdns1066:0crwdne1066:0</color>
+    <color name="crwdns279854:0crwdne279854:0">crwdns279856:0crwdne279856:0</color>
     <!-- Color of the separator between items in the agenda list -->
-    <color name="crwdns1068:0crwdne1068:0">crwdns1070:0crwdne1070:0</color>
+    <color name="crwdns279858:0crwdne279858:0">crwdns279860:0crwdne279860:0</color>
     <!-- Text color of a selected items in the agenda list - trumps all other text colors -->
-    <color name="crwdns1072:0crwdne1072:0">crwdns1074:0crwdne1074:0</color>
+    <color name="crwdns279862:0crwdne279862:0">crwdns279864:0crwdne279864:0</color>
     <!-- Background color of a selected items in the agenda list -->
-    <color name="crwdns1076:0crwdne1076:0">crwdns1078:0crwdne1078:0</color>
+    <color name="crwdns279866:0crwdne279866:0">crwdns279868:0crwdne279868:0</color>
     <!-- Text color of the "new event" hint in day and week views -->
-    <color name="crwdns1080:0crwdne1080:0">crwdns1082:0crwdne1082:0</color>
+    <color name="crwdns279870:0crwdne279870:0">crwdns279872:0crwdne279872:0</color>
 
     <!-- Text color of a clicked event in the day/week view -->
-    <color name="crwdns1084:0crwdne1084:0">crwdns1086:0crwdne1086:0</color>
+    <color name="crwdns279874:0crwdne279874:0">crwdns279876:0crwdne279876:0</color>
     <!-- background color for for clicked days in month view-->
-    <color name="crwdns1088:0crwdne1088:0">crwdns1090:0crwdne1090:0</color>
+    <color name="crwdns279878:0crwdne279878:0">crwdns279880:0crwdne279880:0</color>
     <!-- background color for the past -->
-    <color name="crwdns1092:0crwdne1092:0">crwdns1094:0crwdne1094:0</color>
+    <color name="crwdns279882:0crwdne279882:0">crwdns279884:0crwdne279884:0</color>
 
     <!-- Event info colors -->
-    <color name="crwdns1096:0crwdne1096:0">crwdns1098:0crwdne1098:0</color>
-    <color name="crwdns1100:0crwdne1100:0">crwdns1102:0crwdne1102:0</color>
-    <color name="crwdns1104:0crwdne1104:0">crwdns1106:0crwdne1106:0</color>
-    <color name="crwdns1108:0crwdne1108:0">crwdns1110:0crwdne1110:0</color>
-    <color name="crwdns1112:0crwdne1112:0">crwdns1114:0crwdne1114:0</color>
-    <color name="crwdns1116:0crwdne1116:0">crwdns1118:0crwdne1118:0</color>
-    <color name="crwdns1120:0crwdne1120:0">crwdns1122:0crwdne1122:0</color>
-    <color name="crwdns1124:0crwdne1124:0">crwdns1126:0crwdne1126:0</color>
+    <color name="crwdns279886:0crwdne279886:0">crwdns279888:0crwdne279888:0</color>
+    <color name="crwdns279890:0crwdne279890:0">crwdns279892:0crwdne279892:0</color>
+    <color name="crwdns279894:0crwdne279894:0">crwdns279896:0crwdne279896:0</color>
+    <color name="crwdns279898:0crwdne279898:0">crwdns279900:0crwdne279900:0</color>
+    <color name="crwdns279902:0crwdne279902:0">crwdns279904:0crwdne279904:0</color>
+    <color name="crwdns279906:0crwdne279906:0">crwdns279908:0crwdne279908:0</color>
+    <color name="crwdns279910:0crwdne279910:0">crwdns279912:0crwdne279912:0</color>
+    <color name="crwdns279914:0crwdne279914:0">crwdns279916:0crwdne279916:0</color>
 
     <!-- Create event colors -->
-    <color name="crwdns1128:0crwdne1128:0">crwdns1130:0crwdne1130:0</color>
-    <color name="crwdns1132:0crwdne1132:0">crwdns1134:0crwdne1134:0</color>
-    <color name="crwdns1136:0crwdne1136:0">crwdns1138:0crwdne1138:0</color>
+    <color name="crwdns279918:0crwdne279918:0">crwdns279920:0crwdne279920:0</color>
+    <color name="crwdns279922:0crwdne279922:0">crwdns279924:0crwdne279924:0</color>
+    <color name="crwdns279926:0crwdne279926:0">crwdns279928:0crwdne279928:0</color>
 
-    <color name="crwdns1140:0crwdne1140:0">crwdns1142:0crwdne1142:0</color>
+    <color name="crwdns279930:0crwdne279930:0">crwdns279932:0crwdne279932:0</color>
 
-    <color name="crwdns1144:0crwdne1144:0">crwdns1146:0crwdne1146:0</color>
-    <color name="crwdns1148:0crwdne1148:0">crwdns1150:0crwdne1150:0</color>
-    <color name="crwdns1152:0crwdne1152:0">crwdns1154:0crwdne1154:0</color>
+    <color name="crwdns279934:0crwdne279934:0">crwdns279936:0crwdne279936:0</color>
+    <color name="crwdns279938:0crwdne279938:0">crwdns279940:0crwdne279940:0</color>
+    <color name="crwdns279942:0crwdne279942:0">crwdns279944:0crwdne279944:0</color>
 
-    <color name="crwdns1156:0crwdne1156:0">crwdns1158:0crwdne1158:0</color>
+    <color name="crwdns279946:0crwdne279946:0">crwdns279948:0crwdne279948:0</color>
 
-    <color name="crwdns1160:0crwdne1160:0">crwdns1162:0crwdne1162:0</color>
-    <color name="crwdns1164:0crwdne1164:0">crwdns1166:0crwdne1166:0</color>
-    <color name="crwdns1168:0crwdne1168:0">crwdns1170:0crwdne1170:0</color>
+    <color name="crwdns279950:0crwdne279950:0">crwdns279952:0crwdne279952:0</color>
+    <color name="crwdns279954:0crwdne279954:0">crwdns279956:0crwdne279956:0</color>
+    <color name="crwdns279958:0crwdne279958:0">crwdns279960:0crwdne279960:0</color>
 
     <!-- Text color of declined events in widget view -->
-    <color name="crwdns1172:0crwdne1172:0">crwdns1174:0crwdne1174:0</color>
+    <color name="crwdns279962:0crwdne279962:0">crwdns279964:0crwdne279964:0</color>
     <!-- Text color of non-declined events in widget view -->
-    <color name="crwdns1176:0crwdne1176:0">crwdns1178:0crwdne1178:0</color>
+    <color name="crwdns279966:0crwdne279966:0">crwdns279968:0crwdne279968:0</color>
     <!-- Text color for all day events in widget view -->
-    <color name="crwdns1180:0crwdne1180:0">crwdns1182:0crwdne1182:0</color>
+    <color name="crwdns279970:0crwdne279970:0">crwdns279972:0crwdne279972:0</color>
 
-    <color name="crwdns1184:0crwdne1184:0">crwdns1186:0crwdne1186:0</color>
-    <color name="crwdns1188:0crwdne1188:0">crwdns1190:0crwdne1190:0</color>
-    <color name="crwdns1192:0crwdne1192:0">crwdns1194:0crwdne1194:0</color>
-    <color name="crwdns1196:0crwdne1196:0">crwdns1198:0crwdne1198:0</color>
+    <color name="crwdns279974:0crwdne279974:0">crwdns279976:0crwdne279976:0</color>
+    <color name="crwdns279978:0crwdne279978:0">crwdns279980:0crwdne279980:0</color>
+    <color name="crwdns279982:0crwdne279982:0">crwdns279984:0crwdne279984:0</color>
+    <color name="crwdns279986:0crwdne279986:0">crwdns279988:0crwdne279988:0</color>
 
-    <color name="crwdns1200:0crwdne1200:0">crwdns1202:0crwdne1202:0</color>
-    <color name="crwdns1204:0crwdne1204:0">crwdns1206:0crwdne1206:0</color>
+    <color name="crwdns279990:0crwdne279990:0">crwdns279992:0crwdne279992:0</color>
+    <color name="crwdns279994:0crwdne279994:0">crwdns279996:0crwdne279996:0</color>
 </resources>
