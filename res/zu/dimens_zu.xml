@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="crwdns275946:0crwdne275946:0">crwdns275948:0crwdne275948:0</dimen>
+    <dimen name="crwdns275950:0crwdne275950:0">crwdns275952:0crwdne275952:0</dimen>
+    <dimen name="crwdns275954:0crwdne275954:0">crwdns275956:0crwdne275956:0</dimen>
+    <dimen name="crwdns275958:0crwdne275958:0">crwdns275960:0crwdne275960:0</dimen>
+    <dimen name="crwdns275962:0crwdne275962:0">crwdns275964:0crwdne275964:0</dimen>
+    <dimen name="crwdns275966:0crwdne275966:0">crwdns275968:0crwdne275968:0</dimen>
+    <dimen name="crwdns275970:0crwdne275970:0">crwdns275972:0crwdne275972:0</dimen>
+    <dimen name="crwdns275974:0crwdne275974:0">crwdns275976:0crwdne275976:0</dimen>
+    <dimen name="crwdns275978:0crwdne275978:0">crwdns275980:0crwdne275980:0</dimen>
+    <dimen name="crwdns275982:0crwdne275982:0">crwdns275984:0crwdne275984:0</dimen>
+    <dimen name="crwdns275986:0crwdne275986:0">crwdns275988:0crwdne275988:0</dimen>
+    <dimen name="crwdns275990:0crwdne275990:0">crwdns275992:0crwdne275992:0</dimen>
+    <dimen name="crwdns275994:0crwdne275994:0">crwdns275996:0crwdne275996:0</dimen>
+    <!-- minimum size of hours column in day/week view -->
+    <dimen name="crwdns275998:0crwdne275998:0">crwdns276000:0crwdne276000:0</dimen>
+    <!-- margins size of hours column in day/week view -->
+    <dimen name="crwdns276002:0crwdne276002:0">crwdns276004:0crwdne276004:0</dimen>
+    <dimen name="crwdns276006:0crwdne276006:0">crwdns276008:0crwdne276008:0</dimen>
+    <!-- size of day header in day and week views  -->
+    <dimen name="crwdns276010:0crwdne276010:0">crwdns276012:0crwdne276012:0</dimen>
+    <dimen name="crwdns276014:0crwdne276014:0">crwdns276016:0crwdne276016:0</dimen>
+    <dimen name="crwdns276018:0crwdne276018:0">crwdns276020:0crwdne276020:0</dimen>
+    <dimen name="crwdns276022:0crwdne276022:0">crwdns276024:0crwdne276024:0</dimen>
+    <dimen name="crwdns276026:0crwdne276026:0">crwdns276028:0crwdne276028:0</dimen>
+    <dimen name="crwdns276030:0crwdne276030:0">crwdns276032:0crwdne276032:0</dimen>
+    <dimen name="crwdns276034:0crwdne276034:0">crwdns276036:0crwdne276036:0</dimen>
+    <dimen name="crwdns276038:0crwdne276038:0">crwdns276040:0crwdne276040:0</dimen>
+    <dimen name="crwdns276042:0crwdne276042:0">crwdns276044:0crwdne276044:0</dimen>
+    <dimen name="crwdns276046:0crwdne276046:0">crwdns276048:0crwdne276048:0</dimen>
+    <dimen name="crwdns276050:0crwdne276050:0">crwdns276052:0crwdne276052:0</dimen>
+    <dimen name="crwdns276054:0crwdne276054:0">crwdns276056:0crwdne276056:0</dimen>
+    <dimen name="crwdns276058:0crwdne276058:0">crwdns276060:0crwdne276060:0</dimen>
+    <dimen name="crwdns276062:0crwdne276062:0">crwdns276064:0crwdne276064:0</dimen>
+    <dimen name="crwdns276066:0crwdne276066:0">crwdns276068:0crwdne276068:0</dimen>
+    <dimen name="crwdns276070:0crwdne276070:0">crwdns276072:0crwdne276072:0</dimen>
+    <dimen name="crwdns276074:0crwdne276074:0">crwdns276076:0crwdne276076:0</dimen>
+    <dimen name="crwdns276078:0crwdne276078:0">crwdns276080:0crwdne276080:0</dimen>
+    <dimen name="crwdns276082:0crwdne276082:0">crwdns276084:0crwdne276084:0</dimen>
+    <dimen name="crwdns276086:0crwdne276086:0">crwdns276088:0crwdne276088:0</dimen>
+
+    <dimen name="crwdns276090:0crwdne276090:0">crwdns276092:0crwdne276092:0</dimen>
+    <dimen name="crwdns276094:0crwdne276094:0">crwdns276096:0crwdne276096:0</dimen>
+</resources>
