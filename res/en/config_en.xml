@@ -13,24 +13,24 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- turn on/off the mini-calendar and calendar picker -->
     <!-- supported only for x-large devices  -->
-    <bool name="crwdns277954:0crwdne277954:0">crwdns277956:0crwdne277956:0</bool>
+    <bool name="show_calendar_controls">false</bool>
     <!-- turn on/off month with agenda view -->
     <!-- not supported for X-large devices -->
-    <bool name="crwdns277958:0crwdne277958:0">crwdns277960:0crwdne277960:0</bool>
+    <bool name="show_agenda_with_month">false</bool>
     <!-- when on, shows details of event in month view, when off, shows busy bits -->
     <!-- the "show details" mode is recommended for devices with large screens -->
-    <bool name="crwdns277962:0crwdne277962:0">crwdns277964:0crwdne277964:0</bool>
+    <bool name="show_details_in_month">false</bool>
     <!-- when on, shows the event next to the agenda list,
          when off, shows the event on top of the agenda list after it was clicked. -->
-    <bool name="crwdns277966:0crwdne277966:0">crwdns277968:0crwdne277968:0</bool>
+    <bool name="show_event_details_with_agenda">false</bool>
     <!-- when on, event info launched from agenda view is shown in full screen, -->
     <!-- when off, shown as a popup. -->
-    <bool name="crwdns277970:0crwdne277970:0">crwdns277972:0crwdne277972:0</bool>
+    <bool name="agenda_show_event_info_full_screen">true</bool>
     <!-- when on, event info launched from day/week/month view is shown in full screen, -->
     <!-- when off, shown as a popup. -->
-    <bool name="crwdns277974:0crwdne277974:0">crwdns277976:0crwdne277976:0</bool>
+    <bool name="show_event_info_full_screen">true</bool>
     <!--  A global var used to tablet vs phone settings -->
-    <bool name="crwdns277978:0crwdne277978:0">crwdns277980:0crwdne277980:0</bool>
+    <bool name="tablet_config">false</bool>
     <!--  A global var used to set the main layout theme (one pane vs multiple panes) -->
-    <bool name="crwdns277982:0crwdne277982:0">crwdns277984:0crwdne277984:0</bool>
+    <bool name="multiple_pane_config">false</bool>
 </resources>

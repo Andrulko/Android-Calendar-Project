@@ -14,5 +14,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="standalone_app_label">crwdns278182:0crwdne278182:0</string>
+    <string name="standalone_app_label">Standalone Calendar</string>
 </resources>

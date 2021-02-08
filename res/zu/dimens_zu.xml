@@ -14,46 +14,46 @@
      limitations under the License.
 -->
 <resources>
-    <dimen name="crwdns4779323:0crwdne4779323:0">crwdns4779325:0crwdne4779325:0</dimen>
-    <dimen name="crwdns4779327:0crwdne4779327:0">crwdns4779329:0crwdne4779329:0</dimen>
-    <dimen name="crwdns4779331:0crwdne4779331:0">crwdns4779333:0crwdne4779333:0</dimen>
-    <dimen name="crwdns4779335:0crwdne4779335:0">crwdns4779337:0crwdne4779337:0</dimen>
-    <dimen name="crwdns4779339:0crwdne4779339:0">crwdns4779341:0crwdne4779341:0</dimen>
-    <dimen name="crwdns4779343:0crwdne4779343:0">crwdns4779345:0crwdne4779345:0</dimen>
-    <dimen name="crwdns4779347:0crwdne4779347:0">crwdns4779349:0crwdne4779349:0</dimen>
-    <dimen name="crwdns4779351:0crwdne4779351:0">crwdns4779353:0crwdne4779353:0</dimen>
-    <dimen name="crwdns4779355:0crwdne4779355:0">crwdns4779357:0crwdne4779357:0</dimen>
-    <dimen name="crwdns4779359:0crwdne4779359:0">crwdns4779361:0crwdne4779361:0</dimen>
-    <dimen name="crwdns4779363:0crwdne4779363:0">crwdns4779365:0crwdne4779365:0</dimen>
-    <dimen name="crwdns4779367:0crwdne4779367:0">crwdns4779369:0crwdne4779369:0</dimen>
-    <dimen name="crwdns4779371:0crwdne4779371:0">crwdns4779373:0crwdne4779373:0</dimen>
+    <dimen name="crwdns277986:0crwdne277986:0">crwdns277988:0crwdne277988:0</dimen>
+    <dimen name="crwdns277990:0crwdne277990:0">crwdns277992:0crwdne277992:0</dimen>
+    <dimen name="crwdns277994:0crwdne277994:0">crwdns277996:0crwdne277996:0</dimen>
+    <dimen name="crwdns277998:0crwdne277998:0">crwdns278000:0crwdne278000:0</dimen>
+    <dimen name="crwdns278002:0crwdne278002:0">crwdns278004:0crwdne278004:0</dimen>
+    <dimen name="crwdns278006:0crwdne278006:0">crwdns278008:0crwdne278008:0</dimen>
+    <dimen name="crwdns278010:0crwdne278010:0">crwdns278012:0crwdne278012:0</dimen>
+    <dimen name="crwdns278014:0crwdne278014:0">crwdns278016:0crwdne278016:0</dimen>
+    <dimen name="crwdns278018:0crwdne278018:0">crwdns278020:0crwdne278020:0</dimen>
+    <dimen name="crwdns278022:0crwdne278022:0">crwdns278024:0crwdne278024:0</dimen>
+    <dimen name="crwdns278026:0crwdne278026:0">crwdns278028:0crwdne278028:0</dimen>
+    <dimen name="crwdns278030:0crwdne278030:0">crwdns278032:0crwdne278032:0</dimen>
+    <dimen name="crwdns278034:0crwdne278034:0">crwdns278036:0crwdne278036:0</dimen>
     <!-- minimum size of hours column in day/week view -->
-    <dimen name="crwdns4779375:0crwdne4779375:0">crwdns4779377:0crwdne4779377:0</dimen>
+    <dimen name="crwdns278038:0crwdne278038:0">crwdns278040:0crwdne278040:0</dimen>
     <!-- margins size of hours column in day/week view -->
-    <dimen name="crwdns4779379:0crwdne4779379:0">crwdns4779381:0crwdne4779381:0</dimen>
-    <dimen name="crwdns4779383:0crwdne4779383:0">crwdns4779385:0crwdne4779385:0</dimen>
+    <dimen name="crwdns278042:0crwdne278042:0">crwdns278044:0crwdne278044:0</dimen>
+    <dimen name="crwdns278046:0crwdne278046:0">crwdns278048:0crwdne278048:0</dimen>
     <!-- size of day header in day and week views  -->
-    <dimen name="crwdns4779387:0crwdne4779387:0">crwdns4779389:0crwdne4779389:0</dimen>
-    <dimen name="crwdns4779391:0crwdne4779391:0">crwdns4779393:0crwdne4779393:0</dimen>
-    <dimen name="crwdns4779395:0crwdne4779395:0">crwdns4779397:0crwdne4779397:0</dimen>
-    <dimen name="crwdns4779399:0crwdne4779399:0">crwdns4779401:0crwdne4779401:0</dimen>
-    <dimen name="crwdns4779403:0crwdne4779403:0">crwdns4779405:0crwdne4779405:0</dimen>
-    <dimen name="crwdns4779407:0crwdne4779407:0">crwdns4779409:0crwdne4779409:0</dimen>
-    <dimen name="crwdns4779411:0crwdne4779411:0">crwdns4779413:0crwdne4779413:0</dimen>
-    <dimen name="crwdns4779415:0crwdne4779415:0">crwdns4779417:0crwdne4779417:0</dimen>
-    <dimen name="crwdns4779419:0crwdne4779419:0">crwdns4779421:0crwdne4779421:0</dimen>
-    <dimen name="crwdns4779423:0crwdne4779423:0">crwdns4779425:0crwdne4779425:0</dimen>
-    <dimen name="crwdns4779427:0crwdne4779427:0">crwdns4779429:0crwdne4779429:0</dimen>
-    <dimen name="crwdns4779431:0crwdne4779431:0">crwdns4779433:0crwdne4779433:0</dimen>
-    <dimen name="crwdns4779435:0crwdne4779435:0">crwdns4779437:0crwdne4779437:0</dimen>
-    <dimen name="crwdns4779439:0crwdne4779439:0">crwdns4779441:0crwdne4779441:0</dimen>
-    <dimen name="crwdns4779443:0crwdne4779443:0">crwdns4779445:0crwdne4779445:0</dimen>
-    <dimen name="crwdns4779447:0crwdne4779447:0">crwdns4779449:0crwdne4779449:0</dimen>
-    <dimen name="crwdns4779451:0crwdne4779451:0">crwdns4779453:0crwdne4779453:0</dimen>
-    <dimen name="crwdns4779455:0crwdne4779455:0">crwdns4779457:0crwdne4779457:0</dimen>
-    <dimen name="crwdns4779459:0crwdne4779459:0">crwdns4779461:0crwdne4779461:0</dimen>
-    <dimen name="crwdns4779463:0crwdne4779463:0">crwdns4779465:0crwdne4779465:0</dimen>
+    <dimen name="crwdns278050:0crwdne278050:0">crwdns278052:0crwdne278052:0</dimen>
+    <dimen name="crwdns278054:0crwdne278054:0">crwdns278056:0crwdne278056:0</dimen>
+    <dimen name="crwdns278058:0crwdne278058:0">crwdns278060:0crwdne278060:0</dimen>
+    <dimen name="crwdns278062:0crwdne278062:0">crwdns278064:0crwdne278064:0</dimen>
+    <dimen name="crwdns278066:0crwdne278066:0">crwdns278068:0crwdne278068:0</dimen>
+    <dimen name="crwdns278070:0crwdne278070:0">crwdns278072:0crwdne278072:0</dimen>
+    <dimen name="crwdns278074:0crwdne278074:0">crwdns278076:0crwdne278076:0</dimen>
+    <dimen name="crwdns278078:0crwdne278078:0">crwdns278080:0crwdne278080:0</dimen>
+    <dimen name="crwdns278082:0crwdne278082:0">crwdns278084:0crwdne278084:0</dimen>
+    <dimen name="crwdns278086:0crwdne278086:0">crwdns278088:0crwdne278088:0</dimen>
+    <dimen name="crwdns278090:0crwdne278090:0">crwdns278092:0crwdne278092:0</dimen>
+    <dimen name="crwdns278094:0crwdne278094:0">crwdns278096:0crwdne278096:0</dimen>
+    <dimen name="crwdns278098:0crwdne278098:0">crwdns278100:0crwdne278100:0</dimen>
+    <dimen name="crwdns278102:0crwdne278102:0">crwdns278104:0crwdne278104:0</dimen>
+    <dimen name="crwdns278106:0crwdne278106:0">crwdns278108:0crwdne278108:0</dimen>
+    <dimen name="crwdns278110:0crwdne278110:0">crwdns278112:0crwdne278112:0</dimen>
+    <dimen name="crwdns278114:0crwdne278114:0">crwdns278116:0crwdne278116:0</dimen>
+    <dimen name="crwdns278118:0crwdne278118:0">crwdns278120:0crwdne278120:0</dimen>
+    <dimen name="crwdns278122:0crwdne278122:0">crwdns278124:0crwdne278124:0</dimen>
+    <dimen name="crwdns278126:0crwdne278126:0">crwdns278128:0crwdne278128:0</dimen>
 
-    <dimen name="crwdns4779467:0crwdne4779467:0">crwdns4779469:0crwdne4779469:0</dimen>
-    <dimen name="crwdns4779471:0crwdne4779471:0">crwdns4779473:0crwdne4779473:0</dimen>
+    <dimen name="crwdns278130:0crwdne278130:0">crwdns278132:0crwdne278132:0</dimen>
+    <dimen name="crwdns278134:0crwdne278134:0">crwdns278136:0crwdne278136:0</dimen>
 </resources>

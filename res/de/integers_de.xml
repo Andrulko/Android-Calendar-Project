@@ -12,26 +12,26 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- size of event title font in month view  -->
-    <integer name="crwdns278138:0crwdne278138:0">crwdns278140:0crwdne278140:0</integer>
+    <integer name="text_size_event_title">14</integer>
     <!-- size of day date font in month view  -->
-    <integer name="crwdns278142:0crwdne278142:0">crwdns278144:0crwdne278144:0</integer>
+    <integer name="text_size_month_number">14</integer>
     <!-- max number of lines in the description without showing More/Less button  -->
-    <integer name="crwdns278146:0crwdne278146:0">crwdns278148:0crwdne278148:0</integer>
+    <integer name="event_info_desc_line_num">8</integer>
     <!-- The alpha level of photos of attendees that didn't respond -->
-    <integer name="crwdns278150:0crwdne278150:0">crwdns278152:0crwdne278152:0</integer>
+    <integer name="noresponse_attendee_photo_alpha_level">64</integer>
     <!-- The default alpha level of photos of attendees -->
-    <integer name="crwdns278154:0crwdne278154:0">crwdns278156:0crwdne278156:0</integer>
+    <integer name="default_attendee_photo_alpha_level">255</integer>
     <!-- margin between the day number and the edge of the day in month view -->
-    <integer name="crwdns278158:0crwdne278158:0">crwdns278160:0crwdne278160:0</integer>
+    <integer name="month_day_number_margin">6</integer>
     <!-- The size of the color chip in the agenda view for all day events -->
-    <integer name="crwdns278162:0crwdne278162:0">crwdns278164:0crwdne278164:0</integer>
+    <integer name="color_chip_all_day_height">48</integer>
     <!-- The size of the color chip in the agenda view -->
-    <integer name="crwdns278166:0crwdne278166:0">crwdns278168:0crwdne278168:0</integer>
+    <integer name="color_chip_height">24</integer>
     <!-- The time of day in minutes usually considered the start of the work day, eg. 6am in the US -->
-    <integer name="crwdns278170:0crwdne278170:0">crwdns278172:0crwdne278172:0</integer>
+    <integer name="work_start_minutes">360</integer>
     <!-- The time of day in minutes usually considered the end of the work day, eg. 8pm in the US -->
-    <integer name="crwdns278174:0crwdne278174:0">crwdns278176:0crwdne278176:0</integer>
+    <integer name="work_end_minutes">1200</integer>
     <!-- The time (in milliseconds) to scroll in or out the mini month and calendar controls -->
-    <integer name="crwdns278178:0crwdne278178:0">crwdns278180:0crwdne278180:0</integer>
+    <integer name="calendar_controls_animation_time">400</integer>
 
 </resources>
