@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2011 The Android Open Source Project Licensed under the
+    Apache License, Version 2.0 (the "License"); you may not use this file
+    except in compliance with the License. You may obtain a copy of the
+    License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by
+    applicable law or agreed to in writing, software distributed under the
+    License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+    CONDITIONS OF ANY KIND, either express or implied. See the License for
+    the specific language governing permissions and limitations under the
+    License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- turn on/off the mini-calendar and calendar picker -->
+    <!-- supported only for x-large devices  -->
+    <bool name="crwdns271832:0crwdne271832:0">crwdns271834:0crwdne271834:0</bool>
+    <!-- turn on/off month with agenda view -->
+    <!-- not supported for X-large devices -->
+    <bool name="crwdns271836:0crwdne271836:0">crwdns271838:0crwdne271838:0</bool>
+    <!-- when on, shows details of event in month view, when off, shows busy bits -->
+    <!-- the "show details" mode is recommended for devices with large screens -->
+    <bool name="crwdns271840:0crwdne271840:0">crwdns271842:0crwdne271842:0</bool>
+    <!-- when on, shows the event next to the agenda list,
+         when off, shows the event on top of the agenda list after it was clicked. -->
+    <bool name="crwdns271844:0crwdne271844:0">crwdns271846:0crwdne271846:0</bool>
+    <!-- when on, event info launched from agenda view is shown in full screen, -->
+    <!-- when off, shown as a popup. -->
+    <bool name="crwdns271848:0crwdne271848:0">crwdns271850:0crwdne271850:0</bool>
+    <!-- when on, event info launched from day/week/month view is shown in full screen, -->
+    <!-- when off, shown as a popup. -->
+    <bool name="crwdns271852:0crwdne271852:0">crwdns271854:0crwdne271854:0</bool>
+    <!--  A global var used to tablet vs phone settings -->
+    <bool name="crwdns271856:0crwdne271856:0">crwdns271858:0crwdne271858:0</bool>
+    <!--  A global var used to set the main layout theme (one pane vs multiple panes) -->
+    <bool name="crwdns271860:0crwdne271860:0">crwdns271862:0crwdne271862:0</bool>
+</resources>
