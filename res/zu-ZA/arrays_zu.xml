@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Choices for the "Reminder method" spinner.
+         These must be kept in sync with the reminder_methods_values array.
+         [CHAR LIMIT=10]
+    -->
+    <string-array name="reminder_methods_labels">
+        <item>crwdns273196:0crwdne273196:0</item>
+        <item>crwdns273198:0crwdne273198:0</item>
+        <item>crwdns273200:0crwdne273200:0</item>
+        <item>crwdns273202:0crwdne273202:0</item>
+    </string-array>
+    <!-- This maps reminder_methods_labels to internal constants. -->
+    <!-- Choices for the "Reminder minutes" spinner.
+         These must be kept in sync with the reminder_minutes_values array.
+         For consistency, the format should match what
+         EventViewUtils.constructReminderLabel() generates.  (TODO: eliminate
+         this and just generate the list from reminder_minutes_values?)
+         [CHAR LIMIT=15]
+    -->
+    <string-array name="reminder_minutes_labels">
+        <item>crwdns273204:0crwdne273204:0</item>
+        <item>crwdns273206:0crwdne273206:0</item>
+        <item>crwdns273208:0crwdne273208:0</item>
+        <item>crwdns273210:0crwdne273210:0</item>
+        <item>crwdns273212:0crwdne273212:0</item>
+        <item>crwdns273214:0crwdne273214:0</item>
+        <item>crwdns273216:0crwdne273216:0</item>
+        <item>crwdns273218:0crwdne273218:0</item>
+        <item>crwdns273220:0crwdne273220:0</item>
+        <item>crwdns273222:0crwdne273222:0</item>
+        <item>crwdns273224:0crwdne273224:0</item>
+        <item>crwdns273226:0crwdne273226:0</item>
+        <item>crwdns273228:0crwdne273228:0</item>
+        <item>crwdns273230:0crwdne273230:0</item>
+        <item>crwdns273232:0crwdne273232:0</item>
+        <item>crwdns273234:0crwdne273234:0</item>
+    </string-array>
+    <!-- Choices for the "Reminder minutes" spinner in the settings.
+         These must be kept in sync with the preferences_default_reminder_values array.
+         [CHAR LIMIT=12]
+    -->
+    <string-array name="preferences_default_reminder_labels">
+        <item>crwdns273236:0crwdne273236:0</item>
+        <item>crwdns273238:0crwdne273238:0</item>
+        <item>crwdns273240:0crwdne273240:0</item>
+        <item>crwdns273242:0crwdne273242:0</item>
+        <item>crwdns273244:0crwdne273244:0</item>
+        <item>crwdns273246:0crwdne273246:0</item>
+        <item>crwdns273248:0crwdne273248:0</item>
+        <item>crwdns273250:0crwdne273250:0</item>
+        <item>crwdns273252:0crwdne273252:0</item>
+        <item>crwdns273254:0crwdne273254:0</item>
+        <item>crwdns273256:0crwdne273256:0</item>
+        <item>crwdns273258:0crwdne273258:0</item>
+        <item>crwdns273260:0crwdne273260:0</item>
+        <item>crwdns273262:0crwdne273262:0</item>
+        <item>crwdns273264:0crwdne273264:0</item>
+        <item>crwdns273266:0crwdne273266:0</item>
+        <item>crwdns273268:0crwdne273268:0</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>crwdns273304:0crwdne273304:0</item>
+        <item>crwdns273306:0crwdne273306:0</item>
+        <item>crwdns273308:0crwdne273308:0</item>
+        <item>crwdns273310:0crwdne273310:0</item>
+    </string-array>
+    <string-array name="availability">
+        <item>crwdns273320:0crwdne273320:0</item>
+        <item>crwdns273322:0crwdne273322:0</item>
+        <item>crwdns273324:0crwdne273324:0</item>
+    </string-array>
+    <!-- This maps reminder_methods_labels to internal constants. -->
+    <string-array name="visibility">
+        <item>crwdns273326:0crwdne273326:0</item>
+        <item>crwdns273328:0crwdne273328:0</item>
+        <item>crwdns273330:0crwdne273330:0</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>crwdns273332:0crwdne273332:0</item>
+        <item>crwdns273334:0crwdne273334:0</item>
+        <item>crwdns273336:0crwdne273336:0</item>
+        <item>crwdns273338:0crwdne273338:0</item>
+        <item>crwdns273340:0crwdne273340:0</item>
+    </string-array>
+    <!-- Invitation responses -->
+    <string-array name="response_labels1">
+        <item>crwdns273342:0crwdne273342:0</item>
+        <item>crwdns273344:0crwdne273344:0</item>
+        <item>crwdns273346:0crwdne273346:0</item>
+        <item>crwdns273348:0crwdne273348:0</item>
+    </string-array>
+    <!-- The corresponding indices are defined in DeleteEventHelper.java -->
+    <!-- This is a list of choices displayed when the user deletes an event.
+         It only is shown when deleting a recurring event.
+    -->
+    <skip></skip>
+    <string-array name="delete_repeating_labels">
+        <item>crwdns273350:0crwdne273350:0</item>
+        <item>crwdns273352:0crwdne273352:0</item>
+        <item>crwdns273354:0crwdne273354:0</item>
+    </string-array>
+    <!-- DO NOT TRANSLATE These values need to correspond to the indices
+         defined in DeleteEventHelper.java-->
+    <!-- The corresponding indices are defined in DeleteEventHelper.java -->
+    <!-- This is the same array as above (the "delete_repeating_labels" array,
+         except that the first element "Only this event" is removed.  This
+         array exists to work-around a bug in the CalendarProvider and sync
+         code where you can't delete one instance of a repeating event that
+         was created on the phone until that event has been synced to the server.
+     -->
+    <skip></skip>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>crwdns273356:0crwdne273356:0</item>
+        <item>crwdns273358:0crwdne273358:0</item>
+    </string-array>
+    <!-- The corresponding array indices are defined in EventInfoActivity.java -->
+    <skip></skip>
+    <!-- The list of choices displayed in a dialog box when the user wants to
+    respond to an invitation that repeats. -->
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>crwdns273360:0crwdne273360:0</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>crwdns273362:0crwdne273362:0</item>
+    </string-array>
+    <!-- Strings for buttons in drop down menu -->
+    <string-array name="buttons_list">
+        <item>crwdns273364:0crwdne273364:0</item>
+        <item>crwdns273366:0crwdne273366:0</item>
+        <item>crwdns273368:0crwdne273368:0</item>
+        <item>crwdns273370:0crwdne273370:0</item>
+    </string-array>
+    <!-- Experimental options for skipping reminders. [CHAR LIMIT = 37] -->
+    <string-array name="preferences_skip_reminders_labels">
+        <!-- Default choice -->
+        <item>crwdns273372:0crwdne273372:0</item>
+        <!-- Second option, for skipping reminders to events not yet responded to. -->
+        <item>crwdns273374:0crwdne273374:0</item>
+    </string-array>
+    <!-- Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20] -->
+    <string-array name="recurrence_freq">
+        <item>crwdns273380:0crwdne273380:0</item>
+        <item>crwdns273382:0crwdne273382:0</item>
+        <item>crwdns273384:0crwdne273384:0</item>
+        <item>crwdns273386:0crwdne273386:0</item>
+    </string-array>
+    <!-- The following sets of strings describe a monthly recurring event, which will repeat
+         on the Nth WEEKDAY of every month. For example, the 3rd Monday of every month, or
+         the last Sunday. These are set up like this to resolve any gender-matching issues
+         that were present in some languages.
+     -->
+    <!-- Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_sun">
+        <item>crwdns273388:0crwdne273388:0</item>
+        <item>crwdns273390:0crwdne273390:0</item>
+        <item>crwdns273392:0crwdne273392:0</item>
+        <item>crwdns273394:0crwdne273394:0</item>
+        <item>crwdns273396:0crwdne273396:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_mon">
+        <item>crwdns273398:0crwdne273398:0</item>
+        <item>crwdns273400:0crwdne273400:0</item>
+        <item>crwdns273402:0crwdne273402:0</item>
+        <item>crwdns273404:0crwdne273404:0</item>
+        <item>crwdns273406:0crwdne273406:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Tuesday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_tues">
+        <item>crwdns273408:0crwdne273408:0</item>
+        <item>crwdns273410:0crwdne273410:0</item>
+        <item>crwdns273412:0crwdne273412:0</item>
+        <item>crwdns273414:0crwdne273414:0</item>
+        <item>crwdns273416:0crwdne273416:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Wednesday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_wed">
+        <item>crwdns273418:0crwdne273418:0</item>
+        <item>crwdns273420:0crwdne273420:0</item>
+        <item>crwdns273422:0crwdne273422:0</item>
+        <item>crwdns273424:0crwdne273424:0</item>
+        <item>crwdns273426:0crwdne273426:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Thursday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_thurs">
+        <item>crwdns273428:0crwdne273428:0</item>
+        <item>crwdns273430:0crwdne273430:0</item>
+        <item>crwdns273432:0crwdne273432:0</item>
+        <item>crwdns273434:0crwdne273434:0</item>
+        <item>crwdns273436:0crwdne273436:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_fri">
+        <item>crwdns273438:0crwdne273438:0</item>
+        <item>crwdns273440:0crwdne273440:0</item>
+        <item>crwdns273442:0crwdne273442:0</item>
+        <item>crwdns273444:0crwdne273444:0</item>
+        <item>crwdns273446:0crwdne273446:0</item>
+    </string-array>
+    <!-- Repeat a monthly event on the same nth day of every Saturday. [CHAR LIMIT=30] -->
+    <string-array name="repeat_by_nth_sat">
+        <item>crwdns273448:0crwdne273448:0</item>
+        <item>crwdns273450:0crwdne273450:0</item>
+        <item>crwdns273452:0crwdne273452:0</item>
+        <item>crwdns273454:0crwdne273454:0</item>
+        <item>crwdns273456:0crwdne273456:0</item>
+    </string-array>
+</resources>
