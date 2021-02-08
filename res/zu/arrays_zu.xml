@@ -19,10 +19,10 @@
          [CHAR LIMIT=10]
     -->
     <string-array name="reminder_methods_labels">
-        <item>crwdns528:0crwdne528:0</item>
-        <item>crwdns530:0crwdne530:0</item>
-        <item>crwdns532:0crwdne532:0</item>
-        <item>crwdns534:0crwdne534:0</item>
+        <item>crwdns279318:0crwdne279318:0</item>
+        <item>crwdns279320:0crwdne279320:0</item>
+        <item>crwdns279322:0crwdne279322:0</item>
+        <item>crwdns279324:0crwdne279324:0</item>
     </string-array>
     <!-- This maps reminder_methods_labels to internal constants. -->
     <!-- Choices for the "Reminder minutes" spinner.
@@ -33,76 +33,76 @@
          [CHAR LIMIT=15]
     -->
     <string-array name="reminder_minutes_labels">
-        <item>crwdns536:0crwdne536:0</item>
-        <item>crwdns538:0crwdne538:0</item>
-        <item>crwdns540:0crwdne540:0</item>
-        <item>crwdns542:0crwdne542:0</item>
-        <item>crwdns544:0crwdne544:0</item>
-        <item>crwdns546:0crwdne546:0</item>
-        <item>crwdns548:0crwdne548:0</item>
-        <item>crwdns550:0crwdne550:0</item>
-        <item>crwdns552:0crwdne552:0</item>
-        <item>crwdns554:0crwdne554:0</item>
-        <item>crwdns556:0crwdne556:0</item>
-        <item>crwdns558:0crwdne558:0</item>
-        <item>crwdns560:0crwdne560:0</item>
-        <item>crwdns562:0crwdne562:0</item>
-        <item>crwdns564:0crwdne564:0</item>
-        <item>crwdns566:0crwdne566:0</item>
+        <item>crwdns279326:0crwdne279326:0</item>
+        <item>crwdns279328:0crwdne279328:0</item>
+        <item>crwdns279330:0crwdne279330:0</item>
+        <item>crwdns279332:0crwdne279332:0</item>
+        <item>crwdns279334:0crwdne279334:0</item>
+        <item>crwdns279336:0crwdne279336:0</item>
+        <item>crwdns279338:0crwdne279338:0</item>
+        <item>crwdns279340:0crwdne279340:0</item>
+        <item>crwdns279342:0crwdne279342:0</item>
+        <item>crwdns279344:0crwdne279344:0</item>
+        <item>crwdns279346:0crwdne279346:0</item>
+        <item>crwdns279348:0crwdne279348:0</item>
+        <item>crwdns279350:0crwdne279350:0</item>
+        <item>crwdns279352:0crwdne279352:0</item>
+        <item>crwdns279354:0crwdne279354:0</item>
+        <item>crwdns279356:0crwdne279356:0</item>
     </string-array>
     <!-- Choices for the "Reminder minutes" spinner in the settings.
          These must be kept in sync with the preferences_default_reminder_values array.
          [CHAR LIMIT=12]
     -->
     <string-array name="preferences_default_reminder_labels">
-        <item>crwdns568:0crwdne568:0</item>
-        <item>crwdns570:0crwdne570:0</item>
-        <item>crwdns572:0crwdne572:0</item>
-        <item>crwdns574:0crwdne574:0</item>
-        <item>crwdns576:0crwdne576:0</item>
-        <item>crwdns578:0crwdne578:0</item>
-        <item>crwdns580:0crwdne580:0</item>
-        <item>crwdns582:0crwdne582:0</item>
-        <item>crwdns584:0crwdne584:0</item>
-        <item>crwdns586:0crwdne586:0</item>
-        <item>crwdns588:0crwdne588:0</item>
-        <item>crwdns590:0crwdne590:0</item>
-        <item>crwdns592:0crwdne592:0</item>
-        <item>crwdns594:0crwdne594:0</item>
-        <item>crwdns596:0crwdne596:0</item>
-        <item>crwdns598:0crwdne598:0</item>
-        <item>crwdns600:0crwdne600:0</item>
+        <item>crwdns279358:0crwdne279358:0</item>
+        <item>crwdns279360:0crwdne279360:0</item>
+        <item>crwdns279362:0crwdne279362:0</item>
+        <item>crwdns279364:0crwdne279364:0</item>
+        <item>crwdns279366:0crwdne279366:0</item>
+        <item>crwdns279368:0crwdne279368:0</item>
+        <item>crwdns279370:0crwdne279370:0</item>
+        <item>crwdns279372:0crwdne279372:0</item>
+        <item>crwdns279374:0crwdne279374:0</item>
+        <item>crwdns279376:0crwdne279376:0</item>
+        <item>crwdns279378:0crwdne279378:0</item>
+        <item>crwdns279380:0crwdne279380:0</item>
+        <item>crwdns279382:0crwdne279382:0</item>
+        <item>crwdns279384:0crwdne279384:0</item>
+        <item>crwdns279386:0crwdne279386:0</item>
+        <item>crwdns279388:0crwdne279388:0</item>
+        <item>crwdns279390:0crwdne279390:0</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>crwdns636:0crwdne636:0</item>
-        <item>crwdns638:0crwdne638:0</item>
-        <item>crwdns640:0crwdne640:0</item>
-        <item>crwdns642:0crwdne642:0</item>
+        <item>crwdns279426:0crwdne279426:0</item>
+        <item>crwdns279428:0crwdne279428:0</item>
+        <item>crwdns279430:0crwdne279430:0</item>
+        <item>crwdns279432:0crwdne279432:0</item>
     </string-array>
     <string-array name="availability">
-        <item>crwdns652:0crwdne652:0</item>
-        <item>crwdns654:0crwdne654:0</item>
-        <item>crwdns656:0crwdne656:0</item>
+        <item>crwdns279442:0crwdne279442:0</item>
+        <item>crwdns279444:0crwdne279444:0</item>
+        <item>crwdns279446:0crwdne279446:0</item>
     </string-array>
     <!-- This maps reminder_methods_labels to internal constants. -->
     <string-array name="visibility">
-        <item>crwdns658:0crwdne658:0</item>
-        <item>crwdns660:0crwdne660:0</item>
-        <item>crwdns662:0crwdne662:0</item>
+        <item>crwdns279448:0crwdne279448:0</item>
+        <item>crwdns279450:0crwdne279450:0</item>
+        <item>crwdns279452:0crwdne279452:0</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>crwdns664:0crwdne664:0</item>
-        <item>crwdns666:0crwdne666:0</item>
-        <item>crwdns668:0crwdne668:0</item>
-        <item>crwdns670:0crwdne670:0</item>
-        <item>crwdns672:0crwdne672:0</item>
+        <item>crwdns279454:0crwdne279454:0</item>
+        <item>crwdns279456:0crwdne279456:0</item>
+        <item>crwdns279458:0crwdne279458:0</item>
+        <item>crwdns279460:0crwdne279460:0</item>
+        <item>crwdns279462:0crwdne279462:0</item>
     </string-array>
     <!-- Invitation responses -->
     <string-array name="response_labels1">
-        <item>crwdns674:0crwdne674:0</item>
-        <item>crwdns676:0crwdne676:0</item>
-        <item>crwdns678:0crwdne678:0</item>
-        <item>crwdns680:0crwdne680:0</item>
+        <item>crwdns279464:0crwdne279464:0</item>
+        <item>crwdns279466:0crwdne279466:0</item>
+        <item>crwdns279468:0crwdne279468:0</item>
+        <item>crwdns279470:0crwdne279470:0</item>
     </string-array>
     <!-- The corresponding indices are defined in DeleteEventHelper.java -->
     <!-- This is a list of choices displayed when the user deletes an event.
@@ -110,9 +110,9 @@
     -->
     <skip></skip>
     <string-array name="delete_repeating_labels">
-        <item>crwdns682:0crwdne682:0</item>
-        <item>crwdns684:0crwdne684:0</item>
-        <item>crwdns686:0crwdne686:0</item>
+        <item>crwdns279472:0crwdne279472:0</item>
+        <item>crwdns279474:0crwdne279474:0</item>
+        <item>crwdns279476:0crwdne279476:0</item>
     </string-array>
     <!-- DO NOT TRANSLATE These values need to correspond to the indices
          defined in DeleteEventHelper.java-->
@@ -125,8 +125,8 @@
      -->
     <skip></skip>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>crwdns688:0crwdne688:0</item>
-        <item>crwdns690:0crwdne690:0</item>
+        <item>crwdns279478:0crwdne279478:0</item>
+        <item>crwdns279480:0crwdne279480:0</item>
     </string-array>
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
     <skip></skip>
@@ -134,30 +134,30 @@
     respond to an invitation that repeats. -->
     <string-array name="change_response_labels">
         <!-- The choice for responding to only one instance of a repeating event -->
-        <item>crwdns692:0crwdne692:0</item>
+        <item>crwdns279482:0crwdne279482:0</item>
         <!-- The choice for responding to all instances of a repeating event -->
-        <item>crwdns694:0crwdne694:0</item>
+        <item>crwdns279484:0crwdne279484:0</item>
     </string-array>
     <!-- Strings for buttons in drop down menu -->
     <string-array name="buttons_list">
-        <item>crwdns696:0crwdne696:0</item>
-        <item>crwdns698:0crwdne698:0</item>
-        <item>crwdns700:0crwdne700:0</item>
-        <item>crwdns702:0crwdne702:0</item>
+        <item>crwdns279486:0crwdne279486:0</item>
+        <item>crwdns279488:0crwdne279488:0</item>
+        <item>crwdns279490:0crwdne279490:0</item>
+        <item>crwdns279492:0crwdne279492:0</item>
     </string-array>
     <!-- Experimental options for skipping reminders. [CHAR LIMIT = 37] -->
     <string-array name="preferences_skip_reminders_labels">
         <!-- Default choice -->
-        <item>crwdns704:0crwdne704:0</item>
+        <item>crwdns279494:0crwdne279494:0</item>
         <!-- Second option, for skipping reminders to events not yet responded to. -->
-        <item>crwdns706:0crwdne706:0</item>
+        <item>crwdns279496:0crwdne279496:0</item>
     </string-array>
     <!-- Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20] -->
     <string-array name="recurrence_freq">
-        <item>crwdns712:0crwdne712:0</item>
-        <item>crwdns714:0crwdne714:0</item>
-        <item>crwdns716:0crwdne716:0</item>
-        <item>crwdns718:0crwdne718:0</item>
+        <item>crwdns279502:0crwdne279502:0</item>
+        <item>crwdns279504:0crwdne279504:0</item>
+        <item>crwdns279506:0crwdne279506:0</item>
+        <item>crwdns279508:0crwdne279508:0</item>
     </string-array>
     <!-- The following sets of strings describe a monthly recurring event, which will repeat
          on the Nth WEEKDAY of every month. For example, the 3rd Monday of every month, or
@@ -166,58 +166,58 @@
      -->
     <!-- Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sun">
-        <item>crwdns720:0crwdne720:0</item>
-        <item>crwdns722:0crwdne722:0</item>
-        <item>crwdns724:0crwdne724:0</item>
-        <item>crwdns726:0crwdne726:0</item>
-        <item>crwdns728:0crwdne728:0</item>
+        <item>crwdns279510:0crwdne279510:0</item>
+        <item>crwdns279512:0crwdne279512:0</item>
+        <item>crwdns279514:0crwdne279514:0</item>
+        <item>crwdns279516:0crwdne279516:0</item>
+        <item>crwdns279518:0crwdne279518:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_mon">
-        <item>crwdns730:0crwdne730:0</item>
-        <item>crwdns732:0crwdne732:0</item>
-        <item>crwdns734:0crwdne734:0</item>
-        <item>crwdns736:0crwdne736:0</item>
-        <item>crwdns738:0crwdne738:0</item>
+        <item>crwdns279520:0crwdne279520:0</item>
+        <item>crwdns279522:0crwdne279522:0</item>
+        <item>crwdns279524:0crwdne279524:0</item>
+        <item>crwdns279526:0crwdne279526:0</item>
+        <item>crwdns279528:0crwdne279528:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Tuesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_tues">
-        <item>crwdns740:0crwdne740:0</item>
-        <item>crwdns742:0crwdne742:0</item>
-        <item>crwdns744:0crwdne744:0</item>
-        <item>crwdns746:0crwdne746:0</item>
-        <item>crwdns748:0crwdne748:0</item>
+        <item>crwdns279530:0crwdne279530:0</item>
+        <item>crwdns279532:0crwdne279532:0</item>
+        <item>crwdns279534:0crwdne279534:0</item>
+        <item>crwdns279536:0crwdne279536:0</item>
+        <item>crwdns279538:0crwdne279538:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Wednesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_wed">
-        <item>crwdns750:0crwdne750:0</item>
-        <item>crwdns752:0crwdne752:0</item>
-        <item>crwdns754:0crwdne754:0</item>
-        <item>crwdns756:0crwdne756:0</item>
-        <item>crwdns758:0crwdne758:0</item>
+        <item>crwdns279540:0crwdne279540:0</item>
+        <item>crwdns279542:0crwdne279542:0</item>
+        <item>crwdns279544:0crwdne279544:0</item>
+        <item>crwdns279546:0crwdne279546:0</item>
+        <item>crwdns279548:0crwdne279548:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Thursday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_thurs">
-        <item>crwdns760:0crwdne760:0</item>
-        <item>crwdns762:0crwdne762:0</item>
-        <item>crwdns764:0crwdne764:0</item>
-        <item>crwdns766:0crwdne766:0</item>
-        <item>crwdns768:0crwdne768:0</item>
+        <item>crwdns279550:0crwdne279550:0</item>
+        <item>crwdns279552:0crwdne279552:0</item>
+        <item>crwdns279554:0crwdne279554:0</item>
+        <item>crwdns279556:0crwdne279556:0</item>
+        <item>crwdns279558:0crwdne279558:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_fri">
-        <item>crwdns770:0crwdne770:0</item>
-        <item>crwdns772:0crwdne772:0</item>
-        <item>crwdns774:0crwdne774:0</item>
-        <item>crwdns776:0crwdne776:0</item>
-        <item>crwdns778:0crwdne778:0</item>
+        <item>crwdns279560:0crwdne279560:0</item>
+        <item>crwdns279562:0crwdne279562:0</item>
+        <item>crwdns279564:0crwdne279564:0</item>
+        <item>crwdns279566:0crwdne279566:0</item>
+        <item>crwdns279568:0crwdne279568:0</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Saturday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sat">
-        <item>crwdns780:0crwdne780:0</item>
-        <item>crwdns782:0crwdne782:0</item>
-        <item>crwdns784:0crwdne784:0</item>
-        <item>crwdns786:0crwdne786:0</item>
-        <item>crwdns788:0crwdne788:0</item>
+        <item>crwdns279570:0crwdne279570:0</item>
+        <item>crwdns279572:0crwdne279572:0</item>
+        <item>crwdns279574:0crwdne279574:0</item>
+        <item>crwdns279576:0crwdne279576:0</item>
+        <item>crwdns279578:0crwdne279578:0</item>
     </string-array>
 </resources>
