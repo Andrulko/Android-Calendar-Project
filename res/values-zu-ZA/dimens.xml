@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="crwdns7511736:0crwdne7511736:0">crwdns7511738:0crwdne7511738:0</dimen>
+    <dimen name="crwdns7511740:0crwdne7511740:0">crwdns7511742:0crwdne7511742:0</dimen>
+    <dimen name="crwdns7511744:0crwdne7511744:0">crwdns7511746:0crwdne7511746:0</dimen>
+    <dimen name="crwdns7511748:0crwdne7511748:0">crwdns7511750:0crwdne7511750:0</dimen>
+    <dimen name="crwdns7511752:0crwdne7511752:0">crwdns7511754:0crwdne7511754:0</dimen>
+    <dimen name="crwdns7511756:0crwdne7511756:0">crwdns7511758:0crwdne7511758:0</dimen>
+    <dimen name="crwdns7511760:0crwdne7511760:0">crwdns7511762:0crwdne7511762:0</dimen>
+    <dimen name="crwdns7511764:0crwdne7511764:0">crwdns7511766:0crwdne7511766:0</dimen>
+    <dimen name="crwdns7511768:0crwdne7511768:0">crwdns7511770:0crwdne7511770:0</dimen>
+    <dimen name="crwdns7511772:0crwdne7511772:0">crwdns7511774:0crwdne7511774:0</dimen>
+    <dimen name="crwdns7511776:0crwdne7511776:0">crwdns7511778:0crwdne7511778:0</dimen>
+    <dimen name="crwdns7511780:0crwdne7511780:0">crwdns7511782:0crwdne7511782:0</dimen>
+    <dimen name="crwdns7511784:0crwdne7511784:0">crwdns7511786:0crwdne7511786:0</dimen>
+    <!-- minimum size of hours column in day/week view -->
+    <dimen name="crwdns7511788:0crwdne7511788:0">crwdns7511790:0crwdne7511790:0</dimen>
+    <!-- margins size of hours column in day/week view -->
+    <dimen name="crwdns7511792:0crwdne7511792:0">crwdns7511794:0crwdne7511794:0</dimen>
+    <dimen name="crwdns7511796:0crwdne7511796:0">crwdns7511798:0crwdne7511798:0</dimen>
+    <!-- size of day header in day and week views  -->
+    <dimen name="crwdns7511800:0crwdne7511800:0">crwdns7511802:0crwdne7511802:0</dimen>
+    <dimen name="crwdns7511804:0crwdne7511804:0">crwdns7511806:0crwdne7511806:0</dimen>
+    <dimen name="crwdns7511808:0crwdne7511808:0">crwdns7511810:0crwdne7511810:0</dimen>
+    <dimen name="crwdns7511812:0crwdne7511812:0">crwdns7511814:0crwdne7511814:0</dimen>
+    <dimen name="crwdns7511816:0crwdne7511816:0">crwdns7511818:0crwdne7511818:0</dimen>
+    <dimen name="crwdns7511820:0crwdne7511820:0">crwdns7511822:0crwdne7511822:0</dimen>
+    <dimen name="crwdns7511824:0crwdne7511824:0">crwdns7511826:0crwdne7511826:0</dimen>
+    <dimen name="crwdns7511828:0crwdne7511828:0">crwdns7511830:0crwdne7511830:0</dimen>
+    <dimen name="crwdns7511832:0crwdne7511832:0">crwdns7511834:0crwdne7511834:0</dimen>
+    <dimen name="crwdns7511836:0crwdne7511836:0">crwdns7511838:0crwdne7511838:0</dimen>
+    <dimen name="crwdns7511840:0crwdne7511840:0">crwdns7511842:0crwdne7511842:0</dimen>
+    <dimen name="crwdns7511844:0crwdne7511844:0">crwdns7511846:0crwdne7511846:0</dimen>
+    <dimen name="crwdns7511848:0crwdne7511848:0">crwdns7511850:0crwdne7511850:0</dimen>
+    <dimen name="crwdns7511852:0crwdne7511852:0">crwdns7511854:0crwdne7511854:0</dimen>
+    <dimen name="crwdns7511856:0crwdne7511856:0">crwdns7511858:0crwdne7511858:0</dimen>
+    <dimen name="crwdns7511860:0crwdne7511860:0">crwdns7511862:0crwdne7511862:0</dimen>
+    <dimen name="crwdns7511864:0crwdne7511864:0">crwdns7511866:0crwdne7511866:0</dimen>
+    <dimen name="crwdns7511868:0crwdne7511868:0">crwdns7511870:0crwdne7511870:0</dimen>
+    <dimen name="crwdns7511872:0crwdne7511872:0">crwdns7511874:0crwdne7511874:0</dimen>
+    <dimen name="crwdns7511876:0crwdne7511876:0">crwdns7511878:0crwdne7511878:0</dimen>
+
+    <dimen name="crwdns7511880:0crwdne7511880:0">crwdns7511882:0crwdne7511882:0</dimen>
+    <dimen name="crwdns7511884:0crwdne7511884:0">crwdns7511886:0crwdne7511886:0</dimen>
+</resources>
